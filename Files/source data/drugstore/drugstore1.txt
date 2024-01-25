@@ -1,0 +1,268 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3100 Dixie Rd, Mississauga, ON L4Y 2A0, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6089247,
+               "lng" : -79.58546129999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61029937989272,
+                  "lng" : -79.58400197010727
+               },
+               "southwest" : {
+                  "lat" : 43.60759972010727,
+                  "lng" : -79.58670162989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107668560116830120788\"\u003eNicolay Doytchev\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcII0smmkGFzqSCUPnhbP-D6kMdv4h6BLkXHC9l5ikXdcliwG62nTED4vi0Oa7XTAWBeGl6UeLzaHYwE686HVV_qjGazFwLHy115PAFJd8mUmCQpen8jeMVps9PEBMyEyz_db-Va6tB0Gy8l2RiDGWKmoiy-JZXZbZjzJE1FcFnnLGWr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJYbrud5JHK4gRDL4naacLXjc",
+         "plus_code" : {
+            "compound_code" : "JC57+HR Mississauga, Ontario",
+            "global_code" : "87M2JC57+HR"
+         },
+         "rating" : 2.7,
+         "reference" : "ChIJYbrud5JHK4gRDL4naacLXjc",
+         "types" : [
+            "drugstore",
+            "convenience_store",
+            "pharmacy",
+            "beauty_salon",
+            "food",
+            "store",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 73
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "377 Burnhamthorpe Rd E, Mississauga, ON L5A 3Y1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6029046,
+               "lng" : -79.62702779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60420292989272,
+                  "lng" : -79.62600162010727
+               },
+               "southwest" : {
+                  "lat" : 43.60150327010728,
+                  "lng" : -79.62870127989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3376,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111570156771464502640\"\u003eBeri Hurtado\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJhPnmleMOwOLdupot6NDPTGR_2bZEb8cRxLM9oH61xkefB0CGOs01S14WfoDnfSHgQx_Nv2YV0Npgg4-b1sxxHkdvtAjhoCNyVeP5ah7KoPIDih21-ywvLLmPhoNIZoWfg7lJN0YwA0opYxkK51K5n46P6tZ3IUACs2uctCSheBHK3",
+               "width" : 5984
+            }
+         ],
+         "place_id" : "ChIJ-xb4mxVHK4gRPXSF7Kw0eT4",
+         "plus_code" : {
+            "compound_code" : "J93F+55 Mississauga, Ontario",
+            "global_code" : "87M2J93F+55"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJ-xb4mxVHK4gRPXSF7Kw0eT4",
+         "types" : [
+            "drugstore",
+            "convenience_store",
+            "pharmacy",
+            "beauty_salon",
+            "food",
+            "store",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 35
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1250 S Service Rd, Mississauga, ON L5E 1V4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.592395,
+               "lng" : -79.570572
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59368612989272,
+                  "lng" : -79.56910507010727
+               },
+               "southwest" : {
+                  "lat" : 43.59098647010727,
+                  "lng" : -79.57180472989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "DRUGStore Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJj_-i605GK4gRXTeMkECd1K4",
+         "plus_code" : {
+            "compound_code" : "HCRH+XQ Mississauga, Ontario",
+            "global_code" : "87M2HCRH+XQ"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJj_-i605GK4gRXTeMkECd1K4",
+         "types" : [
+            "pharmacy",
+            "drugstore",
+            "store",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 7
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Medical Associates Previously called Main Drug Mart, 2200 Dixie Rd Inside, Dixie Rd, Mississauga, ON L4Y 1Z4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6015098,
+               "lng" : -79.5734382
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60289432989271,
+                  "lng" : -79.57203992010727
+               },
+               "southwest" : {
+                  "lat" : 43.60019467010727,
+                  "lng" : -79.57473957989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/pharmacy-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/pharmacy_pinlet",
+         "name" : "MDM Pharmacy",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5237,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117581394943478626763\"\u003eMain Drug Mart\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJkrmQiFzf3udo0xG8a4ntNBjWJl_GA4TCVAQK3d7b3n2bdt70ga0aFNDmJZqBNsepTDMWzmp5-PISbbp9238ScJOxG3Lpdx0DGERE_ZDE8EVXL4n_BKIVy2c9mmQStaoO9zuXDOK_xSRB31JjnHWPeJoPoXhEJlXFA1svgrlqRMnHP",
+               "width" : 7851
+            }
+         ],
+         "place_id" : "ChIJ9V2IQOhHK4gRGvOAjLDkg0Q",
+         "plus_code" : {
+            "compound_code" : "JC2G+JJ Mississauga, Ontario",
+            "global_code" : "87M2JC2G+JJ"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ9V2IQOhHK4gRGvOAjLDkg0Q",
+         "types" : [
+            "pharmacy",
+            "drugstore",
+            "hospital",
+            "store",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 42
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6087196,
+               "lng" : -79.56028809999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61009372989272,
+                  "lng" : -79.55892892010728
+               },
+               "southwest" : {
+                  "lat" : 43.60739407010728,
+                  "lng" : -79.56162857989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#4B96F3",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rexall",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117014216738313154927\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL1j87bqr7flp8z3Z0WDS4eE_nbTxNSClmdu_-3mEdBlTycKctV2YyOt9HI2dhBRvpW20656OTA6R7n9dWQxLrI06GT7YBorpnfI2OL7HBYhv7B6lserS_iADo8vRD3udg0WKWHwpFxfpByYBgNvj1j5KpcfvevR7mCNdDZK6VuBmIO",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJBQ0SAAhIK4gR0irNz6zAdTw",
+         "plus_code" : {
+            "compound_code" : "JC5Q+FV Etobicoke, Toronto, ON",
+            "global_code" : "87M2JC5Q+FV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJBQ0SAAhIK4gR0irNz6zAdTw",
+         "types" : [
+            "drugstore",
+            "pharmacy",
+            "store",
+            "point_of_interest",
+            "health",
+            "establishment"
+         ],
+         "user_ratings_total" : 5
+      }
+   ],
+   "status" : "OK"
+}

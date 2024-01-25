@@ -1,0 +1,6 @@
+{
+   "error_message" : "See documentation for valid queries. https://developers.google.com/maps/documentation/places/web-service/search-text#TextSearchRequests",
+   "html_attributions" : [],
+   "results" : [],
+   "status" : "INVALID_REQUEST"
+}

@@ -1,0 +1,963 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aaw_FcJnRv7lUDIgU_RlkJVhMQNqHstAj-nktp3j-5Pct-6f-hJfRB1josmPQgU_PozznEKIrtqD5xSlvn4KcgoGNm5cCfuK__MTRz_ojO1FiFZpnJKTGw9ZR_bwW-TOnDCMxt9QVX0Jiu7g02RK3U5o0MoMdA-9iKyAsaBLFtzEfK-3wv-FFfNkiu1QmENZkysJI4KIcSz5EjyUiMoK85gHbwVf9yHsP5v1CyTbij2G7l9_S7KHQtGGUFjl6tIw5nB65vfhBDFjJS0Y7RFDLkYQFBhaWuWz1DCnaF301YcaWB1DczhzHMv6EtCR7vYIT3p6H21OQ82PLoB32GmYV8EsLqg55jpfv0KoC1CmsSrW5sMkOLKMZkkzuWh7sTKZBEHl2wE",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1145 Dundas St E, Mississauga, ON L4Y 2C3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.60445560000001,
+               "lng" : -79.58997819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60588667989273,
+                  "lng" : -79.58857667010727
+               },
+               "southwest" : {
+                  "lat" : 43.60318702010728,
+                  "lng" : -79.59127632989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Keeping Koi Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112746204332397037969\"\u003eV\u00e2n Vinnce\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ0QWV8QX0TZ8jpzDuR9jcEWsGeOfHBC1IXxsKPocRcX0z2UTYP8LZkCOs1XEZc0sdt3V3Lsv1E_x7lGsw2a58D6GA8K-5zXae0tViTHP62CyrqFpQ0LoLVCVez2xAhfiU6XuSTjpU85veXjow01kN2wIMa57br9p_XmXUtJTvnYbNK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJr-xI3RZHK4gRpPLmOnleCp8",
+         "plus_code" : {
+            "compound_code" : "JC36+Q2 Mississauga, Ontario",
+            "global_code" : "87M2JC36+Q2"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJr-xI3RZHK4gRpPLmOnleCp8",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 192
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3150 Golden Orchard Dr #1504, Mississauga, ON L4Y 3T7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.611959,
+               "lng" : -79.5887432
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61351842989272,
+                  "lng" : -79.58770952010728
+               },
+               "southwest" : {
+                  "lat" : 43.61081877010728,
+                  "lng" : -79.59040917989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Finjan Coffee Reading",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJNYw8DY5HK4gR_bGEh_IprcY",
+         "plus_code" : {
+            "compound_code" : "JC66+PH Mississauga, Ontario",
+            "global_code" : "87M2JC66+PH"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJNYw8DY5HK4gR_bGEh_IprcY",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1077 N Service Rd #8, Mississauga, ON L4Y 1A6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5915198,
+               "lng" : -79.57625419999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59276817989273,
+                  "lng" : -79.57496722010728
+               },
+               "southwest" : {
+                  "lat" : 43.59006852010729,
+                  "lng" : -79.57766687989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Capital B Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107344804229159254157\"\u003eArun Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKwFpx4PMWKvgnm76QYS4nwkzY-ofXoyU-LG5ctkqmJ3x_6nzgehpwSXQdrpBp3OWl1xApPv7aKwXG8tts7WN5AfmCZKDhb_rQPXiRXA0PZKXrVP18NUDFIpxdGdTm1hvC_E4eaT0kpz7TZjUmUmbU4GEnDvxdfrOgAq-gORi3FwbWP",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJB1NuEKFHK4gR1icJzFSaEDM",
+         "plus_code" : {
+            "compound_code" : "HCRF+JF Mississauga, Ontario",
+            "global_code" : "87M2HCRF+JF"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJB1NuEKFHK4gR1icJzFSaEDM",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 186
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "922 Dundas St E Unit A1, Mississauga, ON L4Y 2B8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5987881,
+               "lng" : -79.5940983
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60020117989271,
+                  "lng" : -79.59267432010728
+               },
+               "southwest" : {
+                  "lat" : 43.59750152010727,
+                  "lng" : -79.59537397989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "B.A.D Art Kanko Caf\u00e8",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJ7U18b_RHK4gRNzS65HMKT_E",
+         "plus_code" : {
+            "compound_code" : "HCX4+G9 Mississauga, Ontario",
+            "global_code" : "87M2HCX4+G9"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ7U18b_RHK4gRNzS65HMKT_E",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "*Located Inside REVIBE, 2290 Dixie Rd, Mississauga, ON L4Y 1Z4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6031589,
+               "lng" : -79.5761912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60463497989272,
+                  "lng" : -79.57469477010727
+               },
+               "southwest" : {
+                  "lat" : 43.60193532010728,
+                  "lng" : -79.57739442989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "The Cold Pressery",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102801969658000279755\"\u003eBrian Silva\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIIDAWsKNJppY1HXCnVHmOZ_X767NRvWAIlWFNoSHRcAqJZzjOYTFoVVaTs7BmZH8wU8geOLZ5eSOZ2-02FV3IjWRfuSnBPFhpOyu0h1cnCXAeSGB9Eos_v-21_VCsY23qJtb6WTkWlCZjGzGbkdv7QOk6bTWKtW1RA4_mzwMYgTyqg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxW1d8TBHK4gR_hnD1J2qiT4",
+         "plus_code" : {
+            "compound_code" : "JC3F+7G Mississauga, Ontario",
+            "global_code" : "87M2JC3F+7G"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJxW1d8TBHK4gR_hnD1J2qiT4",
+         "types" : [ "cafe", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 652
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1125 Bloor St, Mississauga, ON L4Y 2N6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.611053,
+               "lng" : -79.60046869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61240217989273,
+                  "lng" : -79.59910357010727
+               },
+               "southwest" : {
+                  "lat" : 43.60970252010728,
+                  "lng" : -79.60180322989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3984,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100849623535103854080\"\u003eA Z\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK8YZYSk9QfmljLhUxDyYiOPkyJG9Lf4HEwHxiTFzlBd7yCxkGe1UjYpfhLtL926bdLIcSVI1kkcHJjgmZqONNHmiBOUeBcSCd0dYJlX1BHYrMA7dpNq3bcqfTMgOnqGhefyiWpVtKJn95ikLPwL8oDedA30LoDuIIzrreuGjYKTeE_",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJ0z8Xn5xHK4gRoolUR1cuNfk",
+         "plus_code" : {
+            "compound_code" : "J96X+CQ Mississauga, Ontario",
+            "global_code" : "87M2J96X+CQ"
+         },
+         "price_level" : 1,
+         "rating" : 3.7,
+         "reference" : "ChIJ0z8Xn5xHK4gRoolUR1cuNfk",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 437
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1327 Dundas St E, Mississauga, ON L4Y 2C7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6083556,
+               "lng" : -79.5858523
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60976712989272,
+                  "lng" : -79.58442557010729
+               },
+               "southwest" : {
+                  "lat" : 43.60706747010727,
+                  "lng" : -79.58712522989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104133708915153901790\"\u003e104133708915153901790\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIR1auFjF1BG2pTEx1Q9HJMm6yRHCfuWetuQnf7GSrx71C7DwatjpPBPyi3GgZGPHdNeNiJU6LXXWAJUtYzQenVT5flogkW-Ufq-KZTcBfMHgyjNoyyRkp_XJVC3RPcHu5Vx62ipUN-4MOdSW10QRCuE8M6fMGRzMyGu7nPLfpVimj0",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJtVJWBpNHK4gR6QEa25RbVkM",
+         "plus_code" : {
+            "compound_code" : "JC57+8M Mississauga, Ontario",
+            "global_code" : "87M2JC57+8M"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJtVJWBpNHK4gR6QEa25RbVkM",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 979
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "799 Dundas St E, Mississauga, ON L4Y 2B7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5970525,
+               "lng" : -79.59797189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59836982989273,
+                  "lng" : -79.59656872010727
+               },
+               "southwest" : {
+                  "lat" : 43.59567017010728,
+                  "lng" : -79.59926837989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117673994842645562222\"\u003eTerence Dow\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLc6rpdpXhaXY8shz1vytq0oQaCj5ErXKOq6eL4EDx-QO1WkL4eQfmdvslyEMEaFXWSqlxSI7wWRypFVWNT4mcR7Drdmc7MG60HQboSLpijU2l1LgYSfi3w9O-PdYqrz24faXjPi8kon1UsA0o2zwtWfoEjgHkzbM1WIBR3dArMFFXd",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC5-LgKRHK4gRFQob7kX9duQ",
+         "plus_code" : {
+            "compound_code" : "HCW2+RR Mississauga, Ontario",
+            "global_code" : "87M2HCW2+RR"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJC5-LgKRHK4gRFQob7kX9duQ",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 969
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1050 Dundas St E, Mississauga, ON L4Y 2C1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6020548,
+               "lng" : -79.5912125
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60336407989271,
+                  "lng" : -79.58996697010727
+               },
+               "southwest" : {
+                  "lat" : 43.60066442010727,
+                  "lng" : -79.59266662989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "McDonald's",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3984,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100341574840465366426\"\u003eWilliam Sue\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJhChKmE-uaeBe5d-PSxLPS0tPS6sqblofxvjgrrcOBFSVvimkg-mVQDVZStTuTkgIWNbOFyZOANK0KLVacpuFUoQU_Th-0c-H1U7TAKW7ZExtcbg79ADrktahVWfOCCqOFnaJY5J4sXHMWXuyhyYq-77K6qi3uPPxC4fHokO30vKnC",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJU3_saJZHK4gRKrWm0o9iodU",
+         "plus_code" : {
+            "compound_code" : "JC25+RG Mississauga, Ontario",
+            "global_code" : "87M2JC25+RG"
+         },
+         "price_level" : 1,
+         "rating" : 3.5,
+         "reference" : "ChIJU3_saJZHK4gRKrWm0o9iodU",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 2444
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3631 Dixie Rd, Mississauga, ON L4Y 4H4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6219086,
+               "lng" : -79.6008624
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62324907989272,
+                  "lng" : -79.59948787010728
+               },
+               "southwest" : {
+                  "lat" : 43.62054942010728,
+                  "lng" : -79.60218752989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+         "name" : "Arkady",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110473070096044024542\"\u003eOleg A\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKq5XJMU7jXBTbYNUlNkBk5KYe3u3KSUD0c72fPwMcHXtvj6YbxlxfTsAVWI_0IB_fwF6w8tYN_JloFfFuOK1bYCcDMDQoW_wvhpmeR68ZHJ3otmO0DY9X5Et5QwDWvvrP6C9Hy0wH-f2SI22bW1SQAlY1vp6jFCoqVjQS8U2Z7fVuH",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUVu7mIBHK4gRjb2fHcX1HfY",
+         "plus_code" : {
+            "compound_code" : "J9CX+QJ Mississauga, Ontario",
+            "global_code" : "87M2J9CX+QJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJUVu7mIBHK4gRjb2fHcX1HfY",
+         "types" : [ "cafe", "restaurant", "point_of_interest", "food", "establishment" ],
+         "user_ratings_total" : 729
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4141 Dixie Rd, Mississauga, ON L4W 1V5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.625659,
+               "lng" : -79.604664
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62724307989273,
+                  "lng" : -79.60336467010728
+               },
+               "southwest" : {
+                  "lat" : 43.62454342010728,
+                  "lng" : -79.60606432989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Coffee Time",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112039912312748517555\"\u003eStefan Milisic\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcISSSy8v39yijVaYrlZGfuBKPeISsy5z2URYNKbwcteOVfCv3sSz003c0wxJoZ9Zh_wFWEttlnfz1bww_lA2K3eTpuJrSuZPGlwGZvkUB2PZ23U5FLDjyw-aYThrGJHppseyBua0-_Bc6agxYDA5zPFFAVAEpHzVM4kdzf6LFbpJSzD",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJmQKK6YA4K4gR1I_1b9PAQ7Q",
+         "plus_code" : {
+            "compound_code" : "J9GW+74 Mississauga, Ontario",
+            "global_code" : "87M2J9GW+74"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJmQKK6YA4K4gR1I_1b9PAQ7Q",
+         "types" : [
+            "bakery",
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 15
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3024 Hurontario St, Mississauga, ON L5B 4M4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5807442,
+               "lng" : -79.6175736
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.58210667989271,
+                  "lng" : -79.61630012010728
+               },
+               "southwest" : {
+                  "lat" : 43.57940702010726,
+                  "lng" : -79.61899977989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Halo Espresso Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115171852736008966000\"\u003eChris Solo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJqLYPswHipRKeX0KIiurfvrhyWrFcHaPWviSI1x9r0aMUTZ2hPY8OBlW8mWK4ur6xXcpxqih5RCvn9ziw3hAok5uanvtntIxddq3aRBZ1u561Xovegvwz40Nj7rtMDL5DMcqaWuob10jWzJTkG01j9BSyOka1bYAQTS6E4DZeUUe5G",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ-UBcMtBHK4gRn3G28nTvuag",
+         "plus_code" : {
+            "compound_code" : "H9JJ+7X Mississauga, Ontario",
+            "global_code" : "87M2H9JJ+7X"
+         },
+         "price_level" : 2,
+         "rating" : 4.6,
+         "reference" : "ChIJ-UBcMtBHK4gRn3G28nTvuag",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 429
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2427 Cawthra Rd, Mississauga, ON L5A 2X1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5917749,
+               "lng" : -79.5952016
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59303232989272,
+                  "lng" : -79.59399177010728
+               },
+               "southwest" : {
+                  "lat" : 43.59033267010727,
+                  "lng" : -79.59669142989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100431336436280061633\"\u003eTaran Bali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIbt60SxnMAJg-UIoTw68pZDXT8oHw_Gxq50vbDHyIaBsYupBIR3YdM27RnpKtps1twZfVsa1QP-DjWClxb0obIxP9hQljSfZ62q4RNWQ1VD6OZXKE21iiey5b9Psnxcwv7w7LQeSz-FMfljpTuFQg3Uu-6U8e14-hQE_wg7DetjtxU",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJA7a2wK9HK4gRZ0iOTUens9o",
+         "plus_code" : {
+            "compound_code" : "HCR3+PW Mississauga, Ontario",
+            "global_code" : "87M2HCR3+PW"
+         },
+         "price_level" : 1,
+         "rating" : 3.9,
+         "reference" : "ChIJA7a2wK9HK4gRZ0iOTUens9o",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1044
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1333 Tonolli Rd, Mississauga, ON L4Y 4C2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6039024,
+               "lng" : -79.57948929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60521277989272,
+                  "lng" : -79.57807817010728
+               },
+               "southwest" : {
+                  "lat" : 43.60251312010728,
+                  "lng" : -79.58077782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "SingleJo Coffee CANADA",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 985,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106233203413224484027\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJirdJidcrUICINq2qYPeUucGWE_XIR-oFiYfNRv_rWNfZW5sDIoztmnbD6MgYrO-Wze_yVIGGkc1HEx15yDC4WjRUwdVGt98_-1kQ_JXhrgxTvEcdUMeLliAuBQhnYfIqDuGEBpInRfq508mZdI7OcX8DgHA2FJ5qlA5VbD-eeJs8",
+               "width" : 830
+            }
+         ],
+         "place_id" : "ChIJAQg_7-tHK4gRgc3a2vIZXsQ",
+         "plus_code" : {
+            "compound_code" : "JC3C+H6 Mississauga, Ontario",
+            "global_code" : "87M2JC3C+H6"
+         },
+         "rating" : 3,
+         "reference" : "ChIJAQg_7-tHK4gRgc3a2vIZXsQ",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "90 Burnhamthorpe Rd W, Mississauga, ON L5B 3C3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5913913,
+               "lng" : -79.6369756
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59275272989272,
+                  "lng" : -79.63572552010727
+               },
+               "southwest" : {
+                  "lat" : 43.59005307010728,
+                  "lng" : -79.63842517989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Cocoberry Cafe",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116731993699219654835\"\u003eYao Nan Chu\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIz-mmxUU-Awk33ivAXbxZRIunQSekMXY9HGWvbT5Pw2Ph1lLfkY7VU10ayyya8NJzXJrppLLv2O3wACy8U67uKaGUiPSj-YPPejZz_XMpd6rmWiB7dJzEAHUVHJMew8PI3Mp4i_ziz7LXXCQvC1q6KigU33IjbEyXC0vkpoB6w15y7",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJwSIMdCZHK4gRe2-MgyvHiOk",
+         "plus_code" : {
+            "compound_code" : "H9R7+H6 Mississauga, Ontario",
+            "global_code" : "87M2H9R7+H6"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJwSIMdCZHK4gRe2-MgyvHiOk",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 9
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Creekside Crossing, 1560 Dundas St E Building C3, Mississauga, ON L4X 1L4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6120826,
+               "lng" : -79.5784912
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61345587989272,
+                  "lng" : -79.57715197010728
+               },
+               "southwest" : {
+                  "lat" : 43.61075622010728,
+                  "lng" : -79.57985162989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Starbucks",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109655778398905826058\"\u003eNancy Gow\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK-Ou5oybOkrxWbRYSAbuk-hyW60juB9sTsScxVRI1sZKnmsW4MwJagIgOnHSRljCPCMGKUyqJ0euhwNCv1dBuijnElU48OCMeOPdBvaVbyHycItPL1lUEc4d3m-8ODftIRB6TWnKIDMSMnoOS5_jOF3rhAcmeWedx8Oj6V6drv6b-J",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ1__Kr_NHK4gRgjoPYppGs_w",
+         "plus_code" : {
+            "compound_code" : "JC6C+RJ Mississauga, Ontario",
+            "global_code" : "87M2JC6C+RJ"
+         },
+         "price_level" : 2,
+         "rating" : 4.2,
+         "reference" : "ChIJ1__Kr_NHK4gRgjoPYppGs_w",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 506
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "51 Village Centre Pl, Mississauga, ON L4Z 1V9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6009362,
+               "lng" : -79.64149329999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60224407989272,
+                  "lng" : -79.64025012010727
+               },
+               "southwest" : {
+                  "lat" : 43.59954442010727,
+                  "lng" : -79.6429497798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Levant Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110795934973591723709\"\u003eDistrict z416\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK5ga-gH7-TTt_meZJvX6PTydt2hLAADGjNS03KIjO9NceS1eeXkl3Tyj7ZtQL-YYmBSn6fLsS6gujteFotsTPsC8962_5st2auZuDuj5beAz4YVDQXXi2QtCKBZv7OCaxTj0GSKrubU28pepVqnZI-EgY02WDjHhm_lmZxlHG0yIOt",
+               "width" : 5472
+            }
+         ],
+         "place_id" : "ChIJrRW83jBHK4gRJ3ea8686qfo",
+         "plus_code" : {
+            "compound_code" : "J925+9C Mississauga, Ontario",
+            "global_code" : "87M2J925+9C"
+         },
+         "rating" : 3.6,
+         "reference" : "ChIJrRW83jBHK4gRJ3ea8686qfo",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 998
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "25 The West Mall, Etobicoke, ON M9C 1B8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6121123,
+               "lng" : -79.55871309999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61338117989272,
+                  "lng" : -79.55768752010728
+               },
+               "southwest" : {
+                  "lat" : 43.61068152010728,
+                  "lng" : -79.56038717989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "aroma espresso bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111198897233172851123\"\u003eGaspar Raposo\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ0ceZyWQzy8I8RCdbGIejBpDP2SZFSNtC6hSBTAmzvphdHEvbqd2i1NokAdgR6vkscSunYBWXZ0UI5mBd-gZ2kNsU7qosTFIybu9e4HOJ0xCsTJXm4mFdIXIKZH78ew3EeRaT7hXVOocbm7d1H4DVTqQDocPglkyS_MZQlVQXWhHm1",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJWZm-FQdIK4gR-IIYOO2vmqk",
+         "plus_code" : {
+            "compound_code" : "JC6R+RG Etobicoke, Toronto, ON",
+            "global_code" : "87M2JC6R+RG"
+         },
+         "price_level" : 2,
+         "rating" : 4,
+         "reference" : "ChIJWZm-FQdIK4gR-IIYOO2vmqk",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 303
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4100 Dixie Rd, Mississauga, ON L4W 1M3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6244263,
+               "lng" : -79.6057165
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62586007989272,
+                  "lng" : -79.60444617010728
+               },
+               "southwest" : {
+                  "lat" : 43.62316042010728,
+                  "lng" : -79.60714582989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tim Hortons",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 5312,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100077627465413423136\"\u003eKasia Wajda\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKcqv_R1bGx-baaf7Ae2VatQYikRt2GYD-8C1RPBUHZYYjfjYhO4nKo0z-BDN6LG9f-4KeWYcuvl4k9UMCzaJ31hKinPsQXpK-lCEaYhQ_anPvhAccwyeljjA7nr5pcocpihdrmjoukDtJ6zq2HRgLoVvF6aqkzOGuOaoPO6zcP-gpI",
+               "width" : 2988
+            }
+         ],
+         "place_id" : "ChIJxy-8YYA4K4gRHeBH7FHyPmg",
+         "plus_code" : {
+            "compound_code" : "J9FV+QP Mississauga, Ontario",
+            "global_code" : "87M2J9FV+QP"
+         },
+         "price_level" : 1,
+         "rating" : 4,
+         "reference" : "ChIJxy-8YYA4K4gRHeBH7FHyPmg",
+         "types" : [
+            "cafe",
+            "restaurant",
+            "point_of_interest",
+            "food",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 717
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1815 Dundas St E, Mississauga, ON L4X 1L8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6188836,
+               "lng" : -79.57460490000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62018777989272,
+                  "lng" : -79.57318817010729
+               },
+               "southwest" : {
+                  "lat" : 43.61748812010728,
+                  "lng" : -79.57588782989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/cafe-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/cafe_pinlet",
+         "name" : "Tims",
+         "place_id" : "ChIJGV8frOhHK4gRWhH7DwTllYw",
+         "plus_code" : {
+            "compound_code" : "JC9G+H5 Mississauga, Ontario",
+            "global_code" : "87M2JC9G+H5"
+         },
+         "rating" : 0,
+         "reference" : "ChIJGV8frOhHK4gRWhH7DwTllYw",
+         "types" : [ "cafe", "point_of_interest", "food", "store", "establishment" ],
+         "user_ratings_total" : 0
+      }
+   ],
+   "status" : "OK"
+}

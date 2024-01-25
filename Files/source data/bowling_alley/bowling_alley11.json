@@ -1,0 +1,1002 @@
+[
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "5555 Eglinton Ave W, Etobicoke, ON M9C 5M1, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.6506861,
+                        "lng": -79.6028568
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.65182477989272,
+                            "lng": -79.60178062010728
+                        },
+                        "southwest": {
+                            "lat": 43.64912512010728,
+                            "lng": -79.60448027989273
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Planet Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3120,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115554817290131885963\">Fetbi Irsat</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIk4hMm2zrPVpGsrCcmYd0dkpdTtFtEwXHOMxBs0RJ1ih0GXaNNGqXNicF0Gnp3waNwwCaesPG_68vOY5bgAwBmJn7Kjv3cuCOIbp9zWJhyj30gz-w0vcvaVtYuHbFZhWPOhKpw4F2_2cH73sLB2-w1dVkKVrV1QN1Gl6ovuOlz4dJT",
+                        "width": 4160
+                    }
+                ],
+                "place_id": "ChIJlTKXzfc4K4gR_NDCS9UzahE",
+                "plus_code": {
+                    "compound_code": "M92W+7V Etobicoke, Toronto, ON",
+                    "global_code": "87M2M92W+7V"
+                },
+                "rating": 4,
+                "reference": "ChIJlTKXzfc4K4gR_NDCS9UzahE",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1779
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "128 Queen St S #9, Mississauga, ON L5M 1K8, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.58243,
+                        "lng": -79.71741999999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.58393137989273,
+                            "lng": -79.71606707010729
+                        },
+                        "southwest": {
+                            "lat": 43.58123172010728,
+                            "lng": -79.71876672989274
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Streetsville Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1440,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/115942745194099062511\">Rishi Cristna</a>"
+                        ],
+                        "photo_reference": "Aaw_FcKDQIBqfCpXDSqWXwBROPO2iV5gk89KBKe3qGFklKf_LVwMWKf-UgVfotFUhYgYGRyR_ITqT5P24HcITDYQYUIuh6kRCC4L6HhNf7zgy6pO4KY_p9C546gWiaUAJ23Lt9A7J1rl4WMD9g5fDVpZYTuoOfBSuz1dlkhUylwNoSBMiND7",
+                        "width": 1125
+                    }
+                ],
+                "place_id": "ChIJewgdncdBK4gRb4iHwRYHFUs",
+                "plus_code": {
+                    "compound_code": "H7JM+X2 Mississauga, Ontario",
+                    "global_code": "87M2H7JM+X2"
+                },
+                "rating": 4.3,
+                "reference": "ChIJewgdncdBK4gRb4iHwRYHFUs",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 758
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "3055 Dundas St W, Mississauga, ON L5L 3R8, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.5220442,
+                        "lng": -79.6843574
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.52335992989273,
+                            "lng": -79.68311672010728
+                        },
+                        "southwest": {
+                            "lat": 43.52066027010728,
+                            "lng": -79.68581637989271
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Classic Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/111431226957112853058\">Ahmed Shehab</a>"
+                        ],
+                        "photo_reference": "Aaw_FcJjtOM-9LFyglpcsCWp9eqCRkKImikuI5m4_JSfl7SB75LQXJGzCH5gqFIFtA-yey-9-pucbH2rH_MLafDRq9RbweX0-Wzt08JIJimw-C4TiSJuSt5uW0h_qUh9Q3e1_nPOQ4K8ex2FAUo5l2L0xChWnHsT3RrVHY5ighaG5CITcjiy",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJjYlSn6VDK4gR8cyumKcHS9Q",
+                "plus_code": {
+                    "compound_code": "G8C8+R7 Mississauga, Ontario",
+                    "global_code": "87M2G8C8+R7"
+                },
+                "rating": 4.2,
+                "reference": "ChIJjYlSn6VDK4gR8cyumKcHS9Q",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1646
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "115 Rexdale Blvd, Etobicoke, ON M9W 1P1, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.7117893,
+                        "lng": -79.5647857
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.71314797989272,
+                            "lng": -79.56340382010728
+                        },
+                        "southwest": {
+                            "lat": 43.71044832010728,
+                            "lng": -79.56610347989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Bowlerama Rexdale",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 768,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116352423618809816880\">Bowlerama Rexdale</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIj9YZuGoSLtu6xlAZ6YkC7vMLBAc3-fgK4HLtUMIBFvMS0rKFacfPLYhouFSkcRWDAHPY_RuegHAPAVC0n5fTPNSu70GXpfX18VlY-ZiGh32wrnZ_TPxfXJI3vtou2DWrou3HDkvn3WmbDukC09YRmiWPMHYjLa9UC8EUjDhaeYCe4",
+                        "width": 1152
+                    }
+                ],
+                "place_id": "ChIJZVdRbAs6K4gRdmPVRm_hF74",
+                "plus_code": {
+                    "compound_code": "PC6P+P4 Etobicoke, Toronto, ON",
+                    "global_code": "87M2PC6P+P4"
+                },
+                "rating": 4.4,
+                "reference": "ChIJZVdRbAs6K4gRdmPVRm_hF74",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1148
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "12 Beech St, Brampton, ON L6V 1V1, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.6945262,
+                        "lng": -79.7526417
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.69598602989272,
+                            "lng": -79.75125777010729
+                        },
+                        "southwest": {
+                            "lat": 43.69328637010727,
+                            "lng": -79.75395742989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Brampton Bowling Center",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 4032,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102687765709045393392\">charan reddy</a>"
+                        ],
+                        "photo_reference": "Aaw_FcLK31oStdOHm-BUZRXJQtXrea56rHOFRUEIM-Y5OSpzZJH-8aoooH2YlFyLHObeu4L_VoG9qjJFObkKcR4hMZe7db6V1nC1Vm4rPQXY7UAMtolyXnJ7w0sB20t9OWYfxV7oWjsVZqt9EQJ316zNkXwHGDD8R0CqiNbPlc2gD0fbKd2y",
+                        "width": 3024
+                    }
+                ],
+                "place_id": "ChIJ7_LFbO0VK4gRBJ7FYnbLoP0",
+                "plus_code": {
+                    "compound_code": "M6VW+RW Brampton, Ontario",
+                    "global_code": "87M2M6VW+RW"
+                },
+                "rating": 4,
+                "reference": "ChIJ7_LFbO0VK4gRBJ7FYnbLoP0",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 346
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "33 Samor Rd, North York, ON M6A 1J2, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.71772670000001,
+                        "lng": -79.4582689
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.71899402989272,
+                            "lng": -79.45712782010727
+                        },
+                        "southwest": {
+                            "lat": 43.71629437010727,
+                            "lng": -79.45982747989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Playtime Bowl & Entertainment",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 853,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117056639129607609720\">Playtime Bowl</a>"
+                        ],
+                        "photo_reference": "Aaw_FcK_3KZJX3ZeoLoTNHphUYxoq_Y_pBqdVOqDQvJEowFPOqUvBq02EiWPLtdSQ82p2m4Bia8E1kijiIPDAVpa33XvgodtNdzdlJ0GSzxCXhaAXBCc3N3QlYfDZANKCkJTM5WNPqS6KSTQfHtkJbmaOkgbY6yWV5fwdVEfRNpokPsYu3iG",
+                        "width": 1280
+                    }
+                ],
+                "place_id": "ChIJY9XlB84zK4gRGs77VXh0dG0",
+                "plus_code": {
+                    "compound_code": "PG8R+XP North York, Toronto, ON",
+                    "global_code": "87M2PG8R+XP"
+                },
+                "rating": 4.1,
+                "reference": "ChIJY9XlB84zK4gRGs77VXh0dG0",
+                "types": [
+                    "bowling_alley",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3171
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "50 Bramtree Ct, Brampton, ON L6S 5Z7, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.744755,
+                        "lng": -79.711232
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.74624832989272,
+                            "lng": -79.70989482010728
+                        },
+                        "southwest": {
+                            "lat": 43.74354867010728,
+                            "lng": -79.71259447989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Bowlero Brampton",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3072,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/105930198607344388396\">Rob Macdonald</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIAxoWkJuxjfwY30oFDY9QYNRc1Ov_0HPKM6Bqo1juK11eCKtrzqCjYkySIb9dSOpchUjob5lgXWU-Sf_Z5pwXPzrBvgja55cTn3hlHQZVwvbCKg1i1z2jNd4oU9NxXDzex0vwQB0zrys2aQ83OnmsylOaE17eoeR2p38e4bAsPb7YJ",
+                        "width": 4080
+                    }
+                ],
+                "place_id": "ChIJrZbWT6c9K4gRWMSuQhBkdkM",
+                "plus_code": {
+                    "compound_code": "P7VQ+WG Brampton, Ontario",
+                    "global_code": "87M2P7VQ+WG"
+                },
+                "rating": 4,
+                "reference": "ChIJrZbWT6c9K4gRWMSuQhBkdkM",
+                "types": [
+                    "bowling_alley",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "store",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3420
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "191 Marycroft Ave, Woodbridge, ON L4L 5Y3, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.7839316,
+                        "lng": -79.56566459999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.78525462989271,
+                            "lng": -79.56409637010728
+                        },
+                        "southwest": {
+                            "lat": 43.78255497010727,
+                            "lng": -79.56679602989273
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Splitsville Woodbridge",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2988,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113520453051145701567\">Maria Arrieta</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIShukAL7TXbJ0c89_28Trk7_H50Vm9_v8MXGo3vHW3XvruccbWxkKt_Co1q_nU37DhHeuGA32DErNVZzD4BFw1UMWN_9_ME5kZZulsat__NSOP9XFKA158BApLQbeAW1MP7eft0RFM_0ECi8ej2i6ww3_OwUGru40_J6T8VHzGPLjb",
+                        "width": 5312
+                    }
+                ],
+                "place_id": "ChIJbd_KWVklK4gRD2hAkd4t_Y0",
+                "plus_code": {
+                    "compound_code": "QCMM+JW Vaughan, Ontario",
+                    "global_code": "87M2QCMM+JW"
+                },
+                "rating": 4.4,
+                "reference": "ChIJbd_KWVklK4gRD2hAkd4t_Y0",
+                "types": [
+                    "bowling_alley",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 2296
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "33 Samor Rd, North York, ON M6A 1J2, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.7177377,
+                        "lng": -79.4582657
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.71904747989272,
+                            "lng": -79.45690842010727
+                        },
+                        "southwest": {
+                            "lat": 43.71634782010727,
+                            "lng": -79.45960807989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "BACK ALLEYS",
+                "photos": [
+                    {
+                        "height": 4032,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/109998854472134628140\">kevin gaughan</a>"
+                        ],
+                        "photo_reference": "Aaw_FcJVGjjz3LVe9iQSr1ToBFpsD5hXgmRl3P_yfKyHgcnGHy24z112quuTUrxOpo7HID0K9HQDyqKcR17mRLBcS9i_08hERqlfkfuwrjUYuUoAEDlV4z64rEcRN8nIpq97XJQWmdygoXijAKxUSK3BeyEVoXgOjAgmy7vyozPuSnB9xZQh",
+                        "width": 3024
+                    }
+                ],
+                "place_id": "ChIJxzYn080zK4gRTk1F6cjITos",
+                "plus_code": {
+                    "compound_code": "PG8R+XM North York, Toronto, ON",
+                    "global_code": "87M2PG8R+XM"
+                },
+                "rating": 4.3,
+                "reference": "ChIJxzYn080zK4gRTk1F6cjITos",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 6
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "67 Ellesmere Rd, Scarborough, ON M1R 4B7, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.7574562,
+                        "lng": -79.3106882
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.75890607989272,
+                            "lng": -79.30934172010728
+                        },
+                        "southwest": {
+                            "lat": 43.75620642010728,
+                            "lng": -79.31204137989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Parkway Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/118088259756521444206\">Christopher</a>"
+                        ],
+                        "photo_reference": "Aaw_FcLkQQ2SbtPKtyraP2_yfSt5YJxQuKnBiSVfrVwOn0KyPJ2H98ODEA2Ed-gMGX_wvn-OlO7w2YMdsVYlpujK4-qbuQvaXj1VyUz4GqmrIfceGRC4B0vpMCgL1bhBWWKX0LKPss0pata-fa_tH6hwX4gO_uoMpIMM5BHYijRGSpkOJlpG",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJPeAdtBLS1IkRHHK_8fWNGg4",
+                "plus_code": {
+                    "compound_code": "QM4Q+XP Scarborough, Toronto, ON",
+                    "global_code": "87M2QM4Q+XP"
+                },
+                "rating": 4,
+                "reference": "ChIJPeAdtBLS1IkRHHK_8fWNGg4",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 349
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "2300 Lawrence Ave E, Scarborough, ON M1P 2R2, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.7509242,
+                        "lng": -79.2765706
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.75218637989272,
+                            "lng": -79.27522662010729
+                        },
+                        "southwest": {
+                            "lat": 43.74948672010728,
+                            "lng": -79.27792627989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Kennedy Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 1080,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/117108887008968289931\">Salah Hashim</a>"
+                        ],
+                        "photo_reference": "Aaw_FcI6rfWFxRFyjva4SqbCf-DVVq8s53ZtbH4Y-HT1Sd6yrtw9IBvXRIMfU8Wy1eItkeDHWQhNhh8537xgYysvoFW-MrlP-1_Ni4YuTUq5S5L9G6SoOtN9H0cl5jm2JVNgMRWlO4TuSVs9PoTaaLRgxbB0BOXxgNiyYmrp1GOLhZFwGQaL",
+                        "width": 1920
+                    }
+                ],
+                "place_id": "ChIJkWyYpeTR1IkRGUpXxW68PEk",
+                "plus_code": {
+                    "compound_code": "QP2F+99 Scarborough, Toronto, ON",
+                    "global_code": "87M2QP2F+99"
+                },
+                "rating": 3.9,
+                "reference": "ChIJkWyYpeTR1IkRGUpXxW68PEk",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 641
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "33 Oak St, Toronto, ON M5A 0A2, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.66079879999999,
+                        "lng": -79.3652236
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.66206962989273,
+                            "lng": -79.36384102010729
+                        },
+                        "southwest": {
+                            "lat": 43.65936997010728,
+                            "lng": -79.36654067989274
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Ligue De Quilles Les Faire",
+                "place_id": "ChIJC0FELhLL1IkRK-ygiWAGGHw",
+                "plus_code": {
+                    "compound_code": "MJ6M+8W Toronto, Ontario",
+                    "global_code": "87M2MJ6M+8W"
+                },
+                "rating": 0,
+                "reference": "ChIJC0FELhLL1IkRK-ygiWAGGHw",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 0
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "10593 Yonge St, Richmond Hill, ON L4C 3C5, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.8857875,
+                        "lng": -79.439065
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.88708987989272,
+                            "lng": -79.43803007010727
+                        },
+                        "southwest": {
+                            "lat": 43.88439022010728,
+                            "lng": -79.44072972989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Richmond Hill Pro Bowl (Bowling) on Yonge St",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2988,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/102247939847374461936\">Scott Hodgins</a>"
+                        ],
+                        "photo_reference": "Aaw_FcLcUXLRvbQOkMdt_ITW53DyQMbA0EuMg3__FWvY5SZm8p7EpdpGqmyTcaFwh8hvLFrAfw3_SobWtHxjwFEwRIbIIv6i3gVUj9JixvoEsMfSvSGmJ-sqeKp2lHoQIfNurhu6jdcPpk95iO5zKII2SIzAG-s8z1j32vdZcsjWK8alaHDN",
+                        "width": 5312
+                    }
+                ],
+                "place_id": "ChIJ94H1bkQqK4gROCL7fJmaqIA",
+                "plus_code": {
+                    "compound_code": "VHP6+89 Richmond Hill, Ontario",
+                    "global_code": "87M2VHP6+89"
+                },
+                "rating": 3.8,
+                "reference": "ChIJ94H1bkQqK4gROCL7fJmaqIA",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 392
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "9 East Wilmot St, Richmond Hill, ON L4B 1A3, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.852356,
+                        "lng": -79.3835813
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.85373767989272,
+                            "lng": -79.38222497010727
+                        },
+                        "southwest": {
+                            "lat": 43.85103802010727,
+                            "lng": -79.38492462989271
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Splitsville Richmond Hill",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113379298506294299504\">Dmytro Orzhekhovskyi</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIsEmyiHwuQ9di-msQVCEmY3CYMBTwApkS56Y3uyAgxU3RaFvv1Ghec_i4ssRI1MJhMDgwt0BJK_tgqBF_-6EgWn3W3-VAbDigXlbzsb4tDBUBkqaqlw1Uk6PGZWpLeuBTOTampjHSdhVyhXtybeS4cdrL1SodEc0N3LtxWiZF-vIAv",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJFck5eDQrK4gRVrtFsQG3mSQ",
+                "plus_code": {
+                    "compound_code": "VJ28+VF Richmond Hill, Ontario",
+                    "global_code": "87M2VJ28+VF"
+                },
+                "rating": 4.1,
+                "reference": "ChIJFck5eDQrK4gRVrtFsQG3mSQ",
+                "types": [
+                    "bowling_alley",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1823
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "145 John St, Toronto, ON M5V 2E4, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.6489907,
+                        "lng": -79.3905521
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.65034102989272,
+                            "lng": -79.38929042010727
+                        },
+                        "southwest": {
+                            "lat": 43.64764137010728,
+                            "lng": -79.39199007989271
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/restaurant-71.png",
+                "icon_background_color": "#FF9E67",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/restaurant_pinlet",
+                "name": "The Ballroom Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3024,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/108147295659890820308\">Mark Thurgood</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIa6AHhqYrkOnigNnGuk18GsinwpK4DZnPVw5XtsatNo2Yjo8WblPBHmd4gYxT9m0nYnB7f9zuUQMtxGTb7zglbRoqVjP0Ig7oNV4bpChCiXfxlheUPra-AWhAHRV0t8HnSKzbX0Es4TpwK_DjBZP0u-QPgU7Tz_4HVmvMOgonNVawh",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJL41yFNA0K4gRMmZ2AnkGc_w",
+                "plus_code": {
+                    "compound_code": "JJX5+HQ Toronto, Ontario",
+                    "global_code": "87M2JJX5+HQ"
+                },
+                "price_level": 2,
+                "rating": 3.9,
+                "reference": "ChIJL41yFNA0K4gRMmZ2AnkGc_w",
+                "types": [
+                    "restaurant",
+                    "bowling_alley",
+                    "bar",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 3382
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "U, 5762 Hwy 7 #11B, Markham, ON L3P 1A7, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.8725604,
+                        "lng": -79.26598729999999
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.87388682989273,
+                            "lng": -79.26456312010727
+                        },
+                        "southwest": {
+                            "lat": 43.87118717010728,
+                            "lng": -79.26726277989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Markham Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3456,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/113933130604249882503\">Ka Lam</a>"
+                        ],
+                        "photo_reference": "Aaw_FcI9tO4GDlh58T2L835rr2RKXAMi8P9nCUa5vyeDTO49bWY22L-zHQEGJPw7c5CFo8YVKLSAvdqy8Y6Jf6o8PFESc3NPpruuz994nVXQick-VKI5zRwsii7Snt-lBEf3YGFYEX0TMnudjp13jUhCKMLqM_rg9GpVsTl-fLMgdR5d1k81",
+                        "width": 4608
+                    }
+                ],
+                "place_id": "ChIJf-cYxUHW1IkRHUITlUm447Y",
+                "plus_code": {
+                    "compound_code": "VPFM+2J Markham, Ontario",
+                    "global_code": "87M2VPFM+2J"
+                },
+                "rating": 3.8,
+                "reference": "ChIJf-cYxUHW1IkRHUITlUm447Y",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 623
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "4065 Harvester Rd, Burlington, ON L7L 5J1, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.3647302,
+                        "lng": -79.7817411
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.36597647989272,
+                            "lng": -79.78025502010728
+                        },
+                        "southwest": {
+                            "lat": 43.36327682010728,
+                            "lng": -79.78295467989273
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Burlington Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 2268,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/103657053678941263595\">Lawin Wong</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIIsb6OB8mkeyEjNgYWQhtFTpfGmaHkQhjQ2XZDqOMKjIE_qB8fVHDdPBATRPS0_x0XYIPmcRSvGiqqqeIc8I2utl8AxHue3VoHER4b-g_2ijisinTtzM-Gopmd3UKo4dDX3o_pZNYdr8PuRQcG3dTonXb_tmS4Rmy5SYoWb9hLOKnX",
+                        "width": 4032
+                    }
+                ],
+                "place_id": "ChIJK8BSuFNgK4gR9Vec1C5tLu0",
+                "plus_code": {
+                    "compound_code": "9679+V8 Burlington, Ontario",
+                    "global_code": "87M29679+V8"
+                },
+                "rating": 3.9,
+                "reference": "ChIJK8BSuFNgK4gR9Vec1C5tLu0",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 780
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "235 Melvin Ave, Hamilton, ON L8H 2J9, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.242976,
+                        "lng": -79.7866581
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.24428152989272,
+                            "lng": -79.78529287010728
+                        },
+                        "southwest": {
+                            "lat": 43.24158187010728,
+                            "lng": -79.78799252989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Skyway Bowl",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 3036,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/116922341774345854533\">Peter Vander Klippe</a>"
+                        ],
+                        "photo_reference": "Aaw_FcJ79MoYDYIyxkve9M3sgxVmab6KdDD7ugdADcC27Eew85G259Bfo6c0tm97dK_rYlDxPVdTVk466dwmVAC8HBJbl7ikB-MtkxC3e0z0qFQVW3p-_wTMWPOpVSh9N4Li7pc8-tXo8QcCbb_y6LgDxjJQzjrze7f8uAVXp4NhNylvur5c",
+                        "width": 4048
+                    }
+                ],
+                "place_id": "ChIJYaRUMyeZLIgRij_ediOfRnI",
+                "plus_code": {
+                    "compound_code": "66V7+68 Hamilton, Ontario",
+                    "global_code": "87M266V7+68"
+                },
+                "rating": 4.2,
+                "reference": "ChIJYaRUMyeZLIgRij_ediOfRnI",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 266
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "830 Laurentian Dr, Burlington, ON L7N 3V6, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.35231020000001,
+                        "lng": -79.7941903
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.35365877989271,
+                            "lng": -79.79285222010728
+                        },
+                        "southwest": {
+                            "lat": 43.35095912010727,
+                            "lng": -79.79555187989271
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Splitsville Burlington",
+                "opening_hours": {
+                    "open_now": false
+                },
+                "photos": [
+                    {
+                        "height": 720,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/104060439653208234266\">azhar rauf</a>"
+                        ],
+                        "photo_reference": "Aaw_FcIHWfbMIw6wQH-y6_hdy9eFETZ-c2jNLdqxKmThUIAK1wED05i-6T-UByzCH7zwZqT7eqo0G2RD1R1skc8lRoiCACN8p5BSA32TtgOM3eF-kJDmpszYo2bTcPp-A4EtGaQKBTcvpiOrsuVxBtMqyQ6EXot-OG1ZE7mQiVRuqGATDZdf",
+                        "width": 1280
+                    }
+                ],
+                "place_id": "ChIJJYtFNshhK4gRbR-FtRJNV7c",
+                "plus_code": {
+                    "compound_code": "9624+X7 Burlington, Ontario",
+                    "global_code": "87M29624+X7"
+                },
+                "rating": 4.2,
+                "reference": "ChIJJYtFNshhK4gRbR-FtRJNV7c",
+                "types": [
+                    "bowling_alley",
+                    "bar",
+                    "restaurant",
+                    "food",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 1079
+            },
+            {
+                "business_status": "OPERATIONAL",
+                "formatted_address": "335 Upper Wentworth St, Hamilton, ON L9A 4T4, Canada",
+                "geometry": {
+                    "location": {
+                        "lat": 43.2409451,
+                        "lng": -79.8540509
+                    },
+                    "viewport": {
+                        "northeast": {
+                            "lat": 43.24234102989272,
+                            "lng": -79.85285412010727
+                        },
+                        "southwest": {
+                            "lat": 43.23964137010727,
+                            "lng": -79.85555377989272
+                        }
+                    }
+                },
+                "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+                "icon_background_color": "#7B9EB0",
+                "icon_mask_base_uri": "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+                "name": "Mountain Lanes",
+                "photos": [
+                    {
+                        "height": 1054,
+                        "html_attributions": [
+                            "<a href=\"https://maps.google.com/maps/contrib/101729281321900570101\">Andrew</a>"
+                        ],
+                        "photo_reference": "Aaw_FcI3E31D4vLAMyGMNV9UzLJw4KrxZRV4nLtEZ1cD3IjZfoZ4RMcUIlXyOIrMazWeB9eocnlhYooEefTlzPGnGxoCQXdGYOWIuMNtIiQxMeWL9ETD7fdbL787eErRwTvbWsvG0LnJIqhS9Pt7kmhEpe5AxdQPf4VYLztdR4-u03m8e_Ne",
+                        "width": 1220
+                    }
+                ],
+                "place_id": "ChIJ54oUEb-bLIgRNglVfilbRgU",
+                "plus_code": {
+                    "compound_code": "64RW+99 Hamilton, Ontario",
+                    "global_code": "87M264RW+99"
+                },
+                "rating": 4.2,
+                "reference": "ChIJ54oUEb-bLIgRNglVfilbRgU",
+                "types": [
+                    "bowling_alley",
+                    "point_of_interest",
+                    "establishment"
+                ],
+                "user_ratings_total": 278
+            }
+]

@@ -1,0 +1,923 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3420 Semenyk Ct #2, Mississauga, ON L5C 4P8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5673476,
+               "lng" : -79.65216099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56854327989273,
+                  "lng" : -79.65070432010728
+               },
+               "southwest" : {
+                  "lat" : 43.56584362010728,
+                  "lng" : -79.65340397989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Athletic Leaders",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113562389982094152589\"\u003eAthletic Leaders\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIn9DOLP8QkT-uU3HGqyuHsvluwoBWbfnNeoQpJOK6ij5yVSyE_se0njLQdeo6q3PClEoZBWG94WOac8-MfxwUrdQtOjO0yHiWX9Vc2vmzFfJmapj5teuy-Y6d-VeJx6yYd9MBDH3WtdrgERdBAu5iZ3kGxXMa84TPmr2g-NQCczuZo",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJ4xt_70pBK4gRDxeG2oj04q0",
+         "plus_code" : {
+            "compound_code" : "H88X+W4 Mississauga, Ontario",
+            "global_code" : "87M2H88X+W4"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ4xt_70pBK4gRDxeG2oj04q0",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 55
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "660 Eglinton Ave W, Mississauga, ON L5R 3V2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5921736,
+               "lng" : -79.66670839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59349282989272,
+                  "lng" : -79.66537742010728
+               },
+               "southwest" : {
+                  "lat" : 43.59079317010728,
+                  "lng" : -79.66807707989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Anytime Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114718889786065948668\"\u003eMir Azam Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ8-slC81Ui8F72We30nnSPGzhnmJGX9lcN3EmHjgUO2AChM05hCvClQmnAkP_30qfJeSckrCHz47nDGVi-xLqda2Sgo2LU_-Hi0tMI-evLNfI0BOyp9Fa4XbjqyTAzedqVBkAwOtQtXcWmlv9I1d_J46V1uls-OLsG487AHdpzEzSg",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJFa2s4N5AK4gROCACQM789oA",
+         "plus_code" : {
+            "compound_code" : "H8RM+R9 Mississauga, Ontario",
+            "global_code" : "87M2H8RM+R9"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJFa2s4N5AK4gROCACQM789oA",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 231
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3413 Wolfedale Rd Unit 8, Mississauga, ON L5C 1V8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5716876,
+               "lng" : -79.64661409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57268767989272,
+                  "lng" : -79.64570362010728
+               },
+               "southwest" : {
+                  "lat" : 43.56998802010728,
+                  "lng" : -79.64840327989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "\u529b\u5065\u8eabCPower Fitness Mississauga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109646605246113858043\"\u003e22RISEN\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJbfB-pOmAFNcMT73Y5qZapGI4lCRIIEWWP5khf0WJ7v_aMpeUN1-sXQQ2avfw70HiLxqgwtV4POqyoAkbSU5DdaMbwJStNqsNdW1043RkWByOR5we-Ki1AlAf1gkyEIjBVt2l6yCWQ3HwuUpzfQtOPPslP0pyrdl_f2bTaiht3Xry8",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJV5okeyZHK4gRaIEftUJlvTc",
+         "plus_code" : {
+            "compound_code" : "H9C3+M9 Mississauga, Ontario",
+            "global_code" : "87M2H9C3+M9"
+         },
+         "rating" : 5,
+         "reference" : "ChIJV5okeyZHK4gRaIEftUJlvTc",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 33
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "60 Bristol Rd E, Mississauga, ON L4Z 3K8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.615142,
+               "lng" : -79.66063699999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61628097989271,
+                  "lng" : -79.65942552010728
+               },
+               "southwest" : {
+                  "lat" : 43.61358132010727,
+                  "lng" : -79.66212517989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fit4Less",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113189087992779579659\"\u003eJeremy Fu\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJSmbcC5l0noiNdWotCRWmlMbOj1yBnGuT-pzjMDXQ-KofTPME7ybwudSPwAE3oa4ow8Ed85XU4nwoyfKuKlMQT0IPy9pErb3jSi1Kh6v8DyOByWnyz_z4rMeTvxDK2pHh2_d5nj4rJs2D7WjDSBKt90PH_tJ8SmU7gWI6TqRtb6rYD",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_UODb4dBK4gRRVAbb2uEiIc",
+         "plus_code" : {
+            "compound_code" : "J88Q+3P Mississauga, Ontario",
+            "global_code" : "87M2J88Q+3P"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ_UODb4dBK4gRRVAbb2uEiIc",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 94
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5120 Dixie Rd Unit 12, Mississauga, ON L4W 4K2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.636456,
+               "lng" : -79.623007
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.63780897989272,
+                  "lng" : -79.62158972010727
+               },
+               "southwest" : {
+                  "lat" : 43.63510932010728,
+                  "lng" : -79.62428937989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "F45 Training Mississauga North",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115320806649946146566\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJwfD4D7YmpgBa20wanFXENPfoq5i_b9P0hhBGUfaRDNYHYN2lK4MaVhfIFThZwbn98GuOOoJNPZD-9PcrU_rEZd30B-ooJnDZLMbJ34TvSqBMofF1X1RpYt4tbd7qr8DXnFYRiEA-ku2zrZtNQbMzc4kC7HVIKHDIb1IbjTBGL7yCP",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJedG_bHo5K4gR3q_hkg__ruo",
+         "plus_code" : {
+            "compound_code" : "J9PG+HQ Mississauga, Ontario",
+            "global_code" : "87M2J9PG+HQ"
+         },
+         "rating" : 5,
+         "reference" : "ChIJedG_bHo5K4gR3q_hkg__ruo",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 25
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "380 The East Mall, Etobicoke, ON M9B 6L5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6439907,
+               "lng" : -79.559387
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64534897989272,
+                  "lng" : -79.55807687010729
+               },
+               "southwest" : {
+                  "lat" : 43.64264932010727,
+                  "lng" : -79.56077652989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "GoodLife Fitness Etobicoke East Mall and Burnhamthorpe For Women",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3036,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105175761337711150993\"\u003eDan Levy\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK8HYjYg-gQEhgLrEyu-aTexlnMDpYeCAvAtyIUkckGsTpOrIcvM4XVyx93Iq8qiAWWhhK_oRzZ2aASFUMefwF0aoWjyqbrCBFQjIuB203O6jmFdoB-VGWGr93wifCZhJO2ngJyHlWiMn2--w_xOrTjegv5FBdMG2dEXBga5XYA-F15",
+               "width" : 4048
+            }
+         ],
+         "place_id" : "ChIJORA-PIg3K4gRziAAA6PmUqo",
+         "plus_code" : {
+            "compound_code" : "JCVR+H4 Etobicoke, Toronto, ON",
+            "global_code" : "87M2JCVR+H4"
+         },
+         "rating" : 4,
+         "reference" : "ChIJORA-PIg3K4gRziAAA6PmUqo",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 130
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "720 Burnhamthorpe Rd W #5, Mississauga, ON L5C 3G1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5780886,
+               "lng" : -79.6517731
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57966032989273,
+                  "lng" : -79.65038807010728
+               },
+               "southwest" : {
+                  "lat" : 43.57696067010728,
+                  "lng" : -79.65308772989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Muscle Machine Gym",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103918354104466828138\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL9rwuM8oXKJ3UvKxm5ymhZei6VwcXcO3U_hiLfk1Bik3-Zj8tbsFgemMQsa0PA8njIXwjM78_Iv6Pqxl9_qxIfoOdO1dZbxnRXVZhl0mKj9bXQPXF52CAE78B-0NgUItiSwh_jQqXFRu2UelXduy1Z1_XFan9DkAFSs1ONTDNX95xD",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJaxugGclBK4gRa4DsX577CRw",
+         "plus_code" : {
+            "compound_code" : "H8HX+67 Mississauga, Ontario",
+            "global_code" : "87M2H8HX+67"
+         },
+         "rating" : 5,
+         "reference" : "ChIJaxugGclBK4gRa4DsX577CRw",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 23
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3090 Mavis Rd, Mississauga, ON L5C 1T8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5668492,
+               "lng" : -79.63685099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56819847989272,
+                  "lng" : -79.63550527010727
+               },
+               "southwest" : {
+                  "lat" : 43.56549882010728,
+                  "lng" : -79.63820492989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Infitnity Fitness",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2227,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115977791190035022511\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJpCG41zMOrPCiY2XZJiE4kPBzmjSnQ0ZVH1RNraOE2rhL18FQJWinQf4_GHVJmZ02tTI0TFkk4hl_60mDLPuYCR0w_C8Zl5iAO54Ycxf6op5tmeuPd3tidKU1V6MvNA2Et6wmOFF3i_2jHfwoCKv98c9meYBn5-kuHhSs7bXJSCFLO",
+               "width" : 3332
+            }
+         ],
+         "place_id" : "ChIJtz0nj7hGK4gRDGo_OKoBgVY",
+         "plus_code" : {
+            "compound_code" : "H987+P6 Mississauga, Ontario",
+            "global_code" : "87M2H987+P6"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJtz0nj7hGK4gRDGo_OKoBgVY",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1200 Aerowood Dr Unit 38, Mississauga, ON L4W 2S7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6381054,
+               "lng" : -79.63821729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.63947937989272,
+                  "lng" : -79.63690987010727
+               },
+               "southwest" : {
+                  "lat" : 43.63677972010728,
+                  "lng" : -79.63960952989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/school-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/school_pinlet",
+         "name" : "Flash Bros Boxing & Fitness",
+         "photos" : [
+            {
+               "height" : 2208,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110508767002293715431\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIBdSqP-eUEBRjC8q6UgZQx4LKxzldM1auK9M7AsjOr9TAhG1bobUzHWepFxQ6MLUrW_xi3fJfPXBNu216ru5Sf-mlb_mXgByt0SvdzS3a2WBFuZ1d_BeyTpTbKm8qWCaDVXfRnVjyYrG3Ni31eYGMYPopUYONduPnYDzy-P0yHLlBp",
+               "width" : 1242
+            }
+         ],
+         "place_id" : "ChIJ4bkdkuY-K4gR3HMwDxmkst4",
+         "plus_code" : {
+            "compound_code" : "J9Q6+6P Mississauga, Ontario",
+            "global_code" : "87M2J9Q6+6P"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ4bkdkuY-K4gR3HMwDxmkst4",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 262
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "405 The West Mall, Etobicoke, ON M9C 5J5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6456634,
+               "lng" : -79.56695069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64711547989272,
+                  "lng" : -79.56584142010728
+               },
+               "southwest" : {
+                  "lat" : 43.64441582010728,
+                  "lng" : -79.56854107989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kings Highway CrossFit",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3143,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117397176732407822549\"\u003eSandra Paonessa\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLcmV3Q0ihLwcjn7wzDRw-1QeoqQ7rvncFIlO1YYS_i3YdtW179Hz0waabfblvUzUjRAM1oLYzyKaghgD7u8HXdpaOWOUiEIYbPrtw_Y1bIbNBX_ee9nUokBWsId4P99eWm5RS8EIF6zEaoPrWuTTUzyEZa1_wURZzUWa3i71Cjv5RM",
+               "width" : 2955
+            }
+         ],
+         "place_id" : "ChIJRwoLgDs5K4gRsEZ8jniGsNw",
+         "plus_code" : {
+            "compound_code" : "JCWM+76 Etobicoke, Toronto, ON",
+            "global_code" : "87M2JCWM+76"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJRwoLgDs5K4gRsEZ8jniGsNw",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 164
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3773 Lake Shore Blvd W, Etobicoke, ON M8W 1R1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5924225,
+               "lng" : -79.54113400000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59392172989272,
+                  "lng" : -79.53984762010728
+               },
+               "southwest" : {
+                  "lat" : 43.59122207010728,
+                  "lng" : -79.54254727989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "F45 Training Long Branch TO",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100614079221837118641\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLg3mIi8JVHiTlwsHvi_bJcbLDQODYcJxReEYzJF7as6eCsvUQ2i170juZh8LT272yryF0kdiLQXBooYv2yhTrYfVoAZtYx4nXoXb6op293gCkfP5DJMFTLk0XCuk0aSpxwSqlOHBlzaf8jdjB-k7GeWf9Q7ICvsZD2Sr9VL_YI7acY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbUP_vSpJK4gRmDcFMUCizqU",
+         "plus_code" : {
+            "compound_code" : "HFR5+XG Etobicoke, Toronto, ON",
+            "global_code" : "87M2HFR5+XG"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJbUP_vSpJK4gRmDcFMUCizqU",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 71
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "58 Oakwood Ave N, Mississauga, ON L5G 3L8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.56013799999999,
+               "lng" : -79.581722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56154902989271,
+                  "lng" : -79.58052272010728
+               },
+               "southwest" : {
+                  "lat" : 43.55884937010727,
+                  "lng" : -79.58322237989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "CrossFit Port Credit",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 864,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115212093265790395399\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIwVBCZOzumXsXPqqbtEFW8RRPiP-n-I3BLRw3kCVae3u0A7b7095xHt7KfEp3OjDMuVhM0blmw-KgMeZ-McQFTDjBJ_Kh7zz0KCQSFUUqV0CTXffe_Dv1qeTo8WCjepQu8pJxobO6Qu_Rj16kEXqNTxoAyaFkZhvGNO0HwpnRXt-xU",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJW1X83BRGK4gRVSWMMSV2Cr4",
+         "plus_code" : {
+            "compound_code" : "HC69+38 Mississauga, Ontario",
+            "global_code" : "87M2HC69+38"
+         },
+         "rating" : 5,
+         "reference" : "ChIJW1X83BRGK4gRVSWMMSV2Cr4",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 56
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "755 Queensway E Unit 15, Mississauga, ON L4Y 4C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5901055,
+               "lng" : -79.5913334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.59167917989272,
+                  "lng" : -79.59043972010727
+               },
+               "southwest" : {
+                  "lat" : 43.58897952010728,
+                  "lng" : -79.5931393798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "LEGACY STRONGHOLD | Muay Thai & Brazilian Jiu-Jitsu BJJ, Mississauga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115701507582547490721\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI-SNjiruYNUMWIsWR2aZ2RwfbWK4c5qIJ_04LQqQiM4G2y30_LK5GaPmJ1KRewq8a7uUuKjASydDj5wwz0c0M72ZHKW_Vhu3MgPJsCoePYElqnfuBRi06pgB9omPDuHXRYJICa_4-qL4GAOZGHOh8eOMgY8R4qr4KiDEffG47zwwl1",
+               "width" : 3072
+            }
+         ],
+         "place_id" : "ChIJjwf9ZuRBK4gRK5iZjh8d3Zo",
+         "plus_code" : {
+            "compound_code" : "HCR5+2F Mississauga, Ontario",
+            "global_code" : "87M2HCR5+2F"
+         },
+         "rating" : 5,
+         "reference" : "ChIJjwf9ZuRBK4gRK5iZjh8d3Zo",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 117
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "327 Lakeshore Rd E, Mississauga, ON L5G 1H3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5618641,
+               "lng" : -79.5744775
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56325262989272,
+                  "lng" : -79.57319732010728
+               },
+               "southwest" : {
+                  "lat" : 43.56055297010728,
+                  "lng" : -79.57589697989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Raw Fitness",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107934198498446411401\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI62o9VFiozJbo4oKm69aoUJ_cAWawEd4lrSDsbeqTsFoy_KUuLUqrLkcVMPursgyQI-_nBdDBzcZhJvXw7DzAeer23ri80_U3QGTBYAIXUoo_nzMsqSYrcM55M5_yoBrDuq0HzNSV-WDeci_tuqcbt27GAM6qENdT4eED8HUvrvSwm",
+               "width" : 2001
+            }
+         ],
+         "place_id" : "ChIJ-USzdptHK4gRSHDiAt2zb4k",
+         "plus_code" : {
+            "compound_code" : "HC6G+P6 Mississauga, Ontario",
+            "global_code" : "87M2HC6G+P6"
+         },
+         "rating" : 5,
+         "reference" : "ChIJ-USzdptHK4gRSHDiAt2zb4k",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 26
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1151 Dundas St W, Mississauga, ON L5C 1C6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5582467,
+               "lng" : -79.64503019999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.55941327989272,
+                  "lng" : -79.64351047010727
+               },
+               "southwest" : {
+                  "lat" : 43.55671362010727,
+                  "lng" : -79.64621012989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Planet Fitness",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 587,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106291842267977707320\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLviKrOvvERP7GrcB6G5_Br24zy5guQPkxz0n5S6tLFvj1rHB-VCkVxTbxuDQJWqw8WUWriqcsyNeP8og-gI8QBjEObmYWIvO6drQAuYFruPcqUQDTp8lHTHEtP9l8x3UkOtQiSMhRZmZ_0f1Mfv9ZHQff_bHsqssTY60vZ9LNS8ZQ",
+               "width" : 868
+            }
+         ],
+         "place_id" : "ChIJRwmuya1GK4gRQo2zRsZb7lE",
+         "plus_code" : {
+            "compound_code" : "H953+7X Mississauga, Ontario",
+            "global_code" : "87M2H953+7X"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJRwmuya1GK4gRQo2zRsZb7lE",
+         "types" : [ "gym", "spa", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1035
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "5757 Kennedy Rd #10, Mississauga, ON L4Z 0C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.63110469999999,
+               "lng" : -79.66134989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.63252437989272,
+                  "lng" : -79.66009202010727
+               },
+               "southwest" : {
+                  "lat" : 43.62982472010728,
+                  "lng" : -79.66279167989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Training for Warriors Sauga | Personal Training Mississauga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103469784346991751716\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJdY6Re6zyUsDy0uefA3yoVBCSzmL9piw2oFzOlGQdlQLu1MG4ZMUijzBfL5F29mgeYLJK5OIWLVN2GbLpEk7sse9HQUY44sh3b48lMOmeL8hUOcPI7mrWhvuBhxYzBO371NS7vxiBsOBb2mR60mVwqqHrlkUABk51sCH3FWirfYkjY",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJX7WYfFc_K4gR5Az0TGpi_mI",
+         "plus_code" : {
+            "compound_code" : "J8JQ+CF Mississauga, Ontario",
+            "global_code" : "87M2J8JQ+CF"
+         },
+         "rating" : 5,
+         "reference" : "ChIJX7WYfFc_K4gR5Az0TGpi_mI",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 201
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "29 Connell Ct #18, Etobicoke, ON M8Z 1E8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.61280499999999,
+               "lng" : -79.5203288
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61413127989272,
+                  "lng" : -79.51896962010727
+               },
+               "southwest" : {
+                  "lat" : 43.61143162010728,
+                  "lng" : -79.52166927989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Advanced Performance Training Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2381,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106095515634635075805\"\u003eGlen Grant\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJtf_qdyjZCktMOZNECgVdFjjHp1ctE1Ul8XwdKykXJCK59LP4PfmG2fnZ9WFmASQKzCYc9egGFiUsdqtqbyQPHlu9Meww22WxduhowJxMl8TGOBDHUN1gT195NkmpwSB9o5Tis-2AnxDSuZ8FefjQSgAsm-Hd8wKfFan4NqGCyvIsd",
+               "width" : 3175
+            }
+         ],
+         "place_id" : "ChIJf5c8JSpIK4gR1x5lFtQYHiY",
+         "plus_code" : {
+            "compound_code" : "JF7H+4V Etobicoke, Toronto, ON",
+            "global_code" : "87M2JF7H+4V"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJf5c8JSpIK4gR1x5lFtQYHiY",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 43
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "579 Lakeshore Rd E B, Mississauga, ON L5G 1H9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5687599,
+               "lng" : -79.5692117
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57026812989272,
+                  "lng" : -79.56809247010727
+               },
+               "southwest" : {
+                  "lat" : 43.56756847010728,
+                  "lng" : -79.57079212989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "StrongerNow Inc.",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109498687269614279468\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ7O0YJIfmYS47Q-_peaYDuWfg8cpLfNDjz_cyHOk1cLdvtmRO9LQyztShQiJ4wWhQqvgXUuZucF3kxYifnZ3FnAHrYG_G1XaqjKnnEL0cHCKh9H3mnKGJcJevP326RU3XYesBlG7cSpRPv0U_0AMaD15mqKXEot86zwJDPoaKFQybl",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJiYS1vL2vLIgRgKcco28LJE8",
+         "plus_code" : {
+            "compound_code" : "HC9J+G8 Mississauga, Ontario",
+            "global_code" : "87M2HC9J+G8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJiYS1vL2vLIgRgKcco28LJE8",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 77
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "100 City Centre Dr, Mississauga, ON L5B 2C9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.592752,
+               "lng" : -79.64301499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5948955,
+                  "lng" : -79.64133617010728
+               },
+               "southwest" : {
+                  "lat" : 43.5920375,
+                  "lng" : -79.64403582989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "GoodLife Fitness Mississauga Square One",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110263129711417922310\"\u003eGuo Alan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIwh-J-X6GwEov6s1epA4c4xs-xedncuVYUCGKlOWIIzLHCoVhMO9P4y0W9kubFXCyOXpy4byz4iOfIk5fY82cvx5vKJssGHX37lwGhv9nuLs8THgHrvxMcpMNEnPNpImmR9tTtQ_Y9fDkNs0SgDkNZ_nh8lRBu15jHR7jIJQHhDkzs",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJu9RHzy5HK4gR3fCEweTrIlI",
+         "plus_code" : {
+            "compound_code" : "H9V4+4Q Mississauga, Ontario",
+            "global_code" : "87M2H9V4+4Q"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJu9RHzy5HK4gR3fCEweTrIlI",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 495
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1565 Britannia Rd E Unit 2, Mississauga, ON L4W 3C6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.65773979999999,
+               "lng" : -79.6474913
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65901052989272,
+                  "lng" : -79.64625677010729
+               },
+               "southwest" : {
+                  "lat" : 43.65631087010728,
+                  "lng" : -79.64895642989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Body By Chosen Mississauga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110049920950961744092\"\u003eJ Crewe Chosen\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLiWs1mtdQjRvSns1cMDnLaYNtGLanz9zgQtca3_TFd9gDblnZ7MYlH6ZUx2jxoLFv8zI4WxzLSSnm4esZs2a4g5IC2H-zxCdR4xIHcr4Kp5gs7fwVrQiNNsWY4XLTB2UauETuLgMiN2-LiqVdNyJ2KwOZto-FwXB06Z3FRwEudM_jB",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJRdrkkmlCK4gRdrrVOnx-hM0",
+         "plus_code" : {
+            "compound_code" : "M953+32 Mississauga, Ontario",
+            "global_code" : "87M2M953+32"
+         },
+         "rating" : 5,
+         "reference" : "ChIJRdrkkmlCK4gRdrrVOnx-hM0",
+         "types" : [ "gym", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 32
+      }
+   ],
+   "status" : "OK"
+}

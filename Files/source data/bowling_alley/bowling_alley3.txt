@@ -1,0 +1,963 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1691 Kenmore Ave, Buffalo, NY 14216, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.95873150000001,
+               "lng" : -78.8807082
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.96007382989272,
+                  "lng" : -78.87938707010728
+               },
+               "southwest" : {
+                  "lat" : 42.95737417010728,
+                  "lng" : -78.88208672989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kenmore Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114501899893946224699\"\u003eOladapo Ogunbodede\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI4fSNWyk2xeun9n6G_cJBFbp1D7DS9wO6906Q-pk2mtraWe1bhd1bzS33yW0w0w4miVq4EeEVjaIwC-4mwf3czBkyPc862OIFuKQ4AXDpFo7uZUJWWYaOoSey12wKFSWec3YewLZRQbzzMmlj2VqRR_AzKIWhhv2IQMRQfCvwins_C",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJpfQBACFt04kRERLWajYCOdA",
+         "plus_code" : {
+            "compound_code" : "X459+GM Buffalo, New York, USA",
+            "global_code" : "87J3X459+GM"
+         },
+         "rating" : 4,
+         "reference" : "ChIJpfQBACFt04kRERLWajYCOdA",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 385
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "170 Tonawanda Creek Rd, Amherst, NY 14228, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0467296,
+               "lng" : -78.82285039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.04807947989273,
+                  "lng" : -78.82148272010727
+               },
+               "southwest" : {
+                  "lat" : 43.04537982010728,
+                  "lng" : -78.8241823798927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Manor Lanes II",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2250,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100289455747376418361\"\u003eWarren Lavallee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL_DRC-9jGy5TpLf2_qZVW5vx7F9Uh-vWl7Jv0r_qsku8anlczVmxCThCOPGVW3uZNeALmJrai0HOYhfsLnCUSOLcvIjyap006ZdQ578mrpLvFfnFnbWSjJGDI11v6YCZWzpk2aLT1rTd4LqL1DOc1Og8DWHbTIVuu6C47mNQc7n9z1",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJL1jSns5x04kRmMVEN2cJds8",
+         "plus_code" : {
+            "compound_code" : "25WG+MR Amherst, New York, USA",
+            "global_code" : "87M325WG+MR"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJL1jSns5x04kRmMVEN2cJds8",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 145
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "385 Frederick St, Kitchener, ON N2H 2P2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.45598,
+               "lng" : -80.472717
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45736557989272,
+                  "lng" : -80.47152442010729
+               },
+               "southwest" : {
+                  "lat" : 43.45466592010727,
+                  "lng" : -80.47422407989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AMF Frederick Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107688151346993062679\"\u003eReid Calder\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJTBacWcJEjaZltOsw4vWLJYciv9paHiSQaLom-8ceZ1TxmGD5RtL7ihk76AoeKiIfXCbdFNxUMrRQz6LauvFSjX64efEBEnzYcYWxrQJwFeCgV9Ck7talZjMa0H5iChRL-mQJnjYDq5panr3WQEoFpxabPvApQSLwsdoPWfIFNii4u",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJRYbDIrz0K4gRkqJUKe0eEdI",
+         "plus_code" : {
+            "compound_code" : "FG4G+9W Kitchener, Ontario",
+            "global_code" : "86MXFG4G+9W"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJRYbDIrz0K4gRkqJUKe0eEdI",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1124
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7906 Lundy's Ln, Niagara Falls, ON L2H 1H1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0886422,
+               "lng" : -79.12950839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.09010757989272,
+                  "lng" : -79.12807107010727
+               },
+               "southwest" : {
+                  "lat" : 43.08740792010728,
+                  "lng" : -79.13077072989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Cataract Bowl",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107904229072327930198\"\u003eDustin Taylor\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKvWc-lDt-hjretJMQB57mhmZW4C2WClP3nGvbqbk45_nrNr4tSyxyh4MN0Kc5wGaB67azAjASulmBcx18KfvSsKYh3LZF1nbYbQpPan2_EQmaPo9aEeXhAGtgMijgMq_2TqQNN-oN7T6IsBfM-HHa5c7dotUT0WSTihIDxKA0Hyfl2",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJQ6dWqI1E04kRMkDhLcr8MAE",
+         "plus_code" : {
+            "compound_code" : "3VQC+C5 Niagara Falls, Ontario",
+            "global_code" : "87M23VQC+C5"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQ6dWqI1E04kRMkDhLcr8MAE",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 288
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6510 Lincoln Ave, Lockport, NY 14094, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1530749,
+               "lng" : -78.67272109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.15437307989272,
+                  "lng" : -78.67147437010728
+               },
+               "southwest" : {
+                  "lat" : 43.15167342010728,
+                  "lng" : -78.67417402989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Allie Brandt Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116071020565331470387\"\u003eAllie Brandt Lanes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI9osMfBzOPpJnvKaDbJ8If8WMXLmMvmo31KrhwYtHyNXTWObbLXeiOOMERUAqnJcBfW5OFA2b2Pvm4_x3wJYb-r6NSE7aQ7DHz-BB7t5kl3GELll88-pFECEZ8clwKqfS7h0suRBZXNpTMoLSNFp-D02NA44wEH5DJL1PMKg4ndq6i",
+               "width" : 1798
+            }
+         ],
+         "place_id" : "ChIJaxfykEx_04kRZPxPgqSzj5o",
+         "plus_code" : {
+            "compound_code" : "583G+5Q Lockport, New York, USA",
+            "global_code" : "87M3583G+5Q"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJaxfykEx_04kRZPxPgqSzj5o",
+         "types" : [
+            "bowling_alley",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 436
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "968 Niagara St, Welland, ON L3C 1M6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0233402,
+               "lng" : -79.2493226
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.02468487989272,
+                  "lng" : -79.24820337010728
+               },
+               "southwest" : {
+                  "lat" : 43.02198522010728,
+                  "lng" : -79.25090302989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Jeff's Bowl-O-Rama",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101228627083071236970\"\u003eRodrigo Angie Benito\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLtVxkr1zclUH85_MbCcaF29kgPD-J8CNpo3vXT8ynrygJQSPTB9gcsvw8CvbTxurqhWItTKo6_esngduXyglPRcfVJ-hVl_THAVZpih2IQa2K3ygoqCNKwcRwJsDG95rD4qyQKLwK3GbGqklH24VJmE4t1UNSkmu_Vd6n0fUrlBmLL",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJQYGOcQNJ04kRZqCZK4C0KHE",
+         "plus_code" : {
+            "compound_code" : "2QF2+87 Welland, Ontario",
+            "global_code" : "87M22QF2+87"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJQYGOcQNJ04kRZqCZK4C0KHE",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 374
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "355 Hespeler Rd, Cambridge, ON N1R 6B3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3918309,
+               "lng" : -80.31941209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.39322852989272,
+                  "lng" : -80.31796887010726
+               },
+               "southwest" : {
+                  "lat" : 43.39052887010727,
+                  "lng" : -80.32066852989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kingpin Cambridge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105933509284963991722\"\u003eEbin Thomas\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIGTxuXF2lUAh1uWKvNlDfjM0nCPl1TTp4NoKiTsb5l6T1H-9NI3zZM5EQ4m2eSaLISp_39iUmfgRHFJ5NBhPGOho3SclM-5qSu8kdmT1Aa0udLXopZMv4Z4q_7hIGquXQJhBZJr_4XRtWB1zxms0m2trSomxNk84X5F_ZlBrkKmuDk",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ19POL5SJK4gRuXmN7VimKIo",
+         "plus_code" : {
+            "compound_code" : "9MRJ+P6 Cambridge, Ontario",
+            "global_code" : "86MX9MRJ+P6"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJ19POL5SJK4gRuXmN7VimKIo",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 801
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "11 Ottawa St N, Kitchener, ON N2H 3K1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4420434,
+               "lng" : -80.47045439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.44342002989272,
+                  "lng" : -80.46918202010727
+               },
+               "southwest" : {
+                  "lat" : 43.44072037010728,
+                  "lng" : -80.47188167989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Towne Bowl",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113785546310502963795\"\u003eChristopher Donaldson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL4mvS2n20f6YnL_gpJzhVE8vSitsF2E46t02vQg2gGnvD81xwk_Zc7yeoHEfjw3FcZPbcuDG7NPqrMJTy7C_tgqh-Xqx1ZqDxEk-skF4WNbBZ_ks8p6h_4XIsWXHv7bW4NDEvqK79IiCMeMPjt40jN4_SLxg9BGAbTyF-tTFUwiRhx",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJI3ZposT0K4gRgZR5L-blRUU",
+         "plus_code" : {
+            "compound_code" : "CGRH+RR Kitchener, Ontario",
+            "global_code" : "86MXCGRH+RR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJI3ZposT0K4gRgZR5L-blRUU",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 334
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "54 Holland St W, Bradford, ON L3Z 2A7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1136806,
+               "lng" : -79.5664542
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.11509022989272,
+                  "lng" : -79.56514287010727
+               },
+               "southwest" : {
+                  "lat" : 44.11239057010727,
+                  "lng" : -79.56784252989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Bradford Underground Bowl",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117804137088488930941\"\u003eElyse Booth\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL4Qp2SOYx5RqLhk8Gj8I2N33wuvQOYlCGkOECQzFiV5KssYcaSFOWWJ_4TsmKsmtezRtcLaGpOg0FEogCHZLMRa6PtV_P-WsVJVqnn2jqcQlDVPIm_kfyDDW1USMw12NT727CpZSD-5ecwimbA98R0HdiKssArRuj6zNJFiYx49-Tq",
+               "width" : 1348
+            }
+         ],
+         "place_id" : "ChIJ2390sIbFKogR4sBTKOnqRec",
+         "plus_code" : {
+            "compound_code" : "4C7M+CC Bradford, Bradford West Gwillimbury, ON",
+            "global_code" : "87P24C7M+CC"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJ2390sIbFKogR4sBTKOnqRec",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 108
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3754 Genesee St, Cheektowaga, NY 14225, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9288122,
+               "lng" : -78.74705829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.93022317989272,
+                  "lng" : -78.74561242010728
+               },
+               "southwest" : {
+                  "lat" : 42.92752352010727,
+                  "lng" : -78.74831207989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AMF Airport Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112245227844811037359\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcISqLB7cBMNuwKSJKIraXtQA4V1ihpN2pDqzdQAZVTFVsj6w0hLNzjpw1MRXS_Vj-26_HHjjp4UndXlxRmINdAOjr62rbve9nnbTLD-kWUiMX57TQzHNmIeJ-ToXTfenE5rUUbFmVcPAueCzp3JBgOKwsJ0YY1aPk-ltOj_TenlMMi-",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJCx-KsKp004kRCtAx93ABNRk",
+         "plus_code" : {
+            "compound_code" : "W7H3+J7 Cheektowaga, New York, USA",
+            "global_code" : "87J3W7H3+J7"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJCx-KsKp004kRCtAx93ABNRk",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 832
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "7850 Transit Rd, Williamsville, NY 14221, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.98208899999999,
+               "lng" : -78.697981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98337872989272,
+                  "lng" : -78.69648142010728
+               },
+               "southwest" : {
+                  "lat" : 42.98067907010727,
+                  "lng" : -78.69918107989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Transit Lanes Inc",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104648300927148332848\"\u003eShyam\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJHBkOZ1bmC8R0DY1-5zBrUO8XeAoV_qACsKYZo6pbNfOuAf68cT4ozi9fuCV3W-xLuMNJpoVNBJWvCNqs5m0qiBxPLXwaSB0ysMFdivfnfVbbq4_EMEYF-AC0BvS505iMif011hibwy_74j-5m2QXABEdOdYhnBE95D7-Se6tBDZ8n",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJUSla08t104kRFmY2Cm40dKs",
+         "plus_code" : {
+            "compound_code" : "X8J2+RR Williamsville, New York, USA",
+            "global_code" : "87J3X8J2+RR"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJUSla08t104kRFmY2Cm40dKs",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 863
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "6280 S Transit Rd, Lockport, NY 14094, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1229177,
+               "lng" : -78.69761509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.12426292989272,
+                  "lng" : -78.69607857010728
+               },
+               "southwest" : {
+                  "lat" : 43.12156327010727,
+                  "lng" : -78.69877822989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Brad Angelo Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 596,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106993719159898061841\"\u003eBrad Angelo Lanes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLIrWfuEjTuEK-ibh7ux0K0AMePTnYgN5nOwj7tJPieGH8VQRxt5iAU3ScBwIT8mBydl15FPwPUYk728u1OcIXEiEZRZvYRp7uDAbwuuuFNCvdJRlff_5dBHjuWW8xV-eEzzdCZnGrigtl99bWKJpnXFa77EbZvpnKvkz-vzIXpPjV3",
+               "width" : 1069
+            }
+         ],
+         "place_id" : "ChIJ_1yQfvx404kR7jUU_97pH44",
+         "plus_code" : {
+            "compound_code" : "48F2+5X Lockport, New York, USA",
+            "global_code" : "87M348F2+5X"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ_1yQfvx404kR7jUU_97pH44",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 213
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "163 Kerns Ave, Buffalo, NY 14211, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9160651,
+               "lng" : -78.8073079
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.91788257989272,
+                  "lng" : -78.80590177010728
+               },
+               "southwest" : {
+                  "lat" : 42.91518292010728,
+                  "lng" : -78.80860142989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kerns Avenue Bowling Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114987661115406878798\"\u003eBridget Coleman\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK5_oBB8LFelqyUkG2fl0Am520RDSQWJwsbm7exqwlrP_BUyeriWPwJsSNzrFGSFDzTPq-6YGB3HcDYrglLeZsGHX2FZSIr8Xd5tGH97RvwxuqZyeFDcsc7Zsq3R4yAUHuaV9BOS2ITwUkusinBNEDLv27E4u9ngEQl-P1P3ZZh0VIv",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJKVPWnT0N04kRwaK2QcMuTpU",
+         "plus_code" : {
+            "compound_code" : "W58V+C3 Buffalo, New York, USA",
+            "global_code" : "87J3W58V+C3"
+         },
+         "rating" : 3.9,
+         "reference" : "ChIJKVPWnT0N04kRwaK2QcMuTpU",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 261
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Upstairs, 69 Brock St W 2nd Floor, Uxbridge, ON L9P 1P5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.1089147,
+               "lng" : -79.12394290000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.11025062989272,
+                  "lng" : -79.12273507010728
+               },
+               "southwest" : {
+                  "lat" : 44.10755097010728,
+                  "lng" : -79.12543472989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Parish Lanes at UxBowl",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100967124427653716100\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJa8UWyOWRkpo8uyCvrJfh2S7wftrBo82Mu0GPGPvsUg56peg61-6MqWTbma7sHwed8KhX2iGG2C5RfPcTAbpNmHeftyYZQqSkdxN14DDtD7GBLiomi-3PsYyHQdD3KBTTcWmtmeVYrwPqEEB0IVarHJ0odd1HaJDwLqBrrkntqJPT2",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_5vNVFg51YkRJGOjvcaUMdM",
+         "plus_code" : {
+            "compound_code" : "4V5G+HC Uxbridge, Ontario",
+            "global_code" : "87P24V5G+HC"
+         },
+         "rating" : 4.4,
+         "reference" : "ChIJ_5vNVFg51YkRJGOjvcaUMdM",
+         "types" : [
+            "bowling_alley",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 155
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Hamilton, ON L0R 2H6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3322203,
+               "lng" : -79.89631199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.33352397989272,
+                  "lng" : -79.89501962010726
+               },
+               "southwest" : {
+                  "lat" : 43.33082432010728,
+                  "lng" : -79.89771927989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bowling",
+         "place_id" : "ChIJWR6kL2idLIgR6O-557dnqX8",
+         "plus_code" : {
+            "compound_code" : "84J3+VF Hamilton, Ontario",
+            "global_code" : "87M284J3+VF"
+         },
+         "rating" : 0,
+         "reference" : "ChIJWR6kL2idLIgR6O-557dnqX8",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4913 Transit Rd, Depew, NY 14043, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.878516,
+               "lng" : -78.69531599999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88011552989273,
+                  "lng" : -78.69460532010727
+               },
+               "southwest" : {
+                  "lat" : 42.87741587010728,
+                  "lng" : -78.69730497989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "AMF Lancaster Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2519,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104344439035330492802\"\u003eBogd_n\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK3Wqvx130RZZlNH-SAFme7cuMi-W0RGZ-GiYIEQay6V_ZKKGzj0Nmk_EX6pCXvmGOeUqgUjKnie_ZckUBaMcTqhBinA0-RXiSWfKQZs4Ebn4tUKri_KE52BYBGqbLc9VYolixGapisvSDiulXHzoYcWiuqu0xj5GH9AIt-thYEmd2b",
+               "width" : 3772
+            }
+         ],
+         "place_id" : "ChIJnzGicVEK04kRP-9kthzkc1U",
+         "plus_code" : {
+            "compound_code" : "V8H3+CV Depew, New York, USA",
+            "global_code" : "87J3V8H3+CV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJnzGicVEK04kRP-9kthzkc1U",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 427
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2850 William St, Cheektowaga, NY 14227, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.8842896,
+               "lng" : -78.7637632
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.88569702989272,
+                  "lng" : -78.76244207010727
+               },
+               "southwest" : {
+                  "lat" : 42.88299737010727,
+                  "lng" : -78.76514172989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Spare Time Bowling Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116996583345754478390\"\u003eBrian Ballard\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ9bdWrR1MkBSgyWp21ItuBMCuGoJkWsHNTea-kUu83MU6yoxA5dlgXSbUZusZuk32H3vXYQfmpAMpZhxiIXWzf_D8vDzzPcJbbDmjwj93NfzcPssNg8HYfXtCVteymzG18mj_--N7VPhkjGgRriT8ABO4Ey352_ngk0gVEfj4Eozi1",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJBTxFzGUM04kRFyWQh5g2YDY",
+         "plus_code" : {
+            "compound_code" : "V6MP+RF Cheektowaga, New York, USA",
+            "global_code" : "87J3V6MP+RF"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJBTxFzGUM04kRFyWQh5g2YDY",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 171
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "9 East Wilmot St, Richmond Hill, ON L4B 1G9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8524513,
+               "lng" : -79.38317960000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.85383782989271,
+                  "lng" : -79.38192432010727
+               },
+               "southwest" : {
+                  "lat" : 43.85113817010727,
+                  "lng" : -79.38462397989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Global \u5317\u5e97",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104786552802615072997\"\u003eRita Cheng\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKUUgwVtTHrjfyCY3jFZhfGEKlxBBhJ7IVLhWfC0K-zKxiB8meKZOR6cA_muvbcrkg0CoBZEjoE0jgHbXJ1ay8mT0yTYmRokOM-yD7PNzcscY90C4ISZV0UtFU4gbMzH_sKuxZ1lykv0LHgAZyeEXdhzCJ7fvpEfiK0XncQj8gbRqyr",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJn9iXgDMrK4gRZ8gClkJo6Vc",
+         "plus_code" : {
+            "compound_code" : "VJ28+XP Richmond Hill, Ontario",
+            "global_code" : "87M2VJ28+XP"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJn9iXgDMrK4gRZ8gClkJo6Vc",
+         "types" : [ "bar", "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 22
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "215 Riverside Dr, Welland, ON L3C 5E3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9825325,
+               "lng" : -79.26898829999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98400487989272,
+                  "lng" : -79.26775262010727
+               },
+               "southwest" : {
+                  "lat" : 42.98130522010727,
+                  "lng" : -79.27045227989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Kingsway Lanes & Restaurant",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106261726108765498870\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIo8j70JMB0Cn7OSuSJg_uO4hgvl06c3XZoD4HR25UvQ9M9ua8urXvKFj_LIdh1AOjt8lXEzNDpjbTqQS2mliu57ZQKBdPt_dRz_4hovn0PiFpq7cVkmZDGBgZXr-iQ8ojZvsdkmNgQQhxBVg1gzmTdnyVz-uiy7IP0RcJdl6wh7c1N",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ4TnA6uBJ04kRxRbryZu0JEY",
+         "plus_code" : {
+            "compound_code" : "XPMJ+2C Welland, Ontario",
+            "global_code" : "87J2XPMJ+2C"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ4TnA6uBJ04kRxRbryZu0JEY",
+         "types" : [
+            "bowling_alley",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 88
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1525 Stone Church Rd E, Hamilton, ON L8W 3P8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1956111,
+               "lng" : -79.8218782
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.19658377989272,
+                  "lng" : -79.82069252010727
+               },
+               "southwest" : {
+                  "lat" : 43.19388412010727,
+                  "lng" : -79.82339217989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Playdium Lite",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJy1KV_PCZLIgRRtrqsKTkvsg",
+         "plus_code" : {
+            "compound_code" : "55WH+66 Hamilton, Ontario",
+            "global_code" : "87M255WH+66"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJy1KV_PCZLIgRRtrqsKTkvsg",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      }
+   ],
+   "status" : "OK"
+}

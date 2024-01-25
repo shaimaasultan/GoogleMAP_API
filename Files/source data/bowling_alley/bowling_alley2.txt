@@ -1,0 +1,989 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aaw_FcIlEJaLolert5WtoAKVnIEas25RjHiIomUE17_hYN_vqPk5YDqJ50uXtUZFI-X7N7-jrXeb0c2g1ojVp5YRQj18HE989DIFX7k7_g9KORGiQj4jTCXwtDqwpAp1Rv0kBY3B9PIJA7-0Q6D1y7g3TMl7DBLK3gjZP9Pcd6VkRSeDqEaWWZi9XgGchG-c-_xy2t6qNwVsZip5qNWcGzSgIwQSyr0oHPJDWEBpZ1AxGPebQq0fojfDBanSQOUmvbzm3EiaFZ_f8Gi0IVj4KJkLGsgUwO04rP520Hkgi4ffndwu0GEujt-oMiPr164i_sLWW4maEFVNcp_Y7Tv9xrKFR6zddQoZVX9g-eT5Hu5S9z0rwBBBKhl7K1iFBef2JbonpI8oEnRl_tXCztqpNTTC5FtaFH6YSg3opDKSRTpbeipfc3b54CkPBMM5w_i7OHJSWtlp8Cbn1uBC4OI3AN1NwzY78Oj6jP7bb2G1M4g2oM3C3xa1Al5yiRvjLU3P5gNTAtJnuaaoCqHU8POMm5r5OYkkk5e1MfyouTHK6yrgYj8z8geGYiwNJrsrQbPwwMIhgw5Vft1SjgjlAXpT9t_4F4isv6JlAcA-q24r",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2644A Eglinton Ave E, Scarborough, ON M1K 2S3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7368454,
+               "lng" : -79.2511916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73818817989272,
+                  "lng" : -79.24977687010728
+               },
+               "southwest" : {
+                  "lat" : 43.73548852010727,
+                  "lng" : -79.25247652989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "C4 Centre Inc (5 Pin Bowling)",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108440204668459308630\"\u003eMary-Beth Sowerby\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKz-C4v8fJh1aa6VVj9WdLPhNZtvuz9Hn-iUkvqkjUa0yJEypWUUbgylgvO6t1QmoQerkF04dDPGzEYsXZo9IeHyOW-8iGlpUd5JZR08ZmBPuD0vnuOoCpbbTWuwdbu6AWjlwhFjOg3_LEIDiEajMCJEtno3EgSa_rJhHbZ7HzDIZs",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJg38qUinO1IkRseVyzCf45Mg",
+         "plus_code" : {
+            "compound_code" : "PPPX+PG Scarborough, Toronto, ON",
+            "global_code" : "87M2PPPX+PG"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJg38qUinO1IkRseVyzCf45Mg",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "64 Hamilton St N, Waterdown, ON L0R 2H6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.33225059999999,
+               "lng" : -79.89630459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.33341712989272,
+                  "lng" : -79.89484322010726
+               },
+               "southwest" : {
+                  "lat" : 43.33071747010727,
+                  "lng" : -79.89754287989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Waterdown Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1568,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114897306419382162086\"\u003eWaterdown Lanes\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJIqQwPXrP2BV4Ll2vySGO1Sf4XlXbif5O_ShKILwkZHgg6ORSaOzzgIGfpPwE_fzctRiuvY2Zf1wRB1dqv5zYcBmtt2k1eiB6Swb4pLKiLspNnLzgyxkG1EQ2wsKrgEzDEVsPGalbqMVhwQfPEmalmT9x-8Tohb1oTbnf2gJ6gzXWK",
+               "width" : 2352
+            }
+         ],
+         "place_id" : "ChIJhWe-KUOdLIgRTJHMYVBtrl0",
+         "plus_code" : {
+            "compound_code" : "84J3+VF Hamilton, Ontario",
+            "global_code" : "87M284J3+VF"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJhWe-KUOdLIgRTJHMYVBtrl0",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 58
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "327 Ontario St, St. Catharines, ON L2R 5L3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1695059,
+               "lng" : -79.2648401
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.17085247989272,
+                  "lng" : -79.26344712010729
+               },
+               "southwest" : {
+                  "lat" : 43.16815282010727,
+                  "lng" : -79.26614677989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Parkway Social",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109621912284732652045\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJpdwW1spPwiBXITxWMAW_ofb0u6hRri0EnkQ6Dl3GSPL7RNYcpO7JVUB9XH6TJob8BETTsLZ8jPnopu1mX_zcdsPR6ew7U2DcT4PgHAocX6m3PceWD8tW4CVpdQI7U5xrRD0LQXxj7TW35V0B27hEoTtWceT31ekHwthZG1PyGdf2Z",
+               "width" : 6000
+            }
+         ],
+         "place_id" : "ChIJRTjRiKBR04kRqXz0fKC_0Q4",
+         "plus_code" : {
+            "compound_code" : "5P9P+R3 St. Catharines, Ontario",
+            "global_code" : "87M25P9P+R3"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJRTjRiKBR04kRqXz0fKC_0Q4",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 849
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1525 Stone Church Rd E, Hamilton, ON L8W 3P8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1957203,
+               "lng" : -79.8219893
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.19664802989271,
+                  "lng" : -79.82078972010729
+               },
+               "southwest" : {
+                  "lat" : 43.19394837010727,
+                  "lng" : -79.82348937989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Splitsville Hamilton",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3252,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104333940942268832085\"\u003eSplitsville Entertainment\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI0tUmKUThzZObLCtMG6c65gUZsjJBwF50MuG1IVOchoZnJyGU7PnqFsiUL2479bwt0o-MWBqhIkeFRbcf2hZHcW44dHm1YFHPl2s-0vsKrV5GG7yul-EDgg4LkRF6RFZPq02HmWpCLdd012E35ogWNfmhFDXfa6NuWtopTfZ_QMenu",
+               "width" : 4910
+            }
+         ],
+         "place_id" : "ChIJUyU5HvGZLIgRTwCaAJITMME",
+         "plus_code" : {
+            "compound_code" : "55WH+76 Hamilton, Ontario",
+            "global_code" : "87M255WH+76"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJUyU5HvGZLIgRTwCaAJITMME",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 2684
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1220 Stellar Dr, Newmarket, ON L3Y 7B9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.076936,
+               "lng" : -79.42711799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.07838922989272,
+                  "lng" : -79.42581497010728
+               },
+               "southwest" : {
+                  "lat" : 44.07568957010728,
+                  "lng" : -79.42851462989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Stellar Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112053779477397477565\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJYgBzLjafUfLN3PIdoHiOchejx6xV19h0X7TSSM6b4391aZpo6AuoWorEgZi9AR0bTJdD0TksFXsbVMAB-Fwk763VeLrEs7y-4X33zu6GTLe3k34_uUTcDAP6NhhQoAwtlZcdUW7DgXwibWqBqtRjqeUoYgqvY-_qIvV0XdlhB31cr",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJC9wL7J_NKogRjuHKM5tse_Q",
+         "plus_code" : {
+            "compound_code" : "3HGF+Q5 Newmarket, Ontario",
+            "global_code" : "87P23HGF+Q5"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJC9wL7J_NKogRjuHKM5tse_Q",
+         "types" : [ "bowling_alley", "store", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 592
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "101 Osler Dr #114, Dundas, ON L9H 4H4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.2578521,
+               "lng" : -79.9429092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.25924552989272,
+                  "lng" : -79.94148842010728
+               },
+               "southwest" : {
+                  "lat" : 43.25654587010727,
+                  "lng" : -79.94418807989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "University Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112259373570288119957\"\u003eSaurabh Verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLf_RpHE7a18lBYpmJbukr50KgpJl9_NYiybQzmrlCT5MwEH69AoFjERYEHEM5DDnWFp5z-Nvp3cqJUe853J3_KbHSC2iBQVQR_x5PGt85sAfs57i_b4_f7U8clhO5WihrziKQHVMrtQzeV-S2gU6sHE7PRqBjGgSehgJYL7csazacC",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_UQ_-r2ELIgRIWxPz3BI2Oo",
+         "plus_code" : {
+            "compound_code" : "7354+4R Hamilton, Ontario",
+            "global_code" : "87M27354+4R"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ_UQ_-r2ELIgRIWxPz3BI2Oo",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 197
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "285 Geneva St, St. Catharines, ON L2N 2G1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1782866,
+               "lng" : -79.2443921
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.17965882989272,
+                  "lng" : -79.24335162010728
+               },
+               "southwest" : {
+                  "lat" : 43.17695917010727,
+                  "lng" : -79.24605127989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Fairview Bowling Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106819423740639765622\"\u003eTatamasang Jos\u00e9 Masang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLSlcJ4FentshFtZfDmNFQQqTuLLQiYbpyJggl49X3o7QwrxmWxBTjUlDsOu1RrM8X151hnO8oxSChaPfjQcOnHevkDPunSpxvJxCIuEZ1q5A4G_CxJbDWQR5BGoTsT549CzzXmSu92OyS8Jjub3zZdHtjrjl_pNu7NHaVmCTh9fNlL",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJt5XHyvxQ04kRFjYfrobJm3U",
+         "plus_code" : {
+            "compound_code" : "5QH4+86 St. Catharines, Ontario",
+            "global_code" : "87M25QH4+86"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJt5XHyvxQ04kRFjYfrobJm3U",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 209
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "300 Bronte St. S, Milton, ON L9T 1Y8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5023101,
+               "lng" : -79.8804315
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.50372977989272,
+                  "lng" : -79.87880187010728
+               },
+               "southwest" : {
+                  "lat" : 43.50103012010727,
+                  "lng" : -79.88150152989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/bar-71.png",
+         "icon_background_color" : "#FF9E67",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/bar_pinlet",
+         "name" : "Champs Family Entertainment Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112329224857773322794\"\u003eSyed Bukhari\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIVu5K-zz_YzTpBH5mNuy_rUh69l8c7v3wywb7--xLX_wQ6tyUN2SJ-8YRcpXrJKbLRPekY41vpEMiPqbQZmY3c_OwKOAI4YlYz5ZF4V2CLq5bW0KvJr3_4BSiWsnaTLdQB9omOU7ICMPTpY5kk5wpG_cdrxQLad_7u2BsebVoHay7r",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJxW_DnIRvK4gRG47MDrTOvA4",
+         "plus_code" : {
+            "compound_code" : "G429+WR Milton, Ontario",
+            "global_code" : "87M2G429+WR"
+         },
+         "price_level" : 2,
+         "rating" : 4.1,
+         "reference" : "ChIJxW_DnIRvK4gRG47MDrTOvA4",
+         "types" : [ "bowling_alley", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1135
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "253 Woodlawn Rd W, Guelph, ON N1H 8J1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5534927,
+               "lng" : -80.2946783
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.55481227989272,
+                  "lng" : -80.29324982010729
+               },
+               "southwest" : {
+                  "lat" : 43.55211262010728,
+                  "lng" : -80.29594947989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Woodlawn Bowl",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115166889879880208693\"\u003eStephanie Cserepka\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLJLKNH1q641KZgJa4lrM87eJ8XKbYO_SvDWdZ1KCt-w4INfJ7FFz4fUeXp9gRSOwORemxovCjOWKxl4Mr66YuFZxU8LTfpzh4S4MbuYETwKyHe2VILRRABWv_uytwoqU0Ew9OsXJMAy4xtX9fgygoECEFC28Xna8FGKXEBLOlqS8Z4",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJcwh1j2uQK4gRN1we7uKFrPQ",
+         "plus_code" : {
+            "compound_code" : "HP34+94 Guelph, Ontario",
+            "global_code" : "86MXHP34+94"
+         },
+         "rating" : 4,
+         "reference" : "ChIJcwh1j2uQK4gRN1we7uKFrPQ",
+         "types" : [
+            "bowling_alley",
+            "meal_takeaway",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1150
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "formatted_address" : "1554 Danforth Ave, Toronto, ON M4J 1N4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.683376,
+               "lng" : -79.32414430000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68468142989273,
+                  "lng" : -79.32277627010727
+               },
+               "southwest" : {
+                  "lat" : 43.68198177010728,
+                  "lng" : -79.32547592989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Danforth Bowl",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106538870452782317545\"\u003eBartek Shaarani\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJcgrUdQ22gNaliIBYA9h6KnfS1H3jdnVEHXMxa1zcIqcBsOkr3SVf6VVK3gTwWmf9sXaoyMIHXD01NiJVFAg80p_7xZZ24uoLix546i_THa5NRKgRs_launKsfDp8urARaWGjjTv5OQMrxSFbM-9Tdn8WEyPEbOk3vZ6BNtjwtaDrA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ6VXTYmXM1IkRv5175cTm9vI",
+         "plus_code" : {
+            "compound_code" : "MMMG+98 Toronto, Ontario",
+            "global_code" : "87M2MMMG+98"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6VXTYmXM1IkRv5175cTm9vI",
+         "types" : [ "bowling_alley", "bar", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 375
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "9524 Niagara Falls Blvd, Niagara Falls, NY 14304, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0961493,
+               "lng" : -78.95268249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.09742107989273,
+                  "lng" : -78.95112487010728
+               },
+               "southwest" : {
+                  "lat" : 43.09472142010728,
+                  "lng" : -78.95382452989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Rapids Bowling Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107584977344584413421\"\u003eJohn Campbell\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKrOnSS7OlTfqSYZHsOQzhQbbkGPEtrX6rF3z5PrusdB_yJOoXO8XV0V0xjzE21ZhwxCXgTfasUpsOwjoFSTtgTJSn0qmc2xQkSIo8oEhiLy0LJBZNeUhx0h_oCmCkiQDmnpgSD-8t7qN1U609tFOn_Fg7cryhkTJhO_7wDGI_oxqAN",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJTQX3lJho04kRos7-caE74wM",
+         "plus_code" : {
+            "compound_code" : "32WW+HW Niagara Falls, New York, USA",
+            "global_code" : "87M332WW+HW"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJTQX3lJho04kRos7-caE74wM",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 519
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "106 Main St, St. Catharines, ON L2N 4V4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1989905,
+               "lng" : -79.27308379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.20024807989272,
+                  "lng" : -79.27158872010727
+               },
+               "southwest" : {
+                  "lat" : 43.19754842010727,
+                  "lng" : -79.27428837989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Pla-Mor Bowling Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1837,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117210370764058141336\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKzrdFuSjuyA-laVdTg5AhCi2FyDyZrdoEWG9A6Nl55ZUjwgWCcROrEUCB_voGBWBVORW_uvmtScJ79KyWh_nCGRelyoplBm3dOpfMiYK8zhRxpIxnHR4_Fl80S7UL2CTCcOmqYRDjwgs91NB54JVv4g8ojc0EoUaTM97henBKOMSor",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJKTq0dkZR04kRhxhHx29z3d8",
+         "plus_code" : {
+            "compound_code" : "5PXG+HQ St. Catharines, Ontario",
+            "global_code" : "87M25PXG+HQ"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJKTq0dkZR04kRhxhHx29z3d8",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 170
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1840 Military Rd, Buffalo, NY 14217, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9873323,
+               "lng" : -78.8847449
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98862212989272,
+                  "lng" : -78.88341217010728
+               },
+               "southwest" : {
+                  "lat" : 42.98592247010728,
+                  "lng" : -78.88611182989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Classic Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115230918166291230810\"\u003eSoumaila Boubacar\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIbO2UIOQw78ltxBLynBSi1PiiXpv4yijgO0Sfco9_J94izuIE7in4dYwhlmP76hh8EOXnsrizfz7P1HIhwQbpEhLxvLjqfzROx2AnmOw8HRPc1Iyk5rme2pv0LVc7JUx_JZfAZxP8kAP8phlObsr1ghdzfrTfB8AW9JVs9SQAyVIGr",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJ4eHAO1Ns04kRWcDkMjDYswg",
+         "plus_code" : {
+            "compound_code" : "X4P8+W4 Buffalo, New York, USA",
+            "global_code" : "87J3X4P8+W4"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ4eHAO1Ns04kRWcDkMjDYswg",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "cafe",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 484
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "276 Broadway, Orangeville, ON L9W 1L1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.9170932,
+               "lng" : -80.10495709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.91853187989272,
+                  "lng" : -80.10357542010728
+               },
+               "southwest" : {
+                  "lat" : 43.91583222010728,
+                  "lng" : -80.10627507989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bowling on Broadway",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114211968317938520731\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKP2UkjpXrAwq3F3VTQMKLV-1FuEnbuv4rPWhX8_p2IB9yhwaDSeeg_QmsGifnM_CotHEKwGD_eOK8S7HjHe0embY6YoXQuOU-PqmoIUSaXWQL9RDVXQNXZW9ys_DQ4_9WXEbddzuFtGbX6DvzJuZ9NQthMpian_IOyoen8tHUsyKhY",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJsbgknQCrK4gRyRLMhHhgXVo",
+         "plus_code" : {
+            "compound_code" : "WV8W+V2 Orangeville, Ontario",
+            "global_code" : "86MXWV8W+V2"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJsbgknQCrK4gRyRLMhHhgXVo",
+         "types" : [
+            "bowling_alley",
+            "night_club",
+            "bar",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 206
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "574 Young St, Tonawanda, NY 14150, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0072222,
+               "lng" : -78.8627778
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.00859007989272,
+                  "lng" : -78.86122617010727
+               },
+               "southwest" : {
+                  "lat" : 43.00589042010728,
+                  "lng" : -78.86392582989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Tonawanda Bowling Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105987241005820584520\"\u003ePeeyush Firodiya\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJhxpXlTeYWIdDbaqARepGccXnRiLc1FJTDWQ8Jad20-3K3i87gjVdz-m8CANwLo_741NTNGwc68j6U9bgVAShs_6N75-FGeP2G8MPOqA_xTrxDSp6G9ny-ub8oArecwnn0RFClRRFc_JaEEo5JmNXzKJDEPmugjGIDpO1Und4IVigb",
+               "width" : 3840
+            }
+         ],
+         "place_id" : "ChIJA11D0MJt04kRQro_cvPfdXo",
+         "plus_code" : {
+            "compound_code" : "244P+VV Tonawanda, New York, USA",
+            "global_code" : "87M3244P+VV"
+         },
+         "rating" : 4.1,
+         "reference" : "ChIJA11D0MJt04kRQro_cvPfdXo",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 777
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "728 Champlain Ave, Oshawa, ON L1J 6W8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.875526,
+               "lng" : -78.883043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.87691992989272,
+                  "lng" : -78.88151387010728
+               },
+               "southwest" : {
+                  "lat" : 43.87422027010728,
+                  "lng" : -78.88421352989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Leisure Bowling Lanes Ltd",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116353542771092230309\"\u003eKevin Leung\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIMlatvjffrdgGIrvTBRBn0Nlo1qoRZb73vWgyFM4Bnmz-ZmhhRa3ZtLqLTL3THYLOMb78wh59BC3KcgwipNy6Q-eH0RgCDbiTiNbC2ZxNTKC3Zv6qjHgw19xTnINVt9Hj76Ij2QDkOt844k8pvqJ5XaB5MMxA7Rrjfu4_88jG4tYI8",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJdXhaRnUd1YkR1n0wce4zCIo",
+         "plus_code" : {
+            "compound_code" : "V4G8+6Q Oshawa, Ontario",
+            "global_code" : "87M3V4G8+6Q"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJdXhaRnUd1YkR1n0wce4zCIo",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1094
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "845 Cayuga St #1736, Lewiston, NY 14092, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.1705856,
+               "lng" : -79.034469
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.17209557989273,
+                  "lng" : -79.03308547010728
+               },
+               "southwest" : {
+                  "lat" : 43.16939592010728,
+                  "lng" : -79.03578512989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Lewiston Event Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2988,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104498806414489802112\"\u003eMike D.\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIZ_WPXubKcvW5lyutS1tZMZvJaw-nKak3ZbQIknl0Lu7XUu-b6TXOP5ChxLfJric8fWZeaWmZ2tS77Cy7AorTXYc0qM6mablpcpcw-nJ93b9oOBV35iEmyETLW95HqeH_dtJwcCs5CZKlXWP7kD7oNk7BE-LjGvl4Zb7WNn5OlBKO8",
+               "width" : 5312
+            }
+         ],
+         "place_id" : "ChIJRQ7JWOxd04kRnXg1Viph01s",
+         "plus_code" : {
+            "compound_code" : "5XC8+66 Lewiston, New York, USA",
+            "global_code" : "87M25XC8+66"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJRQ7JWOxd04kRnXg1Viph01s",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 132
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2712 Pine Ave, Niagara Falls, NY 14301, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0952382,
+               "lng" : -79.02880069999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.09662602989272,
+                  "lng" : -79.02745137010727
+               },
+               "southwest" : {
+                  "lat" : 43.09392637010728,
+                  "lng" : -79.03015102989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Bowl-O-Drome",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3432,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114167832096509637314\"\u003eAM K\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIgqvzTDDqQkqYU238aHBmtCs9_Haf0hp1lnxV7ko5Owct2Qoy2IdGUNZI-gR4Q8T-YHx_gY2zT6ojLnGfbXKA87RGjqWK5hjAOhyqCgLiv3a3MXEEjXlIifz8ia0BgbE8H369YEbckA5L_Xvub_gmJohJCfWhI5ghK9F4iYoj94qss",
+               "width" : 4576
+            }
+         ],
+         "place_id" : "ChIJM82xZqNC04kRe8O83Rf8bFM",
+         "plus_code" : {
+            "compound_code" : "3XWC+5F Niagara Falls, New York, USA",
+            "global_code" : "87M23XWC+5F"
+         },
+         "rating" : 4,
+         "reference" : "ChIJM82xZqNC04kRe8O83Rf8bFM",
+         "types" : [ "bowling_alley", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 88
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1887 Whitehaven Rd, Grand Island, NY 14072, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.0235992,
+               "lng" : -78.96125719999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.02491442989272,
+                  "lng" : -78.95993572010727
+               },
+               "southwest" : {
+                  "lat" : 43.02221477010728,
+                  "lng" : -78.96263537989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mallwitz's Island Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108497915201867002995\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL_KPnJSGn2YrwYXO3F0pxSbneKB1U0OrA-jDbhTZCyVc8QYFNizdMC7oqJNeRcAqqnzHj_QU9TO_YyN3CCoUc54-y942IMwJoMNfbQjABAOFikQa72xjuRiv8RKjnyBSEXpcQtL8wd1iPU7OHVPIm8FSn0_yFdWqgUGHzOSMyUZYzU",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJr_DgAtpr04kRIMnJrxJLi20",
+         "plus_code" : {
+            "compound_code" : "22FQ+FG Grand Island, New York, USA",
+            "global_code" : "87M322FQ+FG"
+         },
+         "rating" : 4.7,
+         "reference" : "ChIJr_DgAtpr04kRIMnJrxJLi20",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 350
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "150 Grand Island Blvd, Tonawanda, NY 14150, United States",
+         "geometry" : {
+            "location" : {
+               "lat" : 42.9801566,
+               "lng" : -78.90836170000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.98148527989272,
+                  "lng" : -78.90702782010727
+               },
+               "southwest" : {
+                  "lat" : 42.97878562010727,
+                  "lng" : -78.90972747989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Manor Lanes",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107116941268554376396\"\u003eSridhar Mane\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJj85edDnpgZIbwlVvDjhUwoLkIFBihswjQhwPtwsttgG5ObpUQ_0zjxlMvIhdTNiuOokvgZuSeOIJEy1xhAjPrqH-1r4yfE3t75BistG-vqUaw299NeadjMX-crGKxU9XNHEqqGkl2mQBPuT0Iunv8jHb0SCBEor03prGn9BbqLnR-",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ_67NGots04kRsRqDFWhXCnM",
+         "plus_code" : {
+            "compound_code" : "X3JR+2J Tonawanda, New York, USA",
+            "global_code" : "87J3X3JR+2J"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJ_67NGots04kRsRqDFWhXCnM",
+         "types" : [
+            "bowling_alley",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 347
+      }
+   ],
+   "status" : "OK"
+}

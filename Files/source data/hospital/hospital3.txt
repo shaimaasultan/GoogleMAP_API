@@ -1,0 +1,494 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "89 Humber College Blvd, Etobicoke, ON M9V 4B8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7307308,
+               "lng" : -79.59775639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73210912989272,
+                  "lng" : -79.59627542010728
+               },
+               "southwest" : {
+                  "lat" : 43.72940947010727,
+                  "lng" : -79.59897507989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Etobicoke Medical Center",
+         "photos" : [
+            {
+               "height" : 825,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118246381875187268798\"\u003eCM Kuncham\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI3IBhE2dNIX4Ck8a09BzToXs6QLmDPbGK_-HCD24ZCDMtV_lRDB2gYvxi6nRjflntNKbzLf9j5vnfb-1ZyORPHq6VjKuA0CYnp-kmVCFn2GCpwOqrJX54gSyFEU1V1FZaqOyTLazfrILyDHQEgnfh49W-F0ksrvtKCvD73i7SpEoF7",
+               "width" : 2264
+            }
+         ],
+         "place_id" : "ChIJg5LwYPU7K4gRnMie9fkLIFA",
+         "plus_code" : {
+            "compound_code" : "PCJ2+7V Etobicoke, Toronto, ON",
+            "global_code" : "87M2PCJ2+7V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJg5LwYPU7K4gRnMie9fkLIFA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1245 Lakeshore Rd., Burlington, ON L7S 0A2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.31687280000001,
+               "lng" : -79.802229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.31782727989273,
+                  "lng" : -79.80071987010727
+               },
+               "southwest" : {
+                  "lat" : 43.31512762010728,
+                  "lng" : -79.80341952989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Joseph Brant Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 766,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103647387225584278429\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKcMW_umKJd3xRIBfFtXPzm0DoMTuuB1ZvPnWC6tmw_5sNmKaHogSO9_EvMAPbmfGCOgwVZjjyKDYde8PV_y4BY8hIctyoWD7W-PyN7snXuS2LkEcRS3KzriV2igsCUoKy_bWVP3K9CtgGf8mzSGKSzyc0UI6GlmfSNcznRfXScbC5v",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ0wzWdT-eLIgR9JVo235KnCk",
+         "plus_code" : {
+            "compound_code" : "858X+P4 Burlington, Ontario",
+            "global_code" : "87M2858X+P4"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ0wzWdT-eLIgR9JVo235KnCk",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 482
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Princess Anne Dr, Georgetown, ON L7G 2B8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6447627,
+               "lng" : -79.9339303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64605037989272,
+                  "lng" : -79.93219067010727
+               },
+               "southwest" : {
+                  "lat" : 43.64335072010728,
+                  "lng" : -79.93489032989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Georgetown Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113517352461472214422\"\u003eSalin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJdNcmKw2P8Q2pFc6pt-LiBLmcKsehnK-0KxR4GPCG3u70KjnPG41dzZjqXR-yDlrIj6a8RNHWfU6oPXETtEFNZG6spyuGWlirUlOtuioL1Mp0DAap8FhidzXr2Jsy2qMC_cBh6y5jROkuHvClRz3sszAxIIDQFxIfIzOF0IXXGhrJx",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ-ZJQE7FyK4gRKCgYRTVGAgg",
+         "plus_code" : {
+            "compound_code" : "J3V8+WC Georgetown, Halton Hills, ON",
+            "global_code" : "87M2J3V8+WC"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJ-ZJQE7FyK4gRKCgYRTVGAgg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 405
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "381 Church St, Markham, ON L3P 7P3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.883684,
+               "lng" : -79.23250709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.88503707989272,
+                  "lng" : -79.23094567010727
+               },
+               "southwest" : {
+                  "lat" : 43.88233742010728,
+                  "lng" : -79.23364532989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Markham Stouffville Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 903,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115817774952617487758\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKKIgpkkJOjbnD7SRkYrLEibmlz4YD7zLYd2ePw0CvtmDsWgsdyiE2XAGWrfWM78u9hxyCqqKhi6fcf3zaKRCrCjjKzG8Fuel45cIA074ML_eBBEdPjCarftO-kg39n5qS62BUSLVzECt7jFpY7ICoBCyHGkckKBnl3VQxIJBacs-TV",
+               "width" : 1358
+            }
+         ],
+         "place_id" : "ChIJb_QUPtjX1IkRyzZNxVKvv8w",
+         "plus_code" : {
+            "compound_code" : "VQM8+FX Markham, Ontario",
+            "global_code" : "87M2VQM8+FX"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJb_QUPtjX1IkRyzZNxVKvv8w",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 818
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3050 Lawrence Ave E, Scarborough, ON M1P 2V5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7557103,
+               "lng" : -79.2457611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75718127989272,
+                  "lng" : -79.24507029999999
+               },
+               "southwest" : {
+                  "lat" : 43.75448162010728,
+                  "lng" : -79.2478335
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Scarborough Health Network - General Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2314,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109000092345306687849\"\u003eMichael Chua\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIoRPj_ASAHarVxiXYF47tNKJQ_Ngydz4CEQHxWOKjbyaAwi61XOq2iz_1NP6J68F_-KdgDxVCJqRzUos1vFUBsYLjrRUwPCKHd8OAb7k5LWUuOsoblZXsjCpdg6hVS3pWarCLggW2q1vZLRDk1ukNZP3rysfBtxisPanmv4y3iE0es",
+               "width" : 3085
+            }
+         ],
+         "place_id" : "ChIJP5RuE8vR1IkR-NZXzD22oX8",
+         "plus_code" : {
+            "compound_code" : "QQ43+7M Scarborough, Toronto, ON",
+            "global_code" : "87M2QQ43+7M"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJP5RuE8vR1IkR-NZXzD22oX8",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 641
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "170 Elizabeth St, Toronto, ON M5G 1E8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6576007,
+               "lng" : -79.38650109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65868927989273,
+                  "lng" : -79.38539814999999
+               },
+               "southwest" : {
+                  "lat" : 43.65598962010728,
+                  "lng" : -79.38980995000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "The Hospital for Sick Children",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1824,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108786103993427379507\"\u003eAndrew Ramos\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIcTbvvi0xSCl4v9rPiIyDoyOHS-EniMOBY2FB13eDic6Oa0ETXiqHjpqEMlAagFaOq-4mEqq7BG24-Lk6mU4Bcu_Ziw2IUnhNn1KrTZvuZp_9_bcb6jVEkx1pj20zNb6BL3FsD2RIPSPMg-NpLRJmUbwsfMrrpadwGue2EIWvv01xP",
+               "width" : 2732
+            }
+         ],
+         "place_id" : "ChIJyTwlssk0K4gRzwbTu235JtY",
+         "plus_code" : {
+            "compound_code" : "MJ57+29 Toronto, Ontario",
+            "global_code" : "87M2MJ57+29"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJyTwlssk0K4gRzwbTu235JtY",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 995
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Creditview Rd, 4040 Creditview Rd, Mississauga, ON L5C 3Y8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5682448,
+               "lng" : -79.66655039999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56961322989272,
+                  "lng" : -79.66512932010728
+               },
+               "southwest" : {
+                  "lat" : 43.56691357010727,
+                  "lng" : -79.66782897989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Creditview Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1600,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105089640977431242271\"\u003eStephanie Konu\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJHc_wnEDQOUmxvPFNhSrVSc9EzS_Lu3AlMrhBIUZ9PAz2inqDdfh7zTnTRrt6z12udDmK-QcyFtU5TbP23TFwwvGTv38PhuAQkeKm4s3yV_hjSJhbfMQJRTZvOMCtiJLyoF5lM_buxcEi1gGOjmmeVAursbqtIMn11UZ10oZbLLajq",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJq-jT1kZBK4gRPrWjkiZ0PdI",
+         "plus_code" : {
+            "compound_code" : "H89M+79 Mississauga, Ontario",
+            "global_code" : "87M2H89M+79"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJq-jT1kZBK4gRPrWjkiZ0PdI",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2555 Erin Centre Blvd #16, Mississauga, ON L5M 5H1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5629891,
+               "lng" : -79.71006849999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56422082989272,
+                  "lng" : -79.70875242010727
+               },
+               "southwest" : {
+                  "lat" : 43.56152117010728,
+                  "lng" : -79.71145207989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Credit Valley Health Center",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115395093387480434466\"\u003eHazard Lee\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIbiw8UWa9laErVbuJWemiA1a_FJBf2efuoxygyz_JfliQVvmG_zjrDBUTrv9ItkGJD3wuRmyzu931YCU5HbjWI8DrMNEQ1AklhkoCKf2g_XgsXdj-A9emJiP92kvyoDiWBdFMtkluQvgf1dXnl5KllufbTQN_LLnULtJSKRBvbBbYl",
+               "width" : 1848
+            }
+         ],
+         "place_id" : "ChIJjXWoWI5BK4gRTZmHfKaKuTw",
+         "plus_code" : {
+            "compound_code" : "H77Q+5X Mississauga, Ontario",
+            "global_code" : "87M2H77Q+5X"
+         },
+         "rating" : 3.4,
+         "reference" : "ChIJjXWoWI5BK4gRTZmHfKaKuTw",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 138
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "700 Coronation Blvd, Cambridge, ON N1R 3G2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.3783294,
+               "lng" : -80.32858179999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.37973802989272,
+                  "lng" : -80.32687652010728
+               },
+               "southwest" : {
+                  "lat" : 43.37703837010728,
+                  "lng" : -80.32957617989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Cambridge Memorial Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107912843957663720049\"\u003eMitesh Patel\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJKzFRiOgCqmVLgOzPyiQj577Eko5fHiYhdC9GchHnycrXKBfQhsmo1o6qm4DQfD4uHEjs4zvAYTDDArEzub6pxQQnObRKxNEn7v94QU8ADG56rO-JpuQgtObS68j-YrzG1vcAe_XADpTCFuMARTgrbYXqHaWkuypTuVRxmcp4x2yPK",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJufn_DCl2LIgR_rjg9NDX01Q",
+         "plus_code" : {
+            "compound_code" : "9MHC+8H Cambridge, Ontario",
+            "global_code" : "86MX9MHC+8H"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJufn_DCl2LIgR_rjg9NDX01Q",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 642
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "100 Rolling Hills Dr, Orangeville, ON L9W 4X9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.91974990000001,
+               "lng" : -80.0738497
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.92109512989272,
+                  "lng" : -80.07226942010728
+               },
+               "southwest" : {
+                  "lat" : 43.91839547010728,
+                  "lng" : -80.07496907989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Headwaters Health Care Centre",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114626893465007692569\"\u003eEpics of Enuma Elish\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLioB0oOaVxolzwjYFkHSwEhovXgYIMLUCYY11x58Zhn_gvtuQLGSmhkTfjL-jST6nL4cvDnxcAztIyHgN2lBlSodWe9-EhFW1a3SDY830ehKv30DRvXDm-3VeJ8aNXXMcTUOjsAen_9e4mzqgkqNR630qF_Z-99XRx_lRasMD21Ccy",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJs_BDcPIAK4gRzjULsYbZKFg",
+         "plus_code" : {
+            "compound_code" : "WW9G+VF Orangeville, Ontario",
+            "global_code" : "86MXWW9G+VF"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJs_BDcPIAK4gRzjULsYbZKFg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 284
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "1867 Bloor St, Mississauga, ON L4X 1T4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6273737,
+               "lng" : -79.583654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62866012989272,
+                  "lng" : -79.58235702010728
+               },
+               "southwest" : {
+                  "lat" : 43.62596047010727,
+                  "lng" : -79.58505667989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "mississauga hospital",
+         "permanently_closed" : true,
+         "place_id" : "ChIJQ3xyllo5K4gR12IqKm4whY8",
+         "plus_code" : {
+            "compound_code" : "JCG8+WG Mississauga, Ontario",
+            "global_code" : "87M2JCG8+WG"
+         },
+         "rating" : 1,
+         "reference" : "ChIJQ3xyllo5K4gR12IqKm4whY8",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}
