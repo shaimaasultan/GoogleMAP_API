@@ -1,0 +1,20 @@
+Name : Trillium Health Partners - Mississauga Hospital | FormattedAddress: 100 Queensway W, Mississauga, ON L5B 1B8, Canada
+Name : trillium sherway | FormattedAddress: 150 Sherway Dr, Etobicoke, ON M9C 1A4, Canada
+Name : Toronto General Hospital | FormattedAddress: 200 Elizabeth St, Toronto, ON M5G 2C4, Canada
+Name : St. Joseph's Health Centre, Toronto | FormattedAddress: 30 The Queensway, Toronto, ON M6R 1B5, Canada
+Name : Toronto Western Hospital | FormattedAddress: 399 Bathurst St, Toronto, ON M5T 2S8, Canada
+Name : William Osler Health System - Etobicoke General Hospital | FormattedAddress: 101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada
+Name : Humber River Hospital | FormattedAddress: 1235 Wilson Ave, North York, ON M3M 0B2, Canada
+Name : Mount Sinai Hospital | FormattedAddress: 600 University Ave, Toronto, ON M5G 1X5, Canada
+Name : Sunnybrook Health Sciences Centre | FormattedAddress: 2075 Bayview Ave, Toronto, ON M4N 3M5, Canada
+Name : St. Michael's Hospital | FormattedAddress: 30 Bond St, Toronto, ON M5B 1W8, Canada
+Name : Trillium Health Partners - Credit Valley Hospital | FormattedAddress: 2200 Eglinton Ave W, Mississauga, ON L5M 2N1, Canada
+Name : William Osler Health System - Brampton Civic Hospital | FormattedAddress: 2100 Bovaird Dr E, Brampton, ON L6R 3J7, Canada
+Name : University Health Network | FormattedAddress: 101 College St, Toronto, ON M5G 1L7, Canada
+Name : Milton District Hospital | FormattedAddress: 725 Bronte St S, Milton, ON L9T 9K1, Canada
+Name : Michael Garron Hospital | FormattedAddress: 825 Coxwell Ave, East York, ON M4C 3E7, Canada
+Name : Princess Margaret Hospital | FormattedAddress: 610 University Ave, Toronto, ON M5G 2M9, Canada
+Name : Council of Academic Hospitals of Ontario | FormattedAddress: 200 Front St W suite 2301, Toronto, ON M5V 3L1, Canada
+Name : Runnymede Healthcare Centre | FormattedAddress: 625 Runnymede Rd, Toronto, ON M6S 3A3, Canada
+Name : Mount Sinai Hospital | FormattedAddress: 60 Murray St, Toronto, ON M5T 3L9, Canada
+Name : North York General Hospital | FormattedAddress: 4001 Leslie St, North York, ON M2K 1E1, Canada

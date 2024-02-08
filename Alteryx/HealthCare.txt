@@ -1,0 +1,60 @@
+Name : Public Health Ontario | FormattedAddress: 480 University Ave #300, Toronto, ON M5G 1V2, Canada | LocationType: Rooftop | Location_Lat: 43.6550684 | Location_long: -79.3888853
+Name : Ministry of Health and Long-Term Care | FormattedAddress: 5700 Yonge St, North York, ON M2M 4K5, Canada | LocationType: Rooftop | Location_Lat: 43.7810748 | Location_long: -79.4167181
+Name : Spectrum Health Care | FormattedAddress: 1290 Central Pkwy W, Mississauga, ON L5C 4R3, Canada | LocationType: Rooftop | Location_Lat: 43.5667193 | Location_long: -79.66464119999999
+Name : Providence Healthcare | FormattedAddress: 3276 St Clair Ave E, Scarborough, ON M1L 1W1, Canada | LocationType: Rooftop | Location_Lat: 43.711983 | Location_long: -79.284789
+Name : Telehealth Ontario | FormattedAddress: 900 Bay St, Toronto, ON M7A 1N3, Canada | LocationType: Rooftop | Location_Lat: 43.6634308 | Location_long: -79.3876748
+Name : University Health Network | FormattedAddress: 101 College St, Toronto, ON M5G 1L7, Canada | LocationType: Rooftop | Location_Lat: 43.6598777 | Location_long: -79.38761810000001
+Name : Spectrum Health Care | FormattedAddress: 2 Bloor St E #1200, Toronto, ON M4W 1A8, Canada | LocationType: Rooftop | Location_Lat: 43.6706111 | Location_long: -79.38670069999999
+Name : Home Care Ontario | FormattedAddress: 175 Longwood Rd S #319a, Hamilton, ON L8P 0A1, Canada | LocationType: Rooftop | Location_Lat: 43.256869 | Location_long: -79.901034
+Name : Canada Health | FormattedAddress: 33 Court St S, Thunder Bay, ON P7B 2W6, Canada | LocationType: Rooftop | Location_Lat: 48.4344932 | Location_long: -89.2227316
+Name : Bayshore Home Health | FormattedAddress: 89 Queensway W #202, Mississauga, ON L5B 2V2, Canada | LocationType: Rooftop | Location_Lat: 43.5725779 | Location_long: -79.6104222
+Name : Ontario Health Services | FormattedAddress: 6677 Meadowvale Town Centre Cir, Mississauga, ON L5N 6A2, Canada | LocationType: Rooftop | Location_Lat: 43.581568 | Location_long: -79.7575554
+Name : Cleveland Clinic Canada | FormattedAddress: 181 Bay St 30th Floor, Toronto, ON M5J 2T3, Canada | LocationType: Rooftop | Location_Lat: 43.6473316 | Location_long: -79.37853009999999
+Name : OHIP | FormattedAddress: 47 Sheppard Ave E #4, Toronto, ON M2N 0H2, Canada | LocationType: Rooftop | Location_Lat: 43.761206 | Location_long: -79.40802819999999
+Name : Ontario Health (Digital Services) | FormattedAddress: 777 Bay St #701, Toronto, ON M5G 2C8, Canada | LocationType: Rooftop | Location_Lat: 43.6604859 | Location_long: -79.3844559
+Name : Trillium Health Partners - Mississauga Hospital | FormattedAddress: 100 Queensway W, Mississauga, ON L5B 1B8, Canada | LocationType: Rooftop | Location_Lat: 43.5715858 | Location_long: -79.6076852
+Name : Healthcare of Ontario Pension Plan - HOOPP | FormattedAddress: 1 York St suite 1900, Toronto, ON M5J 0B6, Canada | LocationType: Rooftop | Location_Lat: 43.6415038 | Location_long: -79.3806604
+Name : Canadian Mental Health Association | FormattedAddress: 700 Lawrence Ave W #480, North York, ON M6A 3B4, Canada | LocationType: Rooftop | Location_Lat: 43.7165476 | Location_long: -79.4476695
+Name : VHA Home HealthCare Rehab Solutions - Toronto | FormattedAddress: 700 Lawrence Ave W #310, North York, ON M6A 3B4, Canada | LocationType: Rooftop | Location_Lat: 43.7166569 | Location_long: -79.4472576
+Name : Ontario Health Coalition | FormattedAddress: 15 Gervais Dr #201, North York, ON M3C 1Y8, Canada | LocationType: Rooftop | Location_Lat: 43.72220009999999 | Location_long: -79.3360091
+Name : Bayshore HealthCare | FormattedAddress: 2101 Hadwen Rd, Mississauga, ON L5K 2L3, Canada | LocationType: Rooftop | Location_Lat: 43.52294029999999 | Location_long: -79.6553672
+Name : Bayshore Health Care | FormattedAddress: Brampton, ON L6R 2R6, Canada | LocationType: Rooftop | Location_Lat: 43.7471998 | Location_long: -79.7434828
+Name : Trillium Health Partners - Queensway Health Centre | FormattedAddress: 150 Sherway Dr, Etobicoke, ON M9C 1A5, Canada | LocationType: Rooftop | Location_Lat: 43.60926500000001 | Location_long: -79.562569
+Name : Halton Healthcare | FormattedAddress: 3001 Hospital Gate, Oakville, ON L6M 0L8, Canada | LocationType: Rooftop | Location_Lat: 43.451179 | Location_long: -79.764073
+Name : Victorian Order of Nurses | FormattedAddress: 2150 Islington Ave, Etobicoke, ON M9P 3V4, Canada | LocationType: Rooftop | Location_Lat: 43.7052919 | Location_long: -79.5518431
+Name : Bayshore Home Health | FormattedAddress: 233 Alden Rd, Markham, ON L3R 4C1, Canada | LocationType: Rooftop | Location_Lat: 43.8314656 | Location_long: -79.3352764
+Name : CAMH - College Street Site | FormattedAddress: 250 College St, Toronto, ON M5T 1L8, Canada | LocationType: Rooftop | Location_Lat: 43.6585588 | Location_long: -79.3990409
+Name : Centre for Addiction and Mental Health | FormattedAddress: 1001 Queen St W, Toronto, ON M6J 1H4, Canada | LocationType: Rooftop | Location_Lat: 43.6427811 | Location_long: -79.41846770000001
+Name : East Mississauga Community Health Centre | FormattedAddress: 2555 Dixie Rd Unit 7, Mississauga, ON L4Y 4C4, Canada | LocationType: Rooftop | Location_Lat: 43.60899999999999 | Location_long: -79.5825124
+Name : St. Joseph's Healthcare Hamilton King Campus | FormattedAddress: 2757 King St E, Hamilton, ON L8G 5E4, Canada | LocationType: Rooftop | Location_Lat: 43.2218746 | Location_long: -79.7743193
+Name : Centre for Addiction and Mental Health | FormattedAddress: 33 Russell St, Toronto, ON M5S 2S1, Canada | LocationType: Rooftop | Location_Lat: 43.6590387 | Location_long: -79.3992547
+Name : Ontario Shores Centre for Mental Health Sciences | FormattedAddress: 700 Gordon St, Whitby, ON L1N 5S9, Canada | LocationType: Rooftop | Location_Lat: 43.84780860000001 | Location_long: -78.9453908
+Name : VitalAire Canada Head Office | FormattedAddress: 6990 Creditview Rd #6, Mississauga, ON L5N 8R9, Canada | LocationType: Rooftop | Location_Lat: 43.6118634 | Location_long: -79.7453391
+Name : Sherbourne Health | FormattedAddress: 333 Sherbourne St, Toronto, ON M5A 2S5, Canada | LocationType: Rooftop | Location_Lat: 43.662231 | Location_long: -79.37235079999999
+Name : Main Street West Urgent Care Centre - Hamilton Health Sciences | FormattedAddress: 690 Main St W, Hamilton, ON L8S 1A4, Canada | LocationType: Rooftop | Location_Lat: 43.2602715 | Location_long: -79.89783899999999
+Name : Canadian Mental Health Associan CMHA-Aurora | FormattedAddress: 15150 Yonge St, Aurora, ON L4G 1M2, Canada | LocationType: Rooftop | Location_Lat: 43.9973266 | Location_long: -79.4671906
+Name : Mississauga Health Centre | FormattedAddress: 3420 Hurontario St, Mississauga, ON L5B 4A9, Canada | LocationType: Rooftop | Location_Lat: 43.5881757 | Location_long: -79.62843389999999
+Name : Oakville Trafalgar Memorial Hospital | FormattedAddress: 3001 Hospital Gate, Oakville, ON L6M 0L8, Canada | LocationType: Rooftop | Location_Lat: 43.4506592 | Location_long: -79.7639489
+Name : CAMH - Work, Stress and Health Program | FormattedAddress: 455 Spadina Ave #210, Toronto, ON M5S 2G8, Canada | LocationType: Rooftop | Location_Lat: 43.6582537 | Location_long: -79.3998803
+Name : Summerville Family Health Team (Central) | FormattedAddress: 101 Queensway W, Mississauga, ON L5B 2P7, Canada | LocationType: Rooftop | Location_Lat: 43.572176 | Location_long: -79.61088819999999
+Name : Hamilton Health Sciences Juravinski Cancer Centre | FormattedAddress: 711 Concession, Hamilton, ON L8V 1C3, Canada | LocationType: Rooftop | Location_Lat: 43.2398501 | Location_long: -79.84648709999999
+Name : Juravinski Hospital - Hamilton Health Sciences | FormattedAddress: 711 Concession St, Hamilton, ON L8V 1C3, Canada | LocationType: Rooftop | Location_Lat: 43.2401034 | Location_long: -79.8457682
+Name : Helping Hands Healthcare | FormattedAddress: 6711 Mississauga Rd Suite 100, Mississauga, ON L5N 2W3, Canada | LocationType: Rooftop | Location_Lat: 43.602144 | Location_long: -79.7397809
+Name : Hamilton General Hospital | FormattedAddress: 237 Barton St E, Hamilton, ON L8L 2X2, Canada | LocationType: Rooftop | Location_Lat: 43.2624646 | Location_long: -79.85409159999999
+Name : Niagara Health - St. Catharines Site | FormattedAddress: 1200 Fourth Ave, St. Catharines, ON L2S 0A9, Canada | LocationType: Rooftop | Location_Lat: 43.15366299999999 | Location_long: -79.2785004
+Name : Ontario Health-Long Term Care | FormattedAddress: 80 Grosvenor St, Toronto, ON M7A 2C4, Canada | LocationType: Rooftop | Location_Lat: 43.6622332 | Location_long: -79.3885212
+Name : Trillium Health Partners - Credit Valley Hospital | FormattedAddress: 2200 Eglinton Ave W, Mississauga, ON L5M 2N1, Canada | LocationType: Rooftop | Location_Lat: 43.5591213 | Location_long: -79.7037003
+Name : Home Instead Senior Care | FormattedAddress: 5359 Dundas St W, Etobicoke, ON M9B 1B1, Canada | LocationType: Rooftop | Location_Lat: 43.63573600000001 | Location_long: -79.53992099999999
+Name : McMaster Children's Hospital - Hamilton Health Sciences | FormattedAddress: 1200 Main St W, Hamilton, ON L8N 3Z5, Canada | LocationType: Rooftop | Location_Lat: 43.2592191 | Location_long: -79.917503
+Name : Canada Health Infoway | FormattedAddress: 150 King St W suite 1300, Toronto, ON M5H 1J9, Canada | LocationType: Rooftop | Location_Lat: 43.64811599999999 | Location_long: -79.3844795
+Name : Public Health Ontario | FormattedAddress: 350 Conestoga Blvd, Cambridge, ON N1R 8P4, Canada | LocationType: Rooftop | Location_Lat: 43.3897183 | Location_long: -80.31454169999999
+Name : Thornbrook Homecare | FormattedAddress: 5230 Dundas St W #13, Etobicoke, ON M9B 1A8, Canada | LocationType: Rooftop | Location_Lat: 43.6403757 | Location_long: -79.5380495
+Name : VHA Home HealthCare | FormattedAddress: 30 Soudan Ave Suite 600, Toronto, ON M4S 1V6, Canada | LocationType: Rooftop | Location_Lat: 43.7047613 | Location_long: -79.3970004
+Name : London Health Sciences Centre | FormattedAddress: 800 Commissioners Rd E, London, ON N6A 5W9, Canada | LocationType: Rooftop | Location_Lat: 42.960348 | Location_long: -81.226628
+Name : Canadian Institute for Health Information (CIHI) | FormattedAddress: 4110 Yonge St Suite 300, North York, ON M2P 2B7, Canada | LocationType: Rooftop | Location_Lat: 43.7462786 | Location_long: -79.4091085
+Name : St. Peter's Hospital - Hamilton Health Sciences | FormattedAddress: 88 Maplewood Ave, Hamilton, ON L8M 1W9, Canada | LocationType: Rooftop | Location_Lat: 43.2443864 | Location_long: -79.83720699999999
+Name : Medtech Canada | FormattedAddress: 405 The West Mall Suite 900, Etobicoke, ON M9C 5J1, Canada | LocationType: Rooftop | Location_Lat: 43.6456127 | Location_long: -79.566929
+Name : University Hospital - London Health Sciences Centre | FormattedAddress: 339 Windermere Rd, London, ON N6A 5A5, Canada | LocationType: Rooftop | Location_Lat: 43.01245309999999 | Location_long: -81.2745418
+Name : Ontario Public Health Association | FormattedAddress: 154 Pearl St, Toronto, ON M5H 3T4, Canada | LocationType: Rooftop | Location_Lat: 43.6478192 | Location_long: -79.3880423
+Name : Health Canada | FormattedAddress: Moose Factory, ON P0L 1W0, Canada | LocationType: Rooftop | Location_Lat: 51.265577 | Location_long: -80.6169701
+Name : Toronto General Hospital | FormattedAddress: 200 Elizabeth St, Toronto, ON M5G 2C4, Canada | LocationType: Rooftop | Location_Lat: 43.6591496 | Location_long: -79.38801769999999

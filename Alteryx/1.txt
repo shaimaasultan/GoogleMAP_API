@@ -1,0 +1,12 @@
+https://maps.googleapis.com/maps/api/place/textsearch/json?query=123+main+street&key=YOUR_API_KEY
+https://maps.googleapis.com/maps/api/place/findplacefromtext/json?input=Museum%20of%20Contemporary%20Art%20Australia&inputtype=textquery&fields=photos,formatted_address,name,rating,opening_hours,geometry&key=YOUR_API_KEY
+https://maps.googleapis.com/maps/api/place/textsearch/xml?query=restaurants+in+Sydney&key=YOUR_API_KEY
+
+fields=address_component,name,geometry&region=CA&type=hospital,doctor,Postal_code,health
+
+
+
+https://maps.googleapis.com/maps/api/geocode/json?components=locality:santa+cruz|country:ES
+&key=YOUR_API_KEY
+https://maps.googleapis.com/maps/api/geocode/json?address=Toronto+hospital&components=country:CA
+&key=AIzaSyBKfrGrfFkXPhSQ3YdFX4qc_jf9P6B7QR4

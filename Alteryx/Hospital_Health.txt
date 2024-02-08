@@ -1,0 +1,37 @@
+Name : Trillium Health Partners - Mississauga Hospital | FormattedAddress: 100 Queensway W, Mississauga, ON L5B 1B8, Canada | LocationType: Rooftop | Location_Lat: 43.5715858 | Location_long: -79.6076852
+Name : queensway health care canada | FormattedAddress: 150 Sherway Dr, Etobicoke, ON M9C 1A5, Canada | LocationType: Rooftop | Location_Lat: 43.6090384 | Location_long: -79.5618179
+Name : Trillium Health Partners - Credit Valley Hospital | FormattedAddress: 2200 Eglinton Ave W, Mississauga, ON L5M 2N1, Canada | LocationType: Rooftop | Location_Lat: 43.5591213 | Location_long: -79.7037003
+Name : St. Joseph's Health Centre, Toronto | FormattedAddress: 30 The Queensway, Toronto, ON M6R 1B5, Canada | LocationType: Rooftop | Location_Lat: 43.6406311 | Location_long: -79.4503136
+Name : William Osler Health System - Etobicoke General Hospital | FormattedAddress: 101 Humber College Blvd, Etobicoke, ON M9V 1R8, Canada | LocationType: Rooftop | Location_Lat: 43.7292944 | Location_long: -79.5984363
+Name : Queensway Health Center | FormattedAddress: 150 Sherway Dr, Etobicoke, ON M9C 1A4, Canada | LocationType: Rooftop | Location_Lat: 43.6093347 | Location_long: -79.56248409999999
+Name : Sunnybrook Health Sciences Centre | FormattedAddress: 2075 Bayview Ave, Toronto, ON M4N 3M5, Canada | LocationType: Rooftop | Location_Lat: 43.72242019999999 | Location_long: -79.37401919999999
+Name : University Health Network | FormattedAddress: 101 College St, Toronto, ON M5G 1L7, Canada | LocationType: Rooftop | Location_Lat: 43.6598777 | Location_long: -79.38761810000001
+Name : Georgetown Hospital | FormattedAddress: 1 Princess Anne Dr, Georgetown, ON L7G 2B8, Canada | LocationType: Rooftop | Location_Lat: 43.6447833 | Location_long: -79.9333207
+Name : Oakville Trafalgar Memorial Hospital | FormattedAddress: 3001 Hospital Gate, Oakville, ON L6M 0L8, Canada | LocationType: Rooftop | Location_Lat: 43.4506592 | Location_long: -79.7639489
+Name : Runnymede Healthcare Centre | FormattedAddress: 625 Runnymede Rd, Toronto, ON M6S 3A3, Canada | LocationType: Rooftop | Location_Lat: 43.66478559999999 | Location_long: -79.4811005
+Name : Hospital News | FormattedAddress: 401 The West Mall, Etobicoke, ON M9C 5J1, Canada | LocationType: Rooftop | Location_Lat: 43.6455376 | Location_long: -79.56617589999999
+Name : William Osler Health System - Brampton Civic Hospital | FormattedAddress: 2100 Bovaird Dr E, Brampton, ON L6R 3J7, Canada | LocationType: Rooftop | Location_Lat: 43.747466 | Location_long: -79.743223
+Name : Mackenzie Health | FormattedAddress: 10 Trench St, Richmond Hill, ON L4C 4Z3, Canada | LocationType: Rooftop | Location_Lat: 43.8698542 | Location_long: -79.4502674
+Name : West Park Healthcare Centre | FormattedAddress: 82 Buttonwood Ave, York, ON M6M 2J5, Canada | LocationType: Rooftop | Location_Lat: 43.68933120000001 | Location_long: -79.5078843
+Name : CAMH - College Street Site | FormattedAddress: 250 College St, Toronto, ON M5T 1L8, Canada | LocationType: Rooftop | Location_Lat: 43.6585588 | Location_long: -79.3990409
+Name : Mackenzie Vaughan Hospital | FormattedAddress: Ilan Ramon Blvd, Vaughan, ON L6A 4P9, Canada | LocationType: Rooftop | Location_Lat: 43.8643709 | Location_long: -79.468569
+Name : Hamilton General Hospital | FormattedAddress: 237 Barton St E, Hamilton, ON L8L 2X2, Canada | LocationType: Rooftop | Location_Lat: 43.2624646 | Location_long: -79.85409159999999
+Name : St. Joseph's Health Centre, Our Lady of Mercy Building, Toronto, ON | FormattedAddress: 30 The Queensway, Toronto, ON M6R 1B5, Canada | LocationType: Rooftop | Location_Lat: 43.6403937 | Location_long: -79.45034729999999
+Name : Juravinski Hospital - Hamilton Health Sciences | FormattedAddress: 711 Concession St, Hamilton, ON L8V 1C3, Canada | LocationType: Rooftop | Location_Lat: 43.2401034 | Location_long: -79.8457682
+Name : Providence Healthcare | FormattedAddress: 3276 St Clair Ave E, Scarborough, ON M1L 1W1, Canada | LocationType: Rooftop | Location_Lat: 43.711983 | Location_long: -79.284789
+Name : Scarborough Health Network - Birchmount hospital | FormattedAddress: 3030 Birchmount Rd, Scarborough, ON M1W 3W3, Canada | LocationType: Rooftop | Location_Lat: 43.8017859 | Location_long: -79.30893689999999
+Name : Scarborough Health Network - Centenary hospital | FormattedAddress: 2867 Ellesmere Rd, Scarborough, ON M1E 4B9, Canada | LocationType: Rooftop | Location_Lat: 43.7805596 | Location_long: -79.20465039999999
+Name : Toronto General Hospital | FormattedAddress: 200 Elizabeth St, Toronto, ON M5G 2C4, Canada | LocationType: Rooftop | Location_Lat: 43.6591496 | Location_long: -79.38801769999999
+Name : Southlake Regional Health Centre | FormattedAddress: 596 Davis Dr, Newmarket, ON L3Y 2P9, Canada | LocationType: Rooftop | Location_Lat: 44.0602343 | Location_long: -79.4521243
+Name : Humber River Hospital | FormattedAddress: 1235 Wilson Ave, North York, ON M3M 0B2, Canada | LocationType: Rooftop | Location_Lat: 43.724252 | Location_long: -79.4877005
+Name : ADVANTAGE HEALTHCARE LIMITED | FormattedAddress: 15 St Clair Ave E, Toronto, ON M4T 1L8, Canada | LocationType: Rooftop | Location_Lat: 43.688121 | Location_long: -79.3929871
+Name : Mackenzie Health Centre For Behavioral Health Sciences | FormattedAddress: 13311 Yonge St, Richmond Hill, ON L4E 3L6, Canada | LocationType: Rooftop | Location_Lat: 43.9522639 | Location_long: -79.4554307
+Name : Health Clinic | FormattedAddress: 2200 Eglinton Ave W, Mississauga, ON L5M 2N1, Canada | LocationType: Rooftop | Location_Lat: 43.55860879999999 | Location_long: -79.703268
+Name : trillium sherway | FormattedAddress: 150 Sherway Dr, Etobicoke, ON M9C 1A4, Canada | LocationType: Rooftop | Location_Lat: 43.6094234 | Location_long: -79.5619214
+Name : St. Peter's Hospital - Hamilton Health Sciences | FormattedAddress: 88 Maplewood Ave, Hamilton, ON L8M 1W9, Canada | LocationType: Rooftop | Location_Lat: 43.2443864 | Location_long: -79.83720699999999
+Name : Lakeridge Health Ajax Pickering Hospital | FormattedAddress: 580 Harwood Ave S, Ajax, ON L1S 2J4, Canada | LocationType: Rooftop | Location_Lat: 43.8376718 | Location_long: -79.0176886
+Name : Niagara Health - St. Catharines Site | FormattedAddress: 1200 Fourth Ave, St. Catharines, ON L2S 0A9, Canada | LocationType: Rooftop | Location_Lat: 43.15366299999999 | Location_long: -79.2785004
+Name : St. Joseph's Healthcare Hamilton, West 5th Campus | FormattedAddress: 100 West 5th Street, Hamilton, ON L9C 0E3, Canada | LocationType: Rooftop | Location_Lat: 43.24044500000001 | Location_long: -79.88410770000002
+Name : McMaster University Medical Centre - Hamilton Health Sciences | FormattedAddress: 1200 Main St W, Hamilton, ON L8N 3Z5, Canada | LocationType: Rooftop | Location_Lat: 43.2594722 | Location_long: -79.9174585
+Name : Toronto Western Hospital | FormattedAddress: 399 Bathurst St, Toronto, ON M5T 2S8, Canada | LocationType: Rooftop | Location_Lat: 43.6534793 | Location_long: -79.4052302
+Name : St. Michael's Hospital | FormattedAddress: 30 Bond St, Toronto, ON M5B 1W8, Canada | LocationType: Rooftop | Location_Lat: 43.6529691 | Location_long: -79.3776369

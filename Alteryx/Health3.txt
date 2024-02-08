@@ -1,0 +1,343 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3050 Lawrence Ave E, Scarborough, ON M1P 2V5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7557103,
+               "lng" : -79.2457611
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.75718127989272,
+                  "lng" : -79.24507029999999
+               },
+               "southwest" : {
+                  "lat" : 43.75448162010728,
+                  "lng" : -79.2478335
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Scarborough Health Network - General Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2314,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109000092345306687849\"\u003eMichael Chua\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI1pH5DAzvIg9JSPOWZzGg4CmmlpR-2Dmavjt0N3k3Kru3GiLmmOQN-WWX_L1S36APzR_ZMBp0mKG8iawaJfSX0jYjSPKFEn77dvRdY4CiJzHlP1w-y_F05sUoVWWarJ2wLUb-vdu4nR3UfVXcY1P_RQlrSbrRY0rnVT2n4ebrBe3Bn",
+               "width" : 3085
+            }
+         ],
+         "place_id" : "ChIJP5RuE8vR1IkR-NZXzD22oX8",
+         "plus_code" : {
+            "compound_code" : "QQ43+7M Scarborough, Toronto, ON",
+            "global_code" : "87M2QQ43+7M"
+         },
+         "rating" : 2.3,
+         "reference" : "ChIJP5RuE8vR1IkR-NZXzD22oX8",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 641
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1 Princess Anne Dr, Georgetown, ON L7G 2B8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6447627,
+               "lng" : -79.9339303
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64605037989272,
+                  "lng" : -79.93219067010727
+               },
+               "southwest" : {
+                  "lat" : 43.64335072010728,
+                  "lng" : -79.93489032989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Georgetown Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1848,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113517352461472214422\"\u003eSalin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLspnnuDezSIcqMQpGsCEN1ANjixTQx7ZGOvHirKpVvpyAgoabOCcXqgDih1m93kcf1gqKPXh98nMhMwNGlfqCP2z5aZghvbdBYnOWrL2x09Yv_lw6mmxNbzxKucNvdtUfpp7yDp5Pk6PulvZHbN5cvtsWVRCaqoBwvBX1tGYmCAehJ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ-ZJQE7FyK4gRKCgYRTVGAgg",
+         "plus_code" : {
+            "compound_code" : "J3V8+WC Georgetown, Halton Hills, ON",
+            "global_code" : "87M2J3V8+WC"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJ-ZJQE7FyK4gRKCgYRTVGAgg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 405
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "200 Front St W Suite 2301, Toronto, ON M5V 3L1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6449355,
+               "lng" : -79.3861509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64644892989272,
+                  "lng" : -79.38433097010727
+               },
+               "southwest" : {
+                  "lat" : 43.64374927010727,
+                  "lng" : -79.38703062989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Council of Academic Hospitals of Ontario",
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106616742767499568516\"\u003eSabbir Hossain\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ10othrq0N5NyAc6XDDsXR5kCwiKoNbTgJmB9m0MdMptsifDgZyLOJXaaxqszp3NNJzNFeHkMQUUpI0ZGoDW5ZHkWPS5TV9iGYyO2VQhLwt2BAlatA7ZoEfvLO1O-5e4WCj6UqcuPnFeMi7WkG9JXw9KgwXWACltOd5NMAj8L6KPI0",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ9RTjVNE0K4gRx6qXqUZMQEg",
+         "plus_code" : {
+            "compound_code" : "JJV7+XG Toronto, Ontario",
+            "global_code" : "87M2JJV7+XG"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ9RTjVNE0K4gRx6qXqUZMQEg",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "170 Elizabeth St, Toronto, ON M5G 1E8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6576007,
+               "lng" : -79.38650109999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65868927989273,
+                  "lng" : -79.38539814999999
+               },
+               "southwest" : {
+                  "lat" : 43.65598962010728,
+                  "lng" : -79.38980995000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "The Hospital for Sick Children",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1824,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108786103993427379507\"\u003eAndrew Ramos\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLKkL57Cmf787zvrFmqCnTjCgYEAF4WTOjhJ1PUUdqd4dI2cXRWmtGbzXtxRRONGII8BH8jfX6CQdctWGGT0_SWYLOfb0_E4aXa1ZJydCZQf1ImjhZXBIC3iO-2gw9QAU1MN0_YT6oGcud_tbKzYblPr_NCeZ-mdTerjITw9aIUtmGL",
+               "width" : 2732
+            }
+         ],
+         "place_id" : "ChIJyTwlssk0K4gRzwbTu235JtY",
+         "plus_code" : {
+            "compound_code" : "MJ57+29 Toronto, Ontario",
+            "global_code" : "87M2MJ57+29"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJyTwlssk0K4gRzwbTu235JtY",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 995
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "193 Yonge St, Toronto, ON M5B 1M4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6531143,
+               "lng" : -79.37938389999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65444172989272,
+                  "lng" : -79.37810997010727
+               },
+               "southwest" : {
+                  "lat" : 43.65174207010728,
+                  "lng" : -79.38080962989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "St Michael\u2019s Hospital Clinical Research",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108822761296561478687\"\u003ePatrick Asselin\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJVyzV8teL-T_t2ksgjKCzrzfFBa8HGZkSsI2MYU3JOs1jnLzxDiQRPzIeMrqkgC0TXavrywDBCfFoGHf1evTAtd8rUAZNKDTDaXEStlTOA2E-a_bpdoiCrhx-g7GdMGZF-pC8EbR5I7AruIXYLnM6kc7WWDMzcpTZ-cnQVbhdyHW8e",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJp_ZyEdvL1IkR7nwbt6e9DV4",
+         "plus_code" : {
+            "compound_code" : "MJ3C+66 Toronto, Ontario",
+            "global_code" : "87M2MJ3C+66"
+         },
+         "rating" : 0,
+         "reference" : "ChIJp_ZyEdvL1IkR7nwbt6e9DV4",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "100 Humber College Blvd, Etobicoke, ON M9V 5G4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7314765,
+               "lng" : -79.5991956
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73281012989272,
+                  "lng" : -79.59794017010728
+               },
+               "southwest" : {
+                  "lat" : 43.73011047010728,
+                  "lng" : -79.60063982989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Dr. Shinos",
+         "place_id" : "ChIJo6aSrlY6K4gRJNqD7AS-_jY",
+         "plus_code" : {
+            "compound_code" : "PCJ2+H8 Etobicoke, Toronto, ON",
+            "global_code" : "87M2PCJ2+H8"
+         },
+         "rating" : 5,
+         "reference" : "ChIJo6aSrlY6K4gRJNqD7AS-_jY",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "89 Humber College Blvd, Etobicoke, ON M9V 4B8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7307308,
+               "lng" : -79.59775639999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.73210912989272,
+                  "lng" : -79.59627542010728
+               },
+               "southwest" : {
+                  "lat" : 43.72940947010727,
+                  "lng" : -79.59897507989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Etobicoke Medical Center",
+         "photos" : [
+            {
+               "height" : 825,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118246381875187268798\"\u003eCM Kuncham\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLhSEnUgDQv6o3-909kVvw37F-_mn1_JtZRSG0GESRp9_ztE0WLRZONmlkeypqDq-p48hgSmmevjWjRP8xm5KQyag0caayUf4Z5Ww7iQ9GoSpBI_FfY0IWfP71EFeHPZhiAEboAUgIdyOsMq4rxnUVKIB-3aMZMOaC_52tvM8OisZ8e",
+               "width" : 2264
+            }
+         ],
+         "place_id" : "ChIJg5LwYPU7K4gRnMie9fkLIFA",
+         "plus_code" : {
+            "compound_code" : "PCJ2+7V Etobicoke, Toronto, ON",
+            "global_code" : "87M2PCJ2+7V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJg5LwYPU7K4gRnMie9fkLIFA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "CLOSED_PERMANENTLY",
+         "formatted_address" : "1867 Bloor St, Mississauga, ON L4X 1T4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6273737,
+               "lng" : -79.583654
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62866012989272,
+                  "lng" : -79.58235702010728
+               },
+               "southwest" : {
+                  "lat" : 43.62596047010727,
+                  "lng" : -79.58505667989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "mississauga hospital",
+         "permanently_closed" : true,
+         "place_id" : "ChIJQ3xyllo5K4gR12IqKm4whY8",
+         "plus_code" : {
+            "compound_code" : "JCG8+WG Mississauga, Ontario",
+            "global_code" : "87M2JCG8+WG"
+         },
+         "rating" : 1,
+         "reference" : "ChIJQ3xyllo5K4gR12IqKm4whY8",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      }
+   ],
+   "status" : "OK"
+}

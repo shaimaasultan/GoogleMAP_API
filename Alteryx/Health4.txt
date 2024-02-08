@@ -1,0 +1,768 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aaw_FcIHC18aYVUJG0fFAqD99brXljj0_2JVqN6qfSiDaBMvHjnYKn_Ku2xO0eXHFzaeheWcBWe9jGgjFLPfLsJTPOml2itvDniwtuRIWrcgEY_7RZHhxUBnotuo2R-crs6bnwHyD4sSStkxE13qS5sPrDBS4jSY6gQoX6T8b0vJmc3x2roWLUiE0xVLK91KxAINIyVn_5TLm1E61sMNddtD_7tLk_U_x6zg5BPs750Z946HMGFOrtFb7utkJ7S088gyV7RcdGSvQ2C7VFv-0PUVO5aI671p-l76SyijOhq4_InQR93phm42UCxffa9W7JW6AoRyTn7EC3TBsKXasf4RaWG6d4MmuUEGW6z5cTn8i8_2C8Mo_DUA6e8miebWM1r2t9ZR",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3100 Dixie Rd, Mississauga, ON L4Y 2A6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6087209,
+               "lng" : -79.58536079999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61016547989272,
+                  "lng" : -79.58388867010729
+               },
+               "southwest" : {
+                  "lat" : 43.60746582010728,
+                  "lng" : -79.58658832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "The Doctor's Office",
+         "place_id" : "ChIJJ6eMe5JHK4gRduMzvGci438",
+         "plus_code" : {
+            "compound_code" : "JC57+FV Mississauga, Ontario",
+            "global_code" : "87M2JC57+FV"
+         },
+         "rating" : 0,
+         "reference" : "ChIJJ6eMe5JHK4gRduMzvGci438",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1185 Dundas St E, Mississauga, ON L4Y 2C5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6053492,
+               "lng" : -79.58953409999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60648492989272,
+                  "lng" : -79.58779867010728
+               },
+               "southwest" : {
+                  "lat" : 43.60378527010727,
+                  "lng" : -79.59049832989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dr. Yash Chaudhry",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107650943936663147825\"\u003eomar khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK44PKoXArWDibiSMDXbAWs2avSBCY1voZXFKHSJD_050k8QLv7CZJ7Hkt8D9JlUoh6FqmKcWLbLYJYJ_xr33cBGxtisD_WCYgmhunkm603HLg-IhGOv_KTGDVDPjL3AxVMcceLg8DWVWnnzw8zZG8WaT-SXyIr-EdDuUrCulfzdu7D",
+               "width" : 2736
+            }
+         ],
+         "place_id" : "ChIJ24850jBHK4gRyxK15oMG5nk",
+         "plus_code" : {
+            "compound_code" : "JC46+45 Mississauga, Ontario",
+            "global_code" : "87M2JC46+45"
+         },
+         "rating" : 4.9,
+         "reference" : "ChIJ24850jBHK4gRyxK15oMG5nk",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 45
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1055 Canadian Pl #110, Mississauga, ON L4W 0C2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6272049,
+               "lng" : -79.62786869999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62856052989272,
+                  "lng" : -79.62644162010729
+               },
+               "southwest" : {
+                  "lat" : 43.62586087010727,
+                  "lng" : -79.62914127989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Doctors On Duty",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJzfSD1KE4K4gRfWT59N5yFfM",
+         "plus_code" : {
+            "compound_code" : "J9GC+VV Mississauga, Ontario",
+            "global_code" : "87M2J9GC+VV"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJzfSD1KE4K4gRfWT59N5yFfM",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "170 Queensway W, Mississauga, ON L5B 3A8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5700265,
+               "lng" : -79.61119909999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57144777989271,
+                  "lng" : -79.60976472010726
+               },
+               "southwest" : {
+                  "lat" : 43.56874812010727,
+                  "lng" : -79.61246437989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "O F Djoleto MD",
+         "place_id" : "ChIJWd4q_fNGK4gRW9hRPZyIxcc",
+         "plus_code" : {
+            "compound_code" : "H9CQ+2G Mississauga, Ontario",
+            "global_code" : "87M2H9CQ+2G"
+         },
+         "rating" : 0,
+         "reference" : "ChIJWd4q_fNGK4gRW9hRPZyIxcc",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6087678,
+               "lng" : -79.5604273
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61013052989272,
+                  "lng" : -79.55903047010727
+               },
+               "southwest" : {
+                  "lat" : 43.60743087010728,
+                  "lng" : -79.56173012989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dr Preston",
+         "place_id" : "ChIJf-_x_wdIK4gRvVIq5drNHqE",
+         "plus_code" : {
+            "compound_code" : "JC5Q+FR Etobicoke, Toronto, ON",
+            "global_code" : "87M2JC5Q+FR"
+         },
+         "rating" : 5,
+         "reference" : "ChIJf-_x_wdIK4gRvVIq5drNHqE",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1420 Burnhamthorpe Rd E, Mississauga, ON L4X 2Z9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6228996,
+               "lng" : -79.60135989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62430182989272,
+                  "lng" : -79.60010382010728
+               },
+               "southwest" : {
+                  "lat" : 43.62160217010727,
+                  "lng" : -79.60280347989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Mississauga Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJo4YsbH84K4gR4NkhC09pJLA",
+         "plus_code" : {
+            "compound_code" : "J9FX+5F Mississauga, Ontario",
+            "global_code" : "87M2J9FX+5F"
+         },
+         "rating" : 0,
+         "reference" : "ChIJo4YsbH84K4gR4NkhC09pJLA",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3033 Palstan Rd Unit 3, Mississauga, ON L4Y 4E7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6052644,
+               "lng" : -79.5902643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60651167989272,
+                  "lng" : -79.58903197010727
+               },
+               "southwest" : {
+                  "lat" : 43.60381202010728,
+                  "lng" : -79.59173162989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Family Medicine Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJgVHS9BpHK4gRRR1aLddBPjU",
+         "plus_code" : {
+            "compound_code" : "JC45+4V Mississauga, Ontario",
+            "global_code" : "87M2JC45+4V"
+         },
+         "rating" : 0,
+         "reference" : "ChIJgVHS9BpHK4gRRR1aLddBPjU",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3415 Dixie Rd, Mississauga, ON L4Y 2B1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6178017,
+               "lng" : -79.5952039
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61911057989272,
+                  "lng" : -79.59390592010728
+               },
+               "southwest" : {
+                  "lat" : 43.61641092010728,
+                  "lng" : -79.59660557989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Medicine Professional Corporation",
+         "place_id" : "ChIJETf3FYZHK4gRN2l61rNm61w",
+         "plus_code" : {
+            "compound_code" : "JC93+4W Mississauga, Ontario",
+            "global_code" : "87M2JC93+4W"
+         },
+         "rating" : 0,
+         "reference" : "ChIJETf3FYZHK4gRN2l61rNm61w",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "777 Dundas St W Suite Bxo, Mississauga, ON L5C 4P6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.56451149999999,
+               "lng" : -79.63666769999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56582907989272,
+                  "lng" : -79.63524292010727
+               },
+               "southwest" : {
+                  "lat" : 43.56312942010728,
+                  "lng" : -79.63794257989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Doctors Clinic Mississauga",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJM5wQgINHK4gRPYpohxQvnyc",
+         "plus_code" : {
+            "compound_code" : "H977+Q8 Mississauga, Ontario",
+            "global_code" : "87M2H977+Q8"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJM5wQgINHK4gRPYpohxQvnyc",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1235 Queensway E #12, Mississauga, ON L4Y 0G4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5997736,
+               "lng" : -79.5797958
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60116142989272,
+                  "lng" : -79.57840282010727
+               },
+               "southwest" : {
+                  "lat" : 43.59846177010727,
+                  "lng" : -79.58110247989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Smd Medical",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103784121831057870266\"\u003eRab Krist\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI53VsOseQ1jB83RlAvWfl9RsPSpbM1Y0PI-y2DPbuoFfZ0dG-8pDtPpQ3XyAtmsXrakYCa2luJUD7wnk3GnuzK3noacHpb1w8URTMFpKDYfk5fGNpC6EUk7I9Rc8a-mS3Sjwcz1UdfW9ZXreYTfv0V1vC2CBcNmVstuGsDLja7JRzN",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJE0I1deVGK4gRVLsvaZp_Y3w",
+         "plus_code" : {
+            "compound_code" : "HCXC+W3 Mississauga, Ontario",
+            "global_code" : "87M2HCXC+W3"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJE0I1deVGK4gRVLsvaZp_Y3w",
+         "types" : [
+            "pharmacy",
+            "spa",
+            "doctor",
+            "health",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 16
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "71 King St W #500, Mississauga, ON L5B 4A2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.57770370000001,
+               "lng" : -79.61655189999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.57897827989272,
+                  "lng" : -79.61507557010728
+               },
+               "southwest" : {
+                  "lat" : 43.57627862010727,
+                  "lng" : -79.61777522989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dr. Samuel Julian Lazare",
+         "place_id" : "ChIJtwRMJSBHK4gRvgke0oylkc0",
+         "plus_code" : {
+            "compound_code" : "H9HM+39 Mississauga, Ontario",
+            "global_code" : "87M2H9HM+39"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJtwRMJSBHK4gRvgke0oylkc0",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 10
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1436 Royal York Rd Suite 209, Etobicoke, ON M9P 3A9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6855279,
+               "lng" : -79.52855479999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.68684017989272,
+                  "lng" : -79.52701397010728
+               },
+               "southwest" : {
+                  "lat" : 43.68414052010727,
+                  "lng" : -79.52971362989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Zadiyko J Dr",
+         "place_id" : "ChIJG-adkjE3K4gR1yOrfDBB6cM",
+         "plus_code" : {
+            "compound_code" : "MFPC+6H Etobicoke, Toronto, ON",
+            "global_code" : "87M2MFPC+6H"
+         },
+         "rating" : 5,
+         "reference" : "ChIJG-adkjE3K4gR1yOrfDBB6cM",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4646 Heritage Hills Blvd, Mississauga, ON L5R 1Y3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5987414,
+               "lng" : -79.66052979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60014287989272,
+                  "lng" : -79.65925427010727
+               },
+               "southwest" : {
+                  "lat" : 43.59744322010728,
+                  "lng" : -79.6619539298927
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Doc",
+         "place_id" : "ChIJtXcRHdBAK4gRIVRhp3FFEUg",
+         "plus_code" : {
+            "compound_code" : "H8XQ+FQ Mississauga, Ontario",
+            "global_code" : "87M2H8XQ+FQ"
+         },
+         "rating" : 0,
+         "reference" : "ChIJtXcRHdBAK4gRIVRhp3FFEUg",
+         "types" : [ "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1750 The Queensway Unit 6, Etobicoke, ON M9C 5H5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6148889,
+               "lng" : -79.5575826
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61618632989272,
+                  "lng" : -79.55613477010729
+               },
+               "southwest" : {
+                  "lat" : 43.61348667010728,
+                  "lng" : -79.55883442989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "OliveMD Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 960,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103165962007953635702\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcK6k2Zh9PlaGCx-ZXTsY4ILAOvR3yptIF4CBK4oycAcBrS8vUlGWBV1yr2lp_-sNCPoqwllKlBf9N74sfhAH5PChtJgq3lYMB7bRnZiiogAM919XMKuiEn6LsbOiE71kmsMax7nGn1L2qgCo-k5zBiHBXao1y8g5YXOp4qeCr21E3PR",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJXWiVMjlJK4gRRl2h8EkaQfA",
+         "plus_code" : {
+            "compound_code" : "JC7R+XX Etobicoke, Toronto, ON",
+            "global_code" : "87M2JC7R+XX"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJXWiVMjlJK4gRRl2h8EkaQfA",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 44
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3417 Derry Rd E, Mississauga, ON L4T 1A8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7128435,
+               "lng" : -79.6332451
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.71441517989273,
+                  "lng" : -79.63181752010728
+               },
+               "southwest" : {
+                  "lat" : 43.71171552010728,
+                  "lng" : -79.63451717989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Family Practice Ctr",
+         "place_id" : "ChIJCxG9K-k7K4gRswO0Bqlmj24",
+         "plus_code" : {
+            "compound_code" : "P978+5M Mississauga, Ontario",
+            "global_code" : "87M2P978+5M"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJCxG9K-k7K4gRswO0Bqlmj24",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 6
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "460 Renforth Dr, Etobicoke, ON M9C 2N2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6506777,
+               "lng" : -79.58027629999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65202207989273,
+                  "lng" : -79.57893482010729
+               },
+               "southwest" : {
+                  "lat" : 43.64932242010728,
+                  "lng" : -79.58163447989274
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Renforth Medical Clinic",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJi8rm-jY4K4gRsYbI5mDK7P0",
+         "plus_code" : {
+            "compound_code" : "MC29+7V Etobicoke, Toronto, ON",
+            "global_code" : "87M2MC29+7V"
+         },
+         "rating" : 2.6,
+         "reference" : "ChIJi8rm-jY4K4gRsYbI5mDK7P0",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2200 Dixie Rd, Mississauga, ON L4Y 1Z4, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.601555,
+               "lng" : -79.5734032
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.60296737989272,
+                  "lng" : -79.57204367010728
+               },
+               "southwest" : {
+                  "lat" : 43.60026772010728,
+                  "lng" : -79.57474332989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dixie Road Medical Associates",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2620,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102739452310732048956\"\u003eGrace Robertson\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJ_DfaB4tw5qIx6bwpx3ioIPdJpyWSNm17EaTThVcmBqFcfEV79qGpWsAZm-bCxIeDkIX5RIBhlrirXFTuV9_zggk-ASDlA9u6gchvyghx_QYpPMDg9pmEPr-UbApnOvUfrkR1XHyjpYYA8rhOfUPK2SNs-LJg3oQm1w7FH37jm9czg",
+               "width" : 4656
+            }
+         ],
+         "place_id" : "ChIJ9V2IQOhHK4gR-PlvFSudivc",
+         "plus_code" : {
+            "compound_code" : "JC2G+JJ Mississauga, Ontario",
+            "global_code" : "87M2JC2G+JJ"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ9V2IQOhHK4gR-PlvFSudivc",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 96
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1339 Hurontario St, Mississauga, ON L5G 3H5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5621539,
+               "lng" : -79.59075439999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.56338832989273,
+                  "lng" : -79.58954827010727
+               },
+               "southwest" : {
+                  "lat" : 43.56068867010728,
+                  "lng" : -79.59224792989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dr. L. Noronha Medical Office",
+         "place_id" : "ChIJddL4YL5HK4gRXhmYIDUO0sY",
+         "plus_code" : {
+            "compound_code" : "HC65+RM Mississauga, Ontario",
+            "global_code" : "87M2HC65+RM"
+         },
+         "rating" : 0,
+         "reference" : "ChIJddL4YL5HK4gRXhmYIDUO0sY",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2200 Dundas St E #4A, Mississauga, ON L4X 2V3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6255424,
+               "lng" : -79.56541729999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62692807989273,
+                  "lng" : -79.56417452010729
+               },
+               "southwest" : {
+                  "lat" : 43.62422842010729,
+                  "lng" : -79.56687417989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Dundas427 Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3786,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114247934588430144506\"\u003eIsa Santos\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLflDICA-Bn2hbQK2GDKtl2g6RImU4Ugzxo5yKf3oZd4pFco3CeZ7HLlDDYuZZ6YnhtFOGLxZ_0k6rzcj2beHB83RcfctxeOhp4pz1Vwy-tbT7jucBMLTPT12_J5HjGp-iNqEs_SRavbFIUtx4uf9CEsyWNamEKT-3Bdkw0mZ3mkeRJ",
+               "width" : 6426
+            }
+         ],
+         "place_id" : "ChIJrfmChAM4K4gRGwRaYVjzf0A",
+         "plus_code" : {
+            "compound_code" : "JCGM+6R Mississauga, Ontario",
+            "global_code" : "87M2JCGM+6R"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJrfmChAM4K4gRGwRaYVjzf0A",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 129
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "295 Eglinton Ave E Unit 10, Mississauga, ON L4Z 3K6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.61368580000001,
+               "lng" : -79.64619789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.61500742989272,
+                  "lng" : -79.64480327010727
+               },
+               "southwest" : {
+                  "lat" : 43.61230777010728,
+                  "lng" : -79.64750292989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/generic_business-71.png",
+         "icon_background_color" : "#7B9EB0",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/generic_pinlet",
+         "name" : "Accord Medical Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 900,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107557899080450660750\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKUKgtXoyjf_plPsJVdxTmJw_DsMoxh-hClTDdzxfQtkOau6xfDVrs4dtdUVXhZQSIDpg87xwNjKLQs7bW2NODdobzBy8GQYHOswrbBa3o7vsQS22KkMVxV1eXm29ncVv08hXlGwVf2rovstrRvLjFNBPqg5VR7bFI1neiSZ7kb7WVK",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJCyf38rlHK4gREeSBmNVFLNo",
+         "plus_code" : {
+            "compound_code" : "J973+FG Mississauga, Ontario",
+            "global_code" : "87M2J973+FG"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJCyf38rlHK4gREeSBmNVFLNo",
+         "types" : [ "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 20
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+Name : Dr. Lyndon Mascarenhas MD, CCFP | FormattedAddress: 1466 Bathurst St #305, Toronto, ON M5R 3S3, Canada | LocationType: Rooftop | Location_Lat: 43.6827712 | Location_long: -79.41830879999999
+Name : Dixie-Dundas Family Pratice - Dr. Siva Balasingam | FormattedAddress: 3100 Dixie Road East, unit 9, Mississauga, ON L4Y 2A0, Canada | LocationType: Rooftop | Location_Lat: 43.60947729999999 | Location_long: -79.5865477
+Name : Dr. Juanita Yin Chan | FormattedAddress: 1420 Burnhamthorpe Rd E, Mississauga, ON L4X 2Z9, Canada | LocationType: Rooftop | Location_Lat: 43.6228742 | Location_long: -79.6013299
+Name : Sibbald R Gary Dr | FormattedAddress: Mississauga, ON L4Y 1A6, Canada | LocationType: Rooftop | Location_Lat: 43.589922 | Location_long: -79.57667599999999
+Name : Dr. Roland Sing, Urologist | FormattedAddress: 89 Queensway W #604, Mississauga, ON L5B 2V2, Canada | LocationType: Rooftop | Location_Lat: 43.5725536 | Location_long: -79.6104112
+Name : Dr. Katrina Austria | FormattedAddress: 33 City Centre Dr suit 111, ground floor, Mississauga, ON L5B 2N5, Canada | LocationType: Rooftop | Location_Lat: 43.5949731 | Location_long: -79.6391348
+Name : Hurontario Medical Clinic | FormattedAddress: 2338 Hurontario St, Mississauga, ON L5B 1N1, Canada | LocationType: Rooftop | Location_Lat: 43.574488 | Location_long: -79.60927649999999
+Name : Ma Tze Yuen Dr | FormattedAddress: 3461 Dixie Rd, Mississauga, ON L4Y 3X4, Canada | LocationType: Rooftop | Location_Lat: 43.6185336 | Location_long: -79.5963632
+Name : Doctors On Duty | FormattedAddress: 1055 Canadian Pl #110, Mississauga, ON L4W 0C2, Canada | LocationType: Rooftop | Location_Lat: 43.6272049 | Location_long: -79.6278687
+Name : Dr. Narendra Armogan | FormattedAddress: 1880 Sismet Rd, Mississauga, ON L4W 1W9, Canada | LocationType: Rooftop | Location_Lat: 43.6487888 | Location_long: -79.6174478
+Name : Tariq Saeed Dr | FormattedAddress: 160 Dundas St E, Mississauga, ON L5A 1W4, Canada | LocationType: Rooftop | Location_Lat: 43.5836271 | Location_long: -79.612173
+Name : Dr Park | FormattedAddress: 801 Dundas St E, Mississauga, ON L4Y 4E2, Canada | LocationType: Rooftop | Location_Lat: 43.5976156 | Location_long: -79.5982983
+Name : I R Ligon MD | FormattedAddress: 313 Michelle Row, Mississauga, ON L5A 3H1, Canada | LocationType: Rooftop | Location_Lat: 43.5969834 | Location_long: -79.6162398
+Name : Southern Ontario Epilepsy Clinic | FormattedAddress: 190 Sherway Dr Suite # 208, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6086724 | Location_long: -79.5602732
+Name : Eisenberg Eric Dr | FormattedAddress: 3420 Hurontario St #206, Mississauga, ON L5B 4A9, Canada | LocationType: Rooftop | Location_Lat: 43.5881757 | Location_long: -79.62843389999999
+Name : Kim Sharon Dr | FormattedAddress: 190 Sherway Dr Suite 411, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6086724 | Location_long: -79.5602732
+Name : Aleksiejuk Z Dr | FormattedAddress: 1558 Haig Blvd, Mississauga, ON L5E 2N3, Canada | LocationType: Rooftop | Location_Lat: 43.5902264 | Location_long: -79.5709681
+Name : Dr R Sarsam | FormattedAddress: 4646 Heritage Hills Blvd, Mississauga, ON L5R 1Y3, Canada | LocationType: Rooftop | Location_Lat: 43.5990632 | Location_long: -79.6601187
+Name : Intrepid Health Group Inc. | FormattedAddress: 250 Dundas St W Unit 106, Mississauga, ON L5B 1J2, Canada | LocationType: Rooftop | Location_Lat: 43.5748611 | Location_long: -79.6221451
+Name : Bhangu Dalip Dr | FormattedAddress: 190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6086053 | Location_long: -79.5603476
+Name : Dr G Clements Cardiologist | FormattedAddress: 190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6090143 | Location_long: -79.5603358
+Name : Gangam Indira Devi Dr | FormattedAddress: 3141 Cawthra Rd, Mississauga, ON L5A 2X4, Canada | LocationType: Rooftop | Location_Lat: 43.5974359 | Location_long: -79.6039253
+Name : Medical office | FormattedAddress: 1077 N Service Rd, Mississauga, ON L4Y 1E1, Canada | LocationType: Rooftop | Location_Lat: 43.5921721 | Location_long: -79.57579849999999
+Name : Dynacare | FormattedAddress: Ontario, Mississauga Hurontario St ????:, L5A 4C7, Canada | LocationType: Rooftop | Location_Lat: 43.5756471 | Location_long: -79.60720599999999
+Name : Hill Norman S Dr | FormattedAddress: 190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6090143 | Location_long: -79.5603358
+Name : Dr. Frank Lista | FormattedAddress: 1421 Hurontario St, Mississauga, ON L5G 3H5, Canada | LocationType: Rooftop | Location_Lat: 43.56379810000001 | Location_long: -79.59273420000001
+Name : Dr.Kiran Cheema | FormattedAddress: 1300 Central Pkwy W, Mississauga, ON L5C 4G8, Canada | LocationType: Rooftop | Location_Lat: 43.5676168 | Location_long: -79.6641532
+Name : Dr. Nicole Cherry | FormattedAddress: 1243 Islington Ave #600, Etobicoke, ON M8X 1Y9, Canada | LocationType: Rooftop | Location_Lat: 43.64593850000001 | Location_long: -79.5236997
+Name : Wilson Dana Dr | FormattedAddress: 71 King St W, Mississauga, ON L5B 4A2, Canada | LocationType: Rooftop | Location_Lat: 43.577729 | Location_long: -79.6163672
+Name : Simone Angelo M Dr | FormattedAddress: 2338 Hurontario St, Mississauga, ON L5B 1N1, Canada | LocationType: Rooftop | Location_Lat: 43.574488 | Location_long: -79.60927649999999
+Name : Parkway Webb Medical Clinic - Dr. Siddiqui/ Dr. Manzar | FormattedAddress: 325 Central Pkwy W #30, Mississauga, ON L5B 3X9, Canada | LocationType: Rooftop | Location_Lat: 43.5830749 | Location_long: -79.6393223
+Name : Dr. Inas Sadek | FormattedAddress: 2233 Hurontario St, Mississauga, ON L5A 2E9, Canada | LocationType: Rooftop | Location_Lat: 43.5733526 | Location_long: -79.6051741
+Name : Geraldine Cruz Dr | FormattedAddress: 3024 Hurontario St, Mississauga, ON L5B 4M4, Canada | LocationType: Rooftop | Location_Lat: 43.5804853 | Location_long: -79.61726689999999
+Name : Dr. Azza Hamed MD, M.Sc, FRCP (C) | FormattedAddress: 250 Dundas St W Suite #203, Mississauga, ON L5B 1J2, Canada | LocationType: Rooftop | Location_Lat: 43.5748347 | Location_long: -79.62209299999999
+Name : Dr. Mory Gutman | FormattedAddress: 2318 Lake Shore Blvd W, Etobicoke, ON M8V 1B5, Canada | LocationType: Rooftop | Location_Lat: 43.6176755 | Location_long: -79.4875711
+Name : Dr. Ila Maneklal Patel | FormattedAddress: 325 Central Pkwy W, Mississauga, ON L5B 3X9, Canada | LocationType: Rooftop | Location_Lat: 43.5825845 | Location_long: -79.63848709999999
+Name : Bonde Veena Dr | FormattedAddress: 71 King St W, Mississauga, ON L5B 4A2, Canada | LocationType: Rooftop | Location_Lat: 43.577729 | Location_long: -79.6163672
+Name : Dr. Diana Patricia Gaye Thompson | FormattedAddress: 720 Burnhamthorpe Rd W, Mississauga, ON L5C 4G3, Canada | LocationType: Rooftop | Location_Lat: 43.578303 | Location_long: -79.65189250000002
+Name : Dandelion Allergy Centre | FormattedAddress: 3885 Duke of York Blvd C212, Mississauga, ON L5B 0E4, Canada | LocationType: Rooftop | Location_Lat: 43.5877085 | Location_long: -79.6403828
+Name : Bautista Filomena Dr | FormattedAddress: 3024 Hurontario St, Mississauga, ON L5B 4M4, Canada | LocationType: Rooftop | Location_Lat: 43.5804853 | Location_long: -79.61726689999999
+Name : Toth Adam Dr | FormattedAddress: 190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6090143 | Location_long: -79.5603358
+Name : Dr Elena Poulos | FormattedAddress: 1243 Islington Ave Suite 1000, Etobicoke, ON M8X 1Y9, Canada | LocationType: Rooftop | Location_Lat: 43.6459171 | Location_long: -79.5235467
+Name : Village Medical Associates | FormattedAddress: 1077 N Service Rd Unit 27, Mississauga, ON L4Y 1A6, Canada | LocationType: Rooftop | Location_Lat: 43.5916469 | Location_long: -79.57578029999999
+Name : Dr. Azza Makram Mikail | FormattedAddress: 3980 Grand Park Dr A2, Mississauga, ON L5B 4M6, Canada | LocationType: Rooftop | Location_Lat: 43.58097619999999 | Location_long: -79.6490702
+Name : Summerville Family Health Team | FormattedAddress: 190 Sherway Dr #211, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6086725 | Location_long: -79.5602731
+Name : Abdelshaheed Nabegh Dr | FormattedAddress: 3420 Hurontario St Suite 201, Mississauga, ON L5B 4A9, Canada | LocationType: Rooftop | Location_Lat: 43.5881757 | Location_long: -79.62843389999999
+Name : Dr. Ibrahim Al-Hashmi MD | FormattedAddress: 81 The East Mall Suite 107, Etobicoke, ON M8Z 5W3, Canada | LocationType: Rooftop | Location_Lat: 43.61936559999999 | Location_long: -79.54824219999999
+Name : Sosiak Ted Dr | FormattedAddress: 3101 Bloor St W, Etobicoke, ON M8X 1Z4, Canada | LocationType: Rooftop | Location_Lat: 43.6462539 | Location_long: -79.5154658
+Name : Dr. Afsaneh Alavi | FormattedAddress: 1077 N Service Rd, Mississauga, ON L4Y, Canada | LocationType: Rooftop | Location_Lat: 43.5918628 | Location_long: -79.57620539999999
+Name : Adleman N Dr | FormattedAddress: 101 Queensway West, Mississauga, ON L5B 2P7, Canada | LocationType: Rooftop | Location_Lat: 43.5721915 | Location_long: -79.6108682
+Name : Dr. Imtiaz Khan | FormattedAddress: 2000 Credit Valley Rd, Mississauga, ON L5M 4N4, Canada | LocationType: Rooftop | Location_Lat: 43.562245 | Location_long: -79.70219449999999
+Name : Best Doctors | FormattedAddress: 145 King St W #700, Toronto, ON M5H 1J8, Canada | LocationType: Rooftop | Location_Lat: 43.647439 | Location_long: -79.3842244
+Name : Dr. Elliott Cantor | FormattedAddress: 100 Richmond St W suite 425, Toronto, ON M5H 3M9, Canada | LocationType: Rooftop | Location_Lat: 43.6509347 | Location_long: -79.3832181
+Name : LiveActive Sport Medicine | FormattedAddress: 400 Kipling Ave, Etobicoke, ON M8V 3L1, Canada | LocationType: Rooftop | Location_Lat: 43.6036166 | Location_long: -79.519922
+Name : Dr. David Goldstein | FormattedAddress: 610 University Ave, Toronto, ON M5G 2M9, Canada | LocationType: Rooftop | Location_Lat: 43.6579929 | Location_long: -79.39109619999999
+Name : Olah Michael Dr | FormattedAddress: 6 Beamish Drive, Etobicoke, ON M9B 3P3, Canada | LocationType: Rooftop | Location_Lat: 43.64082699999999 | Location_long: -79.5371375
+Name : Dr. Waqar Nabi | FormattedAddress: 3355 Hurontario St, Mississauga, ON L5A 4E7, Canada | LocationType: Rooftop | Location_Lat: 43.5879003 | Location_long: -79.6257384
+Name : Dr. Mehdi Shahideh | FormattedAddress: 101 Queensway W, Mississauga, ON L5B 2P7, Canada | LocationType: Rooftop | Location_Lat: 43.5722173 | Location_long: -79.6108003
+Name : Perl a Dr | FormattedAddress: 190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6090143 | Location_long: -79.5603358
+Name : Lalani S G Dr | FormattedAddress: 71 King St W, Mississauga, ON L5B 4A2, Canada | LocationType: Rooftop | Location_Lat: 43.577729 | Location_long: -79.6163672

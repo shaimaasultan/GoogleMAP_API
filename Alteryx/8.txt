@@ -1,0 +1,13 @@
+USE CASE :- Imputation eefect on your weather perdition model.
+
+Data source : https://climate.weather.gc.ca/climate_data/hourly_data_e.html?hlyRange=1953-01-01%7C1969-05-31&dlyRange=1840-03-01%7C2017-04-27&mlyRange=1840-01-01%7C2006-12-01&StationID=5051&Prov=ON&urlExtension=_e.html&searchType=stnProv&optLimit=yearRange&StartYear=1840&EndYear=2020&selRowPerPage=100&Line=1400&lstProvince=ON&timeframe=1&Year=1969&Month=4&Day=1#
+
+** historical opensource Data Hourly Weather Data Report between JAN 01, 1969 and MAY 31, 1969 for Toronto
+** Data format is scv files
+** screenshot Data_Pic1
+
+E = Estimated
+M = Missing
+NA = Not Available*
+[empty] = Indicates an unobserved value
+

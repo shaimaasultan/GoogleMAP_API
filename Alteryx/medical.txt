@@ -1,0 +1,60 @@
+Name : Panel Physician Toronto | FormattedAddress: 666 Burnhamthorpe Rd #202, Etobicoke, ON M9C 2Z4, Canada | LocationType: Rooftop | Location_Lat: 43.6418117 | Location_long: -79.57600769999999
+Name : Apple Hills Medical Associates | FormattedAddress: 1221 Bloor St, Mississauga, ON L4Y 2N8, Canada | LocationType: Rooftop | Location_Lat: 43.6132962 | Location_long: -79.5984441
+Name : Dundas Medical Centre | FormattedAddress: 801 Dundas St E, Mississauga, ON L4Y 4E2, Canada | LocationType: Rooftop | Location_Lat: 43.5976156 | Location_long: -79.5982983
+Name : Cleveland Clinic Canada | FormattedAddress: 181 Bay St 30th Floor, Toronto, ON M5J 2T3, Canada | LocationType: Rooftop | Location_Lat: 43.6473316 | Location_long: -79.37853009999999
+Name : Medical One Centre and Pharmacy For Family Practice and Walk-in Clinic | FormattedAddress: 620 Bloor St, Mississauga, ON L5A 3V9, Canada | LocationType: Rooftop | Location_Lat: 43.5989503 | Location_long: -79.6118741
+Name : KCI Medical Canada, Inc | FormattedAddress: 75 Courtneypark Dr W Unit # 4, Mississauga, ON L5W 0E3, Canada | LocationType: Rooftop | Location_Lat: 43.6361157 | Location_long: -79.6962066
+Name : Applewood Medical Clinic | FormattedAddress: 966 Dundas St E #8a, Mississauga, ON L4Y 4H5, Canada | LocationType: Rooftop | Location_Lat: 43.6001155 | Location_long: -79.5929977
+Name : Appletree Medical Group | FormattedAddress: 1750 The Queensway, Etobicoke, ON M9C 5H5, Canada | LocationType: Rooftop | Location_Lat: 43.6150452 | Location_long: -79.5575124
+Name : Lakeshore Cawthra Medical Centre | FormattedAddress: 619 Lakeshore Rd E, Mississauga, ON L5G 1H9, Canada | LocationType: Rooftop | Location_Lat: 43.5691557 | Location_long: -79.5675588
+Name : Canadian Cannabis Clinics (Mississauga) | FormattedAddress: 77 Queensway W Suite 311, Mississauga, ON L5B 1B7, Canada | LocationType: Rooftop | Location_Lat: 43.5727687 | Location_long: -79.6100712
+Name : Square One Medical - Family Medicine, Walk-In & Pharmacy | FormattedAddress: 4175 Confederation Pkwy #2, Mississauga, ON L5B 0H1, Canada | LocationType: Rooftop | Location_Lat: 43.5889825 | Location_long: -79.649822
+Name : Cooksville Family Clinic | FormattedAddress: 3024 Hurontario St #312, Mississauga, ON L5B 4M4, Canada | LocationType: Rooftop | Location_Lat: 43.5804853 | Location_long: -79.61726689999999
+Name : Dixie Medical Group | FormattedAddress: 1055 Canadian Pl Unit 113, Mississauga, ON L4W 0C2, Canada | LocationType: Rooftop | Location_Lat: 43.6270567 | Location_long: -79.6279716
+Name : Panel Physician North York | FormattedAddress: 2065 Finch Ave W Suite 309, North York, ON M3N 2V7, Canada | LocationType: Rooftop | Location_Lat: 43.7558673 | Location_long: -79.523219
+Name : Sherway Medical Centre | FormattedAddress: 190 Sherway Dr, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.6087366 | Location_long: -79.56034059999999
+Name : Hurontario Medical Center | FormattedAddress: 5035 Hurontario St #5, Mississauga, ON L4Z 3X7, Canada | LocationType: Rooftop | Location_Lat: 43.6081576 | Location_long: -79.6527321
+Name : Medical Mart Home Health Care Store | FormattedAddress: 101-550 Matheson Blvd W, Mississauga, ON L5R 4B8, Canada | LocationType: Rooftop | Location_Lat: 43.6126088 | Location_long: -79.68613820000002
+Name : Bayshore Home Health | FormattedAddress: 89 Queensway W #202, Mississauga, ON L5B 2V2, Canada | LocationType: Rooftop | Location_Lat: 43.5725779 | Location_long: -79.6104222
+Name : Winston Park Medical Centre - Family Physicians & Walk-In Clinic | FormattedAddress: 2315 Bristol Cir #104, Oakville, ON L6H 6P8, Canada | LocationType: Rooftop | Location_Lat: 43.5167296 | Location_long: -79.67503090000001
+Name : Dixie Road Medical Associates | FormattedAddress: 2200 Dixie Rd, Mississauga, ON L4Y 1Z4, Canada | LocationType: Rooftop | Location_Lat: 43.6015446 | Location_long: -79.57341219999999
+Name : Medcan | FormattedAddress: 150 York St #1500, Toronto, ON M5H 3S5, Canada | LocationType: Rooftop | Location_Lat: 43.6494305 | Location_long: -79.3847535
+Name : Canadian Place Endoscopy | FormattedAddress: 1065 Canadian Pl Unit# 122-123, Mississauga, ON L4W 0C2, Canada | LocationType: Rooftop | Location_Lat: 43.62800379999999 | Location_long: -79.6267819
+Name : Trillium Health Partners - Queensway Health Centre | FormattedAddress: 150 Sherway Dr, Etobicoke, ON M9C 1A5, Canada | LocationType: Rooftop | Location_Lat: 43.60926500000001 | Location_long: -79.562569
+Name : Rapid Access to Medical Specialists Clinic | FormattedAddress: 21 Queensway W, Mississauga, ON L5B 1B6, Canada | LocationType: Rooftop | Location_Lat: 43.5738851 | Location_long: -79.6084298
+Name : Health Plus Medical Clinic | FormattedAddress: 8-680 Silver Creek Blvd, Mississauga, ON L5A 3Z1, Canada | LocationType: Rooftop | Location_Lat: 43.5954068 | Location_long: -79.6033427
+Name : East Mississauga Community Health Centre | FormattedAddress: 2555 Dixie Rd Unit 7, Mississauga, ON L4Y 4C4, Canada | LocationType: Rooftop | Location_Lat: 43.60899999999999 | Location_long: -79.5825124
+Name : Summerville Family Health Team (Central) | FormattedAddress: 101 Queensway W, Mississauga, ON L5B 2P7, Canada | LocationType: Rooftop | Location_Lat: 43.572176 | Location_long: -79.61088819999999
+Name : Cleveland Clinic Canada - Sport Medicine | FormattedAddress: 150 Eglinton Ave E, Toronto, ON M4P 1E8, Canada | LocationType: Rooftop | Location_Lat: 43.7077979 | Location_long: -79.3939667
+Name : Ontario Diagnostic Centres X-Ray & Ultrasound | FormattedAddress: 89 Queensway W #104, Mississauga, ON L5B 2V2, Canada | LocationType: Rooftop | Location_Lat: 43.5725779 | Location_long: -79.6104222
+Name : Tucana Court Medical Clinic & Walk-in | FormattedAddress: 20 Kingsbridge Garden Cir, Mississauga, ON L5R 3K7, Canada | LocationType: Rooftop | Location_Lat: 43.602716 | Location_long: -79.648952
+Name : Mississauga Diagnostic Imaging & Breast Centre | FormattedAddress: 801 Dundas St E, Mississauga, ON L4Y 4E2, Canada | LocationType: Rooftop | Location_Lat: 43.597616 | Location_long: -79.598298
+Name : Medisys Preventive Health Clinic | FormattedAddress: 3280 Bloor St W, Etobicoke, ON M8X 2X3, Canada | LocationType: Rooftop | Location_Lat: 43.6455391 | Location_long: -79.5222505
+Name : Bristol Family Medical Clinic | FormattedAddress: 60 Bristol Rd E #4, Mississauga, ON L4Z 3K8, Canada | LocationType: Rooftop | Location_Lat: 43.6150819 | Location_long: -79.6606125
+Name : Ceremonial Medical Centre | FormattedAddress: 223 Ceremonial Dr Unit 3, Mississauga, ON L5R 2N3, Canada | LocationType: Rooftop | Location_Lat: 43.604906 | Location_long: -79.6633676
+Name : Ontario College of Traditional Chinese Medicine Toronto | OCTCM | FormattedAddress: 283 Spadina Ave 3rd FL, Toronto, ON M5T 2E3, Canada | LocationType: Rooftop | Location_Lat: 43.652762 | Location_long: -79.39769199999999
+Name : GNMI Medical Imaging | FormattedAddress: 10 Kingsbridge Garden Cir, Mississauga, ON L5R 3K7, Canada | LocationType: Rooftop | Location_Lat: 43.603034 | Location_long: -79.648938
+Name : MCI The Doctor's Office Woodbridge | FormattedAddress: 200 Windflower Gate #700, Woodbridge, ON L4L 9C3, Canada | LocationType: Rooftop | Location_Lat: 43.7915567 | Location_long: -79.5540173
+Name : Enhanced Care Medical Clinic - Etobicoke | FormattedAddress: 3857 Lake Shore Blvd W, Toronto, ON M8W 0A3, Canada | LocationType: Rooftop | Location_Lat: 43.5902083 | Location_long: -79.54488330000001
+Name : Ontario Diagnostic Centres X-Ray & Ultrasound | FormattedAddress: 85 The East Mall Suite # LF01, Etobicoke, ON M8Z 5W4, Canada | LocationType: Rooftop | Location_Lat: 43.6198719 | Location_long: -79.5486079
+Name : Appletree Medical Group | FormattedAddress: 4G Spadina Ave, Toronto, ON M5V 3Z9, Canada | LocationType: Rooftop | Location_Lat: 43.6409453 | Location_long: -79.3934489
+Name : Skin Vitality Medical Clinic of Mississauga | FormattedAddress: 125 Lakeshore Rd E, Mississauga, ON L5G 1E5, Canada | LocationType: Rooftop | Location_Lat: 43.5541419 | Location_long: -79.58261670000002
+Name : Terry Fox Medical | FormattedAddress: 5380 Terry Fox Way #10, Mississauga, ON L5V 0A5, Canada | LocationType: Rooftop | Location_Lat: 43.5945299 | Location_long: -79.6845969
+Name : ONTARIO HEART CENTER | FormattedAddress: 100 Humber College Blvd Suite 207, Etobicoke, ON M9V 5G4, Canada | LocationType: Rooftop | Location_Lat: 43.7314795 | Location_long: -79.5991889
+Name : Westway Medical Clinic | FormattedAddress: 1723 Kipling Ave, Etobicoke, ON M9R 4E1, Canada | LocationType: Rooftop | Location_Lat: 43.6926358 | Location_long: -79.55710839999999
+Name : Dixie X-Ray Associates | FormattedAddress: 1420 Burnhamthorpe Rd E, Mississauga, ON L4X 2Z9, Canada | LocationType: Rooftop | Location_Lat: 43.6230202 | Location_long: -79.601448
+Name : Lifelabs Medical Laboratory Services | FormattedAddress: 3025 Hurontario St #506, Mississauga, ON L5B 3A8, Canada | LocationType: Rooftop | Location_Lat: 43.58110569999999 | Location_long: -79.6167404
+Name : Etobicoke Medical Centre | FormattedAddress: 85 The East Mall, Etobicoke, ON M9B 3Z9, Canada | LocationType: Rooftop | Location_Lat: 43.6198351 | Location_long: -79.5485525
+Name : Mimico Medical | FormattedAddress: 398 Royal York Rd, Etobicoke, ON M8Y 2R5, Canada | LocationType: Rooftop | Location_Lat: 43.6193879 | Location_long: -79.5000247
+Name : Medical Associates Of Port Credit | FormattedAddress: 333 Lakeshore Rd W, Mississauga, ON L5H 1G9, Canada | LocationType: Rooftop | Location_Lat: 43.5432524 | Location_long: -79.5945753
+Name : Dundas427 Medical Centre | FormattedAddress: 2200 Dundas St E #4A, Mississauga, ON L4X 2V3, Canada | LocationType: Rooftop | Location_Lat: 43.6255424 | Location_long: -79.5654173
+Name : Streetsville Medical Centre | FormattedAddress: 5425 Creditview Rd #8, Mississauga, ON L5V 2P3, Canada | LocationType: Rooftop | Location_Lat: 43.5870732 | Location_long: -79.69567119999999
+Name : Dr. O.K. Medical & Dental Center | FormattedAddress: 1278 The Queensway, Etobicoke, ON M8Z 1S3, Canada | LocationType: Rooftop | Location_Lat: 43.6212643 | Location_long: -79.5262432
+Name : FPM Solutions: CPAP and Medical Devices | FormattedAddress: 190 Sherway Dr #408, Etobicoke, ON M9C 5N2, Canada | LocationType: Rooftop | Location_Lat: 43.60871789999999 | Location_long: -79.56033649999999
+Name : Dundas Medical Centre | FormattedAddress: 1224 Dundas St W, Mississauga, ON L5C 4G7, Canada | LocationType: Rooftop | Location_Lat: 43.5537582 | Location_long: -79.6457389
+Name : Excellent Care Medical Centre | FormattedAddress: 3885 Duke of York Blvd #106c, Mississauga, ON L5B 0E4, Canada | LocationType: Rooftop | Location_Lat: 43.5875486 | Location_long: -79.6401443
+Name : Toronto Centre For Medical Imaging | FormattedAddress: 150 York St #910, Toronto, ON M5H 3S5, Canada | LocationType: Rooftop | Location_Lat: 43.64947120000001 | Location_long: -79.3846792
+Name : Parkway Webb Medical Clinic - Dr. Siddiqui/ Dr. Manzar | FormattedAddress: 325 Central Pkwy W #30, Mississauga, ON L5B 3X9, Canada | LocationType: Rooftop | Location_Lat: 43.5830749 | Location_long: -79.6393223
+Name : Canadian Back Institute | FormattedAddress: 56 Aberfoyle Crescent, Etobicoke, ON M8X 2W4, Canada | LocationType: Rooftop | Location_Lat: 43.64589590000001 | Location_long: -79.522851
+Name : Ontario Diagnostic Centres X-Ray & Ultrasound | FormattedAddress: 5055 Plantation Pl, Mississauga, ON L5M 6J3, Canada | LocationType: Rooftop | Location_Lat: 43.5525123 | Location_long: -79.7155868
+Name : Medical Pharmacies Group Limited | FormattedAddress: 2785 Skymark Ave #1, Mississauga, ON L4W 5A7, Canada | LocationType: Rooftop | Location_Lat: 43.6630003 | Location_long: -79.5975583

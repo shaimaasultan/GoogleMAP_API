@@ -1,0 +1,865 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "Aaw_FcLsDXWSusGpFaerKfDo8lx8XZ12Cf8WvPpHPXzuCMqB13tY4j-mN5srDRH0uATkbXavNcEU1_sMw3qZe9X3d1_OqrpJgghyRH9MK0D3X00ng_UMaNmLYi_p92N1juXvQnuCqWhnDLZ3V9gGaAJgm26rBF81rCVxQ8gviThNaJUD0aIHReroY2D1MEk72GOlajkUugiYMAfX2VOOM8DZFM2XX5rEp03qdMxRyaPXJvboUYaFgjCcpX5Plb6WotdL9DlPT9XqaOHv1MwQehz-P2fAd1caIZkfSxEnhYHor-6a4rsjXVbZtc4hj6MYqBCnsmKpLFQep0_Up3kOMuG93IT6d9A513KOZ_X-8-2nnk1q_Jce1yMKwCNPqru6FcOP4ZOEGclTR5971ImDitS38be2cuQjrcJFpPXmHWlxS09qBRMIPfDl96O5HlLnhsdJWI3Km9p--fr-Ii2po51oS5r_HhMV4JGa3XCL_7OpLzC8B-6SyTY_X1bRwSRFMQxcBKrvTlCSnP8ID3AhsbuNKolNh-h4CLtY3VocRi_kvCfokEl5lbR5BlaTxHiGKc4KEHuKFR64bheKPGfkksFzOivLSztsuA",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "825 Coxwell Ave, East York, ON M4C 3E7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6899457,
+               "lng" : -79.3248694
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.69143195000001,
+                  "lng" : -79.32220695000001
+               },
+               "southwest" : {
+                  "lat" : 43.68855974999999,
+                  "lng" : -79.32731754999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Michael Garron Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111702981669472586918\"\u003eTerence Luk\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIgehKIcAvLTOuZsGuOc1SY5Ebdon5uIsH7XekZ9uBu9oMvheFUM5KLs5PgS_-0Kuxkwwh0PUkP-gz0Gp2FgvZZawTyCiVh0VqikllCCxb5u4d8ITdmC9JfFMmsoIEk4pNSY4gQkG1n9Tti15At4Bsc7aLD_2_NwusHYc0N13CbFeAx",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJZbMV3WfM1IkRd7dYx_BzcbA",
+         "plus_code" : {
+            "compound_code" : "MMQG+X3 East York, Toronto, ON",
+            "global_code" : "87M2MMQG+X3"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJZbMV3WfM1IkRd7dYx_BzcbA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 909
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "4001 Leslie St, Toronto, ON M2K 1E1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7687962,
+               "lng" : -79.36274779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.77041807989272,
+                  "lng" : -79.36168677010727
+               },
+               "southwest" : {
+                  "lat" : 43.76771842010728,
+                  "lng" : -79.36438642989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "North York General Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 936,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115001791182793507252\"\u003eNorth York General Hospital\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIsN15X7geHC44fqGH9E-UBnK0hh2hFBo8yb5cjxEy6lOnJZjCzRVJHIkxv1SqoZdVQLHOmIxojqQfwt8hZm_csdixXGeAWP8xmrSDGFgN-ej3bxJhDDMJ-VPs2AROh2MJS9uGiyZzol7Y-Y1YlFpfhsE2l9kFZhiJ0261FqRjD3Cop",
+               "width" : 1404
+            }
+         ],
+         "place_id" : "ChIJaatSr7jS1IkRN7fXOuVtFys",
+         "plus_code" : {
+            "compound_code" : "QJ9P+GW Toronto, Ontario",
+            "global_code" : "87M2QJ9P+GW"
+         },
+         "rating" : 2.9,
+         "reference" : "ChIJaatSr7jS1IkRN7fXOuVtFys",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1180
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3001 Hospital Gate, Oakville, ON L6M 0L8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4503525,
+               "lng" : -79.7647379
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.45206302989273,
+                  "lng" : -79.76321127010728
+               },
+               "southwest" : {
+                  "lat" : 43.44936337010729,
+                  "lng" : -79.76591092989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Oakville Trafalgar Memorial Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 2268,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115400083464630236391\"\u003eKrishna Mohan\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKiTJicC8-Mdd2Ka_Fvctjzs-r8hcVMLp2xvIcZ506QtHU6kHUlABy-2mDLMFefIVhmtzbcKeHgJpTgfkUTlVwaRuGkqF1KIsQSt_aVXK2vl7UtepcA_x39fx6Az1CsGclrP029kD9NEZOiIS4QXFHSdHduOzkiMOE5NIW40OCl_2Am",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJrSXDN6JnK4gR_Z2rizri6Ug",
+         "plus_code" : {
+            "compound_code" : "F62P+44 Oakville, Ontario",
+            "global_code" : "87M2F62P+44"
+         },
+         "rating" : 3,
+         "reference" : "ChIJrSXDN6JnK4gR_Z2rizri6Ug",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 901
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "725 Bronte St. S, Milton, ON L9T 9K1, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.4971482,
+               "lng" : -79.8684981
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4989968,
+                  "lng" : -79.86761664999999
+               },
+               "southwest" : {
+                  "lat" : 43.4957852,
+                  "lng" : -79.87114244999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Milton District Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114753597600802093807\"\u003eJoel Mathew\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKX_ThbR6J9axdtT7F1qYKG1SiqoWjjyn2HsAth9k4rv7CYxp22ka5NAGvbJDudWngfaswZ--y3h7eVhTRXUUaT8txG5ErdtXFEV5gABWksE5wEwQVKUuMwPL9LdbZAPqt2UuSHzg9ht6oLzB_iCOiwDFcV5Yt1IOOGlGtKFoW8HZ6R",
+               "width" : 3024
+            }
+         ],
+         "place_id" : "ChIJk3uGqP9vK4gRQBrXWX8hiy8",
+         "plus_code" : {
+            "compound_code" : "F4WJ+VJ Milton, Ontario",
+            "global_code" : "87M2F4WJ+VJ"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJk3uGqP9vK4gRQBrXWX8hiy8",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 495
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "36 Queen St E, Toronto, ON M5B 1W8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6536645,
+               "lng" : -79.3778341
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65454772989273,
+                  "lng" : -79.37645967010728
+               },
+               "southwest" : {
+                  "lat" : 43.65184807010728,
+                  "lng" : -79.37915932989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "St. Michael's Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114146936200095763256\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLtPQ_ymUxt6PhMk9A3zycCl5d7D-wxxg7h7pEvxrZwqqSjsFor_SB23Ch4Xc0LOOgIM70ibDOqvEkA6pWYRVl6KM_Qx0rz79_tuwPig-D9MirejVmibCJzvqU2ux1kWMk3U3fcyq-47U0YuUOaAzV2DG_tppTxQmkTOAWvZlCG10q6",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJa7eaiE7L1IkR7Af49lkKDLI",
+         "plus_code" : {
+            "compound_code" : "MJ3C+FV Toronto, Ontario",
+            "global_code" : "87M2MJ3C+FV"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJa7eaiE7L1IkR7Af49lkKDLI",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 666
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3030 Birchmount Rd, Scarborough, ON M1W 3W3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.8017859,
+               "lng" : -79.30893689999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.80328237989273,
+                  "lng" : -79.30719492010726
+               },
+               "southwest" : {
+                  "lat" : 43.80058272010729,
+                  "lng" : -79.30989457989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Scarborough Health Network - Birchmount Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102246995581096752176\"\u003eKopi Maheswaran\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKHuStc7cI7r_-f2yq-v1eQQ44Kfi_I2JRPY9-hMfspEweUliSyLNTi_dbnptyJ2bhkP4kOwzg0o_73mWSylBFvvYLYingTahfLCM3Nod-1zxTYmwqDNzN0yE4AoX3eoKkKf6vPFbF3w5IAgktK_9SZhVAhFVYRERKvYu4eS6HEOKXJ",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJRRH058HT1IkRYwHqbfQCIzM",
+         "plus_code" : {
+            "compound_code" : "RM2R+PC Scarborough, Toronto, ON",
+            "global_code" : "87M2RM2R+PC"
+         },
+         "rating" : 2.5,
+         "reference" : "ChIJRRH058HT1IkRYwHqbfQCIzM",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 521
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "101 College St, Toronto, ON M5G 1L7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6598777,
+               "lng" : -79.38761810000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66110967989272,
+                  "lng" : -79.38598232010729
+               },
+               "southwest" : {
+                  "lat" : 43.65841002010728,
+                  "lng" : -79.38868197989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "University Health Network",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePako Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcL-bvLQNHeARk6hf47Ss18yYBUg23DdZF4wmZOys2f4GVMjKGNFrkyLi8twjaHbOTagFuy9BWC4pEMKHjz_Ukcr22G3Ht6g-jug-xt4RQeCiuZbnKQ5GuUcHBNdJ15wvhWaPROdAAzZCLJOVrfR5a9M9EgvgS68iTQzSncBHB3Zr9qZ",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJHfpa8ck0K4gRKy1Du0VusV8",
+         "plus_code" : {
+            "compound_code" : "MJ56+XX Toronto, Ontario",
+            "global_code" : "87M2MJ56+XX"
+         },
+         "rating" : 4,
+         "reference" : "ChIJHfpa8ck0K4gRKy1Du0VusV8",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "600 University Ave, Toronto, ON M5G 1X5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6574165,
+               "lng" : -79.39033789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65879492989272,
+                  "lng" : -79.38899447010726
+               },
+               "southwest" : {
+                  "lat" : 43.65609527010727,
+                  "lng" : -79.39169412989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Mount Sinai Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePako Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcIRagUi3lFIh2eazNjw3lxF332bmAw3SbLsGG_cHmqview6YGKvHvky_4CXPYJF3MVJ7K5Ae8aIIA1fpT-c-eaj2AQoyl7tF4OSJPNItQZO6um0wdSw74kKupLv9LksYl_GORhMRqVnMh2ScKrnbmcykshmQ98WAyUaof25HwgwXdXQ",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJ2_HZWsg0K4gR6Ifmv4w7Yi0",
+         "plus_code" : {
+            "compound_code" : "MJ45+XV Toronto, Ontario",
+            "global_code" : "87M2MJ45+XV"
+         },
+         "rating" : 3.7,
+         "reference" : "ChIJ2_HZWsg0K4gR6Ifmv4w7Yi0",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 687
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "76 Grenville St, Toronto, ON M5S 1B2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6617722,
+               "lng" : -79.38729119999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.66307222989272,
+                  "lng" : -79.38617827010728
+               },
+               "southwest" : {
+                  "lat" : 43.66037257010727,
+                  "lng" : -79.38887792989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Women's College Hospital",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1984,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117825108323674324622\"\u003eEric Huang\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI6ske2W7LbVkdXoGmZWVeVrCbHUTTz-u_jwzocpRzE8yt82U9hpdd6cDETxYKn1QISHSEi-9owClhtT3_G9-yNzEorHgcqPViz9VRTnaN5EWzcxwi9ghI2sJ0T0sFvkLZ5KjjCULE7T6oYqJnr3XN8Qxgtk1T4MFpYTslf_w1cNrrE",
+               "width" : 3968
+            }
+         ],
+         "place_id" : "ChIJR3cCgbY0K4gRA-O9CDAr79I",
+         "plus_code" : {
+            "compound_code" : "MJ67+P3 Toronto, Ontario",
+            "global_code" : "87M2MJ67+P3"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJR3cCgbY0K4gRA-O9CDAr79I",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 368
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2075 Bayview Ave, Toronto, ON M4N 3M5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7228493,
+               "lng" : -79.3729462
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72427827989272,
+                  "lng" : -79.37173432010727
+               },
+               "southwest" : {
+                  "lat" : 43.72157862010728,
+                  "lng" : -79.37443397989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Sunnybrook Health Sciences Centre",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1196,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115350519230469032728\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcI9UxB0-kdFpZAnleIpntnnO_DL00U6jrszzhWHJP_JEhaAcr4BLpAdppJOBYCUKozezC04rkxDw1HSHWI4i_Kj4gKA_6k9Kj8mSRZO3Ji7nxP5eT-DjohK8C_nz_NP6_9CMN54IOVb7TCV3IXcBpLpg582y4m30RmFr4xw4vpDyJkT",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJRbT46izN1IkRNfWq__SmUsc",
+         "plus_code" : {
+            "compound_code" : "PJFG+4R Toronto, Ontario",
+            "global_code" : "87M2PJFG+4R"
+         },
+         "rating" : 3.3,
+         "reference" : "ChIJRbT46izN1IkRNfWq__SmUsc",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 910
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "Toronto, ON M3M 3G8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7235011,
+               "lng" : -79.48925199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.72475022989272,
+                  "lng" : -79.48785682010727
+               },
+               "southwest" : {
+                  "lat" : 43.72205057010728,
+                  "lng" : -79.49055647989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Booth Centennial",
+         "place_id" : "ChIJ266RsXUxK4gRQ1deHeysQO8",
+         "plus_code" : {
+            "compound_code" : "PGF6+C7 Toronto, Ontario",
+            "global_code" : "87M2PGF6+C7"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ266RsXUxK4gRQ1deHeysQO8",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "2867 Ellesmere Rd, Scarborough, ON M1E 4B9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.7806845,
+               "lng" : -79.2043704
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.78212162989273,
+                  "lng" : -79.20337667010728
+               },
+               "southwest" : {
+                  "lat" : 43.77942197010728,
+                  "lng" : -79.20607632989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Scarborough Health Network - Centenary hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1170,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113984784694071667170\"\u003eElton\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKTqH8jMe136OXJN740MMVzqGrFyEItP8eUQf8DZcyzVogiX6VE9M5pQmEEV1jKx6-_bWfsm3G8AXYGQQ0HLjeb528bRF0xaoncdJBO4-MD2kqlB_ZMK6QxtS1X61mYZRIVgt015uwSYFDvGSwqVkztz6UKu8Q8HnikRufg3C_HqGK3",
+               "width" : 2080
+            }
+         ],
+         "place_id" : "ChIJv05c64PQ1IkR2w_R3NQP7eA",
+         "plus_code" : {
+            "compound_code" : "QQJW+77 Scarborough, Toronto, ON",
+            "global_code" : "87M2QQJW+77"
+         },
+         "rating" : 2.4,
+         "reference" : "ChIJv05c64PQ1IkR2w_R3NQP7eA",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 784
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "3355 Hurontario St, Mississauga, ON L5A 4E7, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.58774349999999,
+               "lng" : -79.62555879999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.58904992989272,
+                  "lng" : -79.62434812010727
+               },
+               "southwest" : {
+                  "lat" : 43.58635027010727,
+                  "lng" : -79.62704777989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Fairview Medical Centre Walk In & Family Practice",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105625324639728158143\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKK0-69BJtRGzqBPtG5y6muY4b-71Lar42VRlTiOJjAQ3IgfM7K37CQZDpT6iSxZX9HMZs-hXDcv-E4-XgdgTnnrlXdKgwP9U9LQEk0h9RNVmp3M6FjjHF1H3UypR7xke1LCVGDUXWOvuIKzqjftyBi3iYZQLBnOK7QsTtmFd0FbPmk",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJMxBdvrJHK4gRTFkVGE2IIFg",
+         "plus_code" : {
+            "compound_code" : "H9QF+3Q Mississauga, Ontario",
+            "global_code" : "87M2H9QF+3Q"
+         },
+         "rating" : 4.6,
+         "reference" : "ChIJMxBdvrJHK4gRTFkVGE2IIFg",
+         "types" : [ "hospital", "doctor", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 13
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "60 Murray St, Toronto, ON M5T 3L9, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.65803409999999,
+               "lng" : -79.3916993
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65944382989272,
+                  "lng" : -79.39015182010728
+               },
+               "southwest" : {
+                  "lat" : 43.65674417010727,
+                  "lng" : -79.39285147989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Mount Sinai Hospital",
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114118451392288609524\"\u003ePako Valera\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcJiaOAiyEkARSUvHt-M1UsmzLziLVSU_37PVjfZXYQc1-hH-UHd0QMG03YztEuX2OPubtLAGBYvUAUCE9panQ5r7SPvp7mfPTGv2MCFZozdi1XzzLy-Z3g-qAC6CzC8GbF4xMFMhWYEAqUPJP_5tQJpOE397nVBCfWEWImv79w5VX2y",
+               "width" : 4896
+            }
+         ],
+         "place_id" : "ChIJcbfJ2Mc0K4gRu4UQcZkRmgc",
+         "plus_code" : {
+            "compound_code" : "MJ55+68 Toronto, Ontario",
+            "global_code" : "87M2MJ55+68"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJcbfJ2Mc0K4gRu4UQcZkRmgc",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "600 University Ave, Toronto, ON M5G 1X5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6575439,
+               "lng" : -79.3900848
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.65892052989273,
+                  "lng" : -79.38851982010726
+               },
+               "southwest" : {
+                  "lat" : 43.65622087010728,
+                  "lng" : -79.39121947989271
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "HMC Canada",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "place_id" : "ChIJ7xX_W001K4gRytRAqYEqRww",
+         "plus_code" : {
+            "compound_code" : "MJ55+2X Toronto, Ontario",
+            "global_code" : "87M2MJ55+2X"
+         },
+         "rating" : 0,
+         "reference" : "ChIJ7xX_W001K4gRytRAqYEqRww",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "30 The Queensway, Toronto, ON M6R 1B5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6396857,
+               "lng" : -79.4506703
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.64089012989272,
+                  "lng" : -79.44900862010728
+               },
+               "southwest" : {
+                  "lat" : 43.63819047010728,
+                  "lng" : -79.45170827989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "St Joseph's Ambulatory Care",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "place_id" : "ChIJdd2J0sk1K4gRRfgFL71A_do",
+         "plus_code" : {
+            "compound_code" : "JGQX+VP Toronto, Ontario",
+            "global_code" : "87M2JGQX+VP"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJdd2J0sk1K4gRRfgFL71A_do",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 60
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "523 The Queensway, Etobicoke, ON M8Y 1J6, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.6286077,
+               "lng" : -79.49100279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62985007989272,
+                  "lng" : -79.48963662010728
+               },
+               "southwest" : {
+                  "lat" : 43.62715042010727,
+                  "lng" : -79.49233627989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Fogaszat",
+         "place_id" : "ChIJFXSRDAE3K4gRvlUYu3cfBNo",
+         "plus_code" : {
+            "compound_code" : "JGH5+CH Etobicoke, Toronto, ON",
+            "global_code" : "87M2JGH5+CH"
+         },
+         "rating" : 0,
+         "reference" : "ChIJFXSRDAE3K4gRvlUYu3cfBNo",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 0
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "1245 Lakeshore Rd., Burlington, ON L7S 0A2, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.31687280000001,
+               "lng" : -79.802229
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.31782727989273,
+                  "lng" : -79.80071987010727
+               },
+               "southwest" : {
+                  "lat" : 43.31512762010728,
+                  "lng" : -79.80341952989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Joseph Brant Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 766,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103647387225584278429\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcLcOmN5mMno1DguHCbSxbj6TO109MO94pP8I7wgigVzeuK_rGzuaRC5eudHm9MY2-N3G0LYeGHQPAoOAu2D2HYulf0PrxoOztHPjuTvuWfTO0gvDnmuHZSD5d0_2dKEEE5f4iO9iiW70KciEuQfk1d0O-ikohkxCR278UL5B1dMyP-K",
+               "width" : 1200
+            }
+         ],
+         "place_id" : "ChIJ0wzWdT-eLIgR9JVo235KnCk",
+         "plus_code" : {
+            "compound_code" : "858X+P4 Burlington, Ontario",
+            "global_code" : "87M2858X+P4"
+         },
+         "rating" : 3,
+         "reference" : "ChIJ0wzWdT-eLIgR9JVo235KnCk",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 482
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "381 Church St, Markham, ON L3P 7P3, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.883684,
+               "lng" : -79.23250709999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.88503707989272,
+                  "lng" : -79.23094567010727
+               },
+               "southwest" : {
+                  "lat" : 43.88233742010728,
+                  "lng" : -79.23364532989272
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Markham Stouffville Hospital",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 903,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115817774952617487758\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "Aaw_FcKtFOtyhS8r-n9yBoOsodV2X7N2lHtu_X9Ix_rlJzuX9QWsvAj1zFqtcRyjy1I50BdhfwcTR_1j18FILJduBbgXq7hyd6_ZOjyf45pRy2Njs1sSxF0Bsfmc_52GPcTnKTfluz-6E7ALBFt9lv2ffgGJKJZRlVjYEiUC_rFZriUfSEi-",
+               "width" : 1358
+            }
+         ],
+         "place_id" : "ChIJb_QUPtjX1IkRyzZNxVKvv8w",
+         "plus_code" : {
+            "compound_code" : "VQM8+FX Markham, Ontario",
+            "global_code" : "87M2VQM8+FX"
+         },
+         "rating" : 3.2,
+         "reference" : "ChIJb_QUPtjX1IkRyzZNxVKvv8w",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 818
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "formatted_address" : "st s 1k8, 128 Queen St S, Mississauga, ON L5M 1K8, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 43.5824915,
+               "lng" : -79.71754659999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.58400592989272,
+                  "lng" : -79.71618567010728
+               },
+               "southwest" : {
+                  "lat" : 43.58130627010728,
+                  "lng" : -79.71888532989273
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/v1/png_71/hospital-71.png",
+         "icon_background_color" : "#F88181",
+         "icon_mask_base_uri" : "https://maps.gstatic.com/mapfiles/place_api/icons/v2/hospital-H_pinlet",
+         "name" : "Dr. KARINA",
+         "place_id" : "ChIJPcrXgbhBK4gRbWJ2pMqx4-w",
+         "plus_code" : {
+            "compound_code" : "H7JJ+XX Mississauga, Ontario",
+            "global_code" : "87M2H7JJ+XX"
+         },
+         "rating" : 2.8,
+         "reference" : "ChIJPcrXgbhBK4gRbWJ2pMqx4-w",
+         "types" : [ "hospital", "health", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 12
+      }
+   ],
+   "status" : "OK"
+}
